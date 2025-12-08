@@ -1,0 +1,11 @@
+https://www.cse.lk/api/tradeSummary
+https://www.cse.lk/api/todaySharePrice
+https://www.cse.lk/api/topGainers
+https://www.cse.lk/api/topLooses
+https://www.cse.lk/api/mostActiveTrades
+https://www.cse.lk/api/marketSummery
+https://www.cse.lk/api/aspiData
+https://www.cse.lk/api/snpData
+https://www.cse.lk/api/allSectors
+https://www.cse.lk/api/detailedTrades
+https://www.cse.lk/api/dailyMarketSummery
