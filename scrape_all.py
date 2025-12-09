@@ -18,9 +18,10 @@ def get_api_endpoints(file_path):
     return endpoints
 
 def fetch_and_save_all(endpoints, output_dir):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
     date_str = datetime.now().strftime('%Y-%m-%d')
+    dated_dir = os.path.join(output_dir, date_str)
+    if not os.path.exists(dated_dir):
+        os.makedirs(dated_dir)
     for url in endpoints:
         try:
             response = requests.post(url)
@@ -31,7 +32,7 @@ def fetch_and_save_all(endpoints, output_dir):
         # Create a safe filename from the endpoint
         endpoint_name = url.split('/')[-1] or url.split('/')[-2]
         filename = f'{endpoint_name}_{date_str}.json'
-        filepath = os.path.join(output_dir, filename)
+        filepath = os.path.join(dated_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f'Saved: {filepath}')
