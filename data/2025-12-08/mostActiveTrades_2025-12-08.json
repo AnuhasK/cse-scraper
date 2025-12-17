@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52691775,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 1532.0,
+    "shareVolume": 1184403.0,
+    "turnover": 163368227.0,
+    "percentageShareVolume": 12.298387096774194
+  },
+  {
+    "id": 52691771,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1289.0,
+    "shareVolume": 733302.0,
+    "turnover": 102054595.0,
+    "percentageShareVolume": 0.7285974499089253
+  },
+  {
+    "id": 52691804,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 948.0,
+    "shareVolume": 2594143.0,
+    "turnover": 54321515.1,
+    "percentageShareVolume": -0.9523809523809523
+  },
+  {
+    "id": 52691733,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 772.0,
+    "shareVolume": 366715.0,
+    "turnover": 71203308.75,
+    "percentageShareVolume": -0.5154639175257731
+  },
+  {
+    "id": 52691788,
+    "securityId": 2065,
+    "symbol": "AEL.N0000",
+    "tradeVolume": 678.0,
+    "shareVolume": 1526553.0,
+    "turnover": 111129406.7,
+    "percentageShareVolume": 1.1235955056179776
+  },
+  {
+    "id": 52691512,
+    "securityId": 239,
+    "symbol": "DFCC.N0000",
+    "tradeVolume": 490.0,
+    "shareVolume": 330152.0,
+    "turnover": 48640128.5,
+    "percentageShareVolume": 1.0344827586206897
+  },
+  {
+    "id": 52691628,
+    "securityId": 172,
+    "symbol": "HNB.N0000",
+    "tradeVolume": 480.0,
+    "shareVolume": 481693.0,
+    "turnover": 185833700.75,
+    "percentageShareVolume": -0.5171299288946348
+  },
+  {
+    "id": 52691784,
+    "securityId": 322,
+    "symbol": "LFIN.N0000",
+    "tradeVolume": 443.0,
+    "shareVolume": 295378.0,
+    "turnover": 41499431.0,
+    "percentageShareVolume": -3.4482758620689653
+  },
+  {
+    "id": 52691583,
+    "securityId": 238,
+    "symbol": "SUN.N0000",
+    "tradeVolume": 415.0,
+    "shareVolume": 1193818.0,
+    "turnover": 37842514.4,
+    "percentageShareVolume": 0.31746031746031744
+  },
+  {
+    "id": 52691497,
+    "securityId": 1485,
+    "symbol": "RAL.N0000",
+    "tradeVolume": 403.0,
+    "shareVolume": 3927283.0,
+    "turnover": 34235080.2,
+    "percentageShareVolume": 4.705882352941177
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52797926,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 1.4,
+    "change": -0.1,
+    "changePercentage": -6.666666666666667,
+    "tradeDate": 1765444244000
+  },
+  {
+    "id": 52798034,
+    "securityId": 5353,
+    "symbol": "COOP.N0000",
+    "price": 4.2,
+    "change": -0.3,
+    "changePercentage": -6.666666666666667,
+    "tradeDate": 1765443782000
+  },
+  {
+    "id": 52776461,
+    "securityId": 5145,
+    "symbol": "AAF.P0000",
+    "price": 62.6,
+    "change": -4.3,
+    "changePercentage": -6.4275037369207775,
+    "tradeDate": 1765430107000
+  },
+  {
+    "id": 52797938,
+    "securityId": 5732,
+    "symbol": "UBF.N0000",
+    "price": 3.1,
+    "change": -0.2,
+    "changePercentage": -6.0606060606060606,
+    "tradeDate": 1765444023000
+  },
+  {
+    "id": 52794322,
+    "securityId": 3495,
+    "symbol": "BFN.N0000",
+    "price": 38.6,
+    "change": -2.4,
+    "changePercentage": -5.853658536585366,
+    "tradeDate": 1765441433000
+  },
+  {
+    "id": 52797611,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 141.25,
+    "change": -8.75,
+    "changePercentage": -5.833333333333333,
+    "tradeDate": 1765444405000
+  },
+  {
+    "id": 52796741,
+    "securityId": 388,
+    "symbol": "MASK.N0000",
+    "price": 83.0,
+    "change": -4.1,
+    "changePercentage": -4.70723306544202,
+    "tradeDate": 1765443539000
+  },
+  {
+    "id": 52794014,
+    "securityId": 482,
+    "symbol": "TANG.N0000",
+    "price": 125.0,
+    "change": -5.75,
+    "changePercentage": -4.397705544933078,
+    "tradeDate": 1765441127000
+  },
+  {
+    "id": 52796321,
+    "securityId": 385,
+    "symbol": "CFI.N0000",
+    "price": 445.0,
+    "change": -20.0,
+    "changePercentage": -4.301075268817204,
+    "tradeDate": 1765443375000
+  },
+  {
+    "id": 52792028,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 213.5,
+    "change": -9.25,
+    "changePercentage": -4.1526374859708195,
+    "tradeDate": 1765439579000
+  }
+]

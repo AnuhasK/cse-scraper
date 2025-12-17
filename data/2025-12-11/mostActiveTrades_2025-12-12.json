@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52798090,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 4683.0,
+    "shareVolume": 2000014.0,
+    "turnover": 476551920.0,
+    "percentageShareVolume": 7.949308755760368
+  },
+  {
+    "id": 52797956,
+    "securityId": 1724,
+    "symbol": "LGL.N0000",
+    "tradeVolume": 1400.0,
+    "shareVolume": 5753318.0,
+    "turnover": 422320376.7,
+    "percentageShareVolume": 9.30576070901034
+  },
+  {
+    "id": 52798017,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 901.0,
+    "shareVolume": 477315.0,
+    "turnover": 67794362.25,
+    "percentageShareVolume": -0.8741258741258742
+  },
+  {
+    "id": 52797980,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 888.0,
+    "shareVolume": 31608700.0,
+    "turnover": 661255074.3,
+    "percentageShareVolume": 0.4784688995215311
+  },
+  {
+    "id": 52798073,
+    "securityId": 238,
+    "symbol": "SUN.N0000",
+    "tradeVolume": 810.0,
+    "shareVolume": 18906616.0,
+    "turnover": 648463923.9,
+    "percentageShareVolume": 3.8348082595870205
+  },
+  {
+    "id": 52798049,
+    "securityId": 403,
+    "symbol": "EAST.N0000",
+    "tradeVolume": 671.0,
+    "shareVolume": 1523219.0,
+    "turnover": 103012442.2,
+    "percentageShareVolume": 6.451612903225806
+  },
+  {
+    "id": 52797848,
+    "securityId": 2065,
+    "symbol": "AEL.N0000",
+    "tradeVolume": 662.0,
+    "shareVolume": 1335834.0,
+    "turnover": 102105234.7,
+    "percentageShareVolume": -1.1703511053315996
+  },
+  {
+    "id": 52797909,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "tradeVolume": 613.0,
+    "shareVolume": 11289281.0,
+    "turnover": 107245129.1,
+    "percentageShareVolume": 1.098901098901099
+  },
+  {
+    "id": 52798078,
+    "securityId": 142,
+    "symbol": "SIRA.N0000",
+    "tradeVolume": 565.0,
+    "shareVolume": 2629905.0,
+    "turnover": 88792581.6,
+    "percentageShareVolume": -0.5899705014749262
+  },
+  {
+    "id": 52797975,
+    "securityId": 15,
+    "symbol": "TKYO.X0000",
+    "tradeVolume": 479.0,
+    "shareVolume": 1887509.0,
+    "turnover": 163408383.4,
+    "percentageShareVolume": -0.11641443538998836
+  }
+]
