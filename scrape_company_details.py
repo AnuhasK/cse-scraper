@@ -27,7 +27,7 @@ def fetch_and_save_company_details(symbols, output_dir):
     for i, symbol in enumerate(symbols):
         data = {'symbol': symbol}
         try:
-            resp = requests.post(BASE_URL + ENDPOINT, data=data, headers=headers, timeout=15)
+            resp = requests.post(BASE_URL + ENDPOINT, data=data, headers=headers)
             if resp.status_code != 200:
                 print(f"{symbol}: HTTP {resp.status_code}")
                 continue
@@ -45,7 +45,6 @@ def fetch_and_save_company_details(symbols, output_dir):
             print(f"{i+1}/{len(symbols)}: {symbol} OK")
         except Exception as e:
             print(f"{symbol}: error {e}")
-        time.sleep(0.5)
     if rows:
         from datetime import datetime
         date_str = datetime.now().strftime('%Y-%m-%d')
