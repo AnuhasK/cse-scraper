@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52916128,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 300.75,
+    "change": -44.75,
+    "changePercentage": -12.952243125904486,
+    "tradeDate": 1766048433000
+  },
+  {
+    "id": 52909588,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 135.25,
+    "change": -14.0,
+    "changePercentage": -9.380234505862646,
+    "tradeDate": 1766043585000
+  },
+  {
+    "id": 52915181,
+    "securityId": 6297,
+    "symbol": "CALC.U0000",
+    "price": 14.6,
+    "change": -1.0,
+    "changePercentage": -6.410256410256411,
+    "tradeDate": 1766047990000
+  },
+  {
+    "id": 52916456,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "price": 189.75,
+    "change": -12.0,
+    "changePercentage": -5.947955390334572,
+    "tradeDate": 1766048756000
+  },
+  {
+    "id": 52916281,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 165.0,
+    "change": -10.0,
+    "changePercentage": -5.714285714285714,
+    "tradeDate": 1766048828000
+  },
+  {
+    "id": 52914754,
+    "securityId": 701,
+    "symbol": "RHL.N0000",
+    "price": 44.5,
+    "change": -2.5,
+    "changePercentage": -5.319148936170213,
+    "tradeDate": 1766047552000
+  },
+  {
+    "id": 52906888,
+    "securityId": 1789,
+    "symbol": "SFCL.N0000",
+    "price": 1121.5,
+    "change": -62.0,
+    "changePercentage": -5.238698774820448,
+    "tradeDate": 1766039894000
+  },
+  {
+    "id": 52915413,
+    "securityId": 1971,
+    "symbol": "CITW.N0000",
+    "price": 2.0,
+    "change": -0.1,
+    "changePercentage": -4.761904761904762,
+    "tradeDate": 1766048863000
+  },
+  {
+    "id": 52914212,
+    "securityId": 103,
+    "symbol": "HOPL.N0000",
+    "price": 50.4,
+    "change": -2.4,
+    "changePercentage": -4.545454545454546,
+    "tradeDate": 1766047071000
+  },
+  {
+    "id": 52916025,
+    "securityId": 4562,
+    "symbol": "LPL.X0000",
+    "price": 10.4,
+    "change": -0.4,
+    "changePercentage": -3.7037037037037037,
+    "tradeDate": 1766048773000
+  }
+]

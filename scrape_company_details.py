@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
-import time
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE_URL = 'https://www.cse.lk/api/'
 ENDPOINT = 'companyInfoSummery'
@@ -24,13 +24,14 @@ def fetch_and_save_company_details(symbols, output_dir):
         'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive'
     }
-    for i, symbol in enumerate(symbols):
+
+    def fetch_symbol(symbol):
         data = {'symbol': symbol}
         try:
             resp = requests.post(BASE_URL + ENDPOINT, data=data, headers=headers)
             if resp.status_code != 200:
                 print(f"{symbol}: HTTP {resp.status_code}")
-                continue
+                return None
             info = resp.json()
             row = {'symbol': symbol}
             if 'reqSymbolInfo' in info and isinstance(info['reqSymbolInfo'], dict):
@@ -41,10 +42,19 @@ def fetch_and_save_company_details(symbols, output_dir):
             if 'reqSymbolBetaInfo' in info and isinstance(info['reqSymbolBetaInfo'], dict):
                 for k, v in info['reqSymbolBetaInfo'].items():
                     row['beta_' + k] = v
-            rows.append(row)
-            print(f"{i+1}/{len(symbols)}: {symbol} OK")
+            print(f"{symbol} OK")
+            return row
         except Exception as e:
             print(f"{symbol}: error {e}")
+            return None
+
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_symbol = {executor.submit(fetch_symbol, symbol): symbol for symbol in symbols}
+        for i, future in enumerate(as_completed(future_to_symbol)):
+            result = future.result()
+            if result:
+                rows.append(result)
+
     if rows:
         from datetime import datetime
         date_str = datetime.now().strftime('%Y-%m-%d')
