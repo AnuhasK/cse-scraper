@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52940522,
+    "securityId": 129,
+    "symbol": "DOCK.R0000",
+    "tradeVolume": 4186.0,
+    "shareVolume": 9129011.0,
+    "turnover": 787463415.35,
+    "percentageShareVolume": -49.98330550918197
+  },
+  {
+    "id": 52940527,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 2813.0,
+    "shareVolume": 1044779.0,
+    "turnover": 157183577.0,
+    "percentageShareVolume": -24.90118577075099
+  },
+  {
+    "id": 52940526,
+    "securityId": 5293,
+    "symbol": "CALT.N0000",
+    "tradeVolume": 1049.0,
+    "shareVolume": 793498.0,
+    "turnover": 50775462.2,
+    "percentageShareVolume": 0.6289308176100629
+  },
+  {
+    "id": 52940495,
+    "securityId": 325,
+    "symbol": "HHL.N0000",
+    "tradeVolume": 538.0,
+    "shareVolume": 15548770.0,
+    "turnover": 539216905.2,
+    "percentageShareVolume": -1.4164305949008498
+  },
+  {
+    "id": 52940402,
+    "securityId": 15,
+    "symbol": "TKYO.X0000",
+    "tradeVolume": 525.0,
+    "shareVolume": 2435050.0,
+    "turnover": 222625481.4,
+    "percentageShareVolume": 2.541436464088398
+  },
+  {
+    "id": 52940423,
+    "securityId": 411,
+    "symbol": "TKYO.N0000",
+    "tradeVolume": 488.0,
+    "shareVolume": 1476545.0,
+    "turnover": 165444698.75,
+    "percentageShareVolume": 1.8018018018018018
+  },
+  {
+    "id": 52940482,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 360.0,
+    "shareVolume": 202357.0,
+    "turnover": 28719678.5,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 52940510,
+    "securityId": 1485,
+    "symbol": "RAL.N0000",
+    "tradeVolume": 326.0,
+    "shareVolume": 3965704.0,
+    "turnover": 41347630.6,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 52940320,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 299.0,
+    "shareVolume": 6265011.0,
+    "turnover": 132173264.6,
+    "percentageShareVolume": -0.4716981132075472
+  },
+  {
+    "id": 52940492,
+    "securityId": 403,
+    "symbol": "EAST.N0000",
+    "tradeVolume": 283.0,
+    "shareVolume": 306248.0,
+    "turnover": 20903744.6,
+    "percentageShareVolume": 0.2962962962962963
+  }
+]

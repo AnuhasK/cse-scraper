@@ -1,0 +1,92 @@
+[
+  {
+    "id": 52940522,
+    "securityId": 129,
+    "symbol": "DOCK.R0000",
+    "price": 74.9,
+    "change": -74.85,
+    "changePercentage": -49.98330550918197,
+    "tradeDate": 1766134842000
+  },
+  {
+    "id": 52940527,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "price": 142.5,
+    "change": -47.25,
+    "changePercentage": -24.90118577075099,
+    "tradeDate": 1766135354000
+  },
+  {
+    "id": 52918662,
+    "securityId": 1595,
+    "symbol": "MAL.X0000",
+    "price": 38.6,
+    "change": -5.4,
+    "changePercentage": -12.272727272727273,
+    "tradeDate": 1766118726000
+  },
+  {
+    "id": 52937980,
+    "securityId": 306,
+    "symbol": "AUTO.N0000",
+    "price": 250.25,
+    "change": -31.75,
+    "changePercentage": -11.25886524822695,
+    "tradeDate": 1766133331000
+  },
+  {
+    "id": 52939831,
+    "securityId": 504,
+    "symbol": "PEG.N0000",
+    "price": 40.0,
+    "change": -2.7,
+    "changePercentage": -6.323185011709602,
+    "tradeDate": 1766134952000
+  },
+  {
+    "id": 52931175,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 225.75,
+    "change": -13.25,
+    "changePercentage": -5.543933054393306,
+    "tradeDate": 1766126939000
+  },
+  {
+    "id": 52940473,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "price": 8.0,
+    "change": -0.4,
+    "changePercentage": -4.761904761904762,
+    "tradeDate": 1766134964000
+  },
+  {
+    "id": 52937413,
+    "securityId": 384,
+    "symbol": "MULL.N0000",
+    "price": 2.1,
+    "change": -0.1,
+    "changePercentage": -4.545454545454546,
+    "tradeDate": 1766133000000
+  },
+  {
+    "id": 52937944,
+    "securityId": 492,
+    "symbol": "ONAL.N0000",
+    "price": 40.1,
+    "change": -1.9,
+    "changePercentage": -4.523809523809524,
+    "tradeDate": 1766133844000
+  },
+  {
+    "id": 52939837,
+    "securityId": 1522,
+    "symbol": "CTBL.N0000",
+    "price": 8.5,
+    "change": -0.4,
+    "changePercentage": -4.49438202247191,
+    "tradeDate": 1766135043000
+  }
+]
