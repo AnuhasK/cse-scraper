@@ -9,3 +9,8 @@ https://www.cse.lk/api/snpData
 https://www.cse.lk/api/allSectors
 https://www.cse.lk/api/detailedTrades
 https://www.cse.lk/api/dailyMarketSummery
+https://www.cse.lk/api/getContributors
+https://www.cse.lk/api/getContributorsChart
+https://www.cse.lk/api/sblBorrowingPool?security=ALL
+https://www.cse.lk/api/sblLendingPool?security=ALL
+

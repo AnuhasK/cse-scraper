@@ -1,0 +1,2334 @@
+{
+    "newListingRelatedAnnouncements": [
+        {
+            "id": 29320,
+            "announcementId": 35020,
+            "createdDate": "24 Dec 2025 04:24:51 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "WEALTHTRUST SECURITIES LIMITED - EQUITY IPO 2025 - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 29299,
+            "announcementId": 34996,
+            "createdDate": "24 Dec 2025 09:50:23 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "WEALTHTRUST SECURITIES LIMITED – INITIAL PUBLIC OFFERING "
+        },
+        {
+            "id": 29223,
+            "announcementId": 34916,
+            "createdDate": "18 Dec 2025 04:47:34 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASSETLINE FINANCE LIMITED (“COMPANY”) – ISSUANCE OF 50,000,000 LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE, 5-YEAR DEBENTURES\r\n"
+        },
+        {
+            "id": 29222,
+            "announcementId": 34914,
+            "createdDate": "18 Dec 2025 04:46:30 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HATTON NATIONAL BANK PLC (“BANK”) – ISSUANCE OF 100,000,000 LISTED, RATED, UNSECURED, REDEEMABLE, SENIOR SUSTAINABLE BONDS"
+        },
+        {
+            "id": 29201,
+            "announcementId": 34874,
+            "createdDate": "17 Dec 2025 09:24:19 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "WEALTHTRUST SECURITIES LIMITED – INITIAL PUBLIC OFFERING "
+        },
+        {
+            "id": 29198,
+            "announcementId": 34872,
+            "createdDate": "16 Dec 2025 04:45:03 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC FINANCE PLC (“COMPANY”) – ISSUANCE OF 150,000,000 LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE FIVE-YEAR DEBENTURES 2025"
+        },
+        {
+            "id": 29176,
+            "announcementId": 34849,
+            "createdDate": "15 Dec 2025 03:13:38 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "BANK OF CEYLON (“BANK”) – BASEL III COMPLIANT TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE 5-YEAR (2025/30) SUSTAINABILITY BONDS WITH NON-VIABILITY WRITE-DOWN FEATURES"
+        },
+        {
+            "id": 29146,
+            "announcementId": 34805,
+            "createdDate": "12 Dec 2025 12:21:36 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASSETLINE FINANCE LIMITED-DEBENTURE ISSUE 2025-BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 29145,
+            "announcementId": 34804,
+            "createdDate": "12 Dec 2025 12:20:33 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASSETLINE FINANCE LIMITED-DEBENTURE ISSUE 2025-FINAL FIGURES"
+        },
+        {
+            "id": 29119,
+            "announcementId": 34771,
+            "createdDate": "10 Dec 2025 04:36:01 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LIMITED (“COMPANY”) – ISSUANCE OF 15,000,000 LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE, DEBENTURES"
+        },
+        {
+            "id": 29107,
+            "announcementId": 34754,
+            "createdDate": "09 Dec 2025 08:01:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASSETLINE FINANCE LIMITED-DEBENTURE ISSUE 2025"
+        },
+        {
+            "id": 29058,
+            "announcementId": 34680,
+            "createdDate": "05 Dec 2025 01:54:44 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 29029,
+            "announcementId": 34645,
+            "createdDate": "03 Dec 2025 09:55:04 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - NUMBER OF APPLICATIONS"
+        },
+        {
+            "id": 29017,
+            "announcementId": 34627,
+            "createdDate": "02 Dec 2025 12:46:28 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HATTON NATIONAL BANK PLC (“BANK”) – ISSUANCE OF 100,000,000 LISTED, RATED, UNSECURED, REDEEMABLE, SENIOR SUSTAINABLE BONDS"
+        },
+        {
+            "id": 29008,
+            "announcementId": 34614,
+            "createdDate": "01 Dec 2025 10:39:36 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASSETLINE FINANCE LIMITED (“COMPANY”) –LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE, 5-YEAR DEBENTURES"
+        },
+        {
+            "id": 28958,
+            "announcementId": 34558,
+            "createdDate": "27 Nov 2025 09:02:06 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "INSUREME INSURANCE BROKERS LIMITED (“COMPANY”) – LISTING VIA INTRODUCTION ON THE EMPOWER BOARD"
+        },
+        {
+            "id": 28957,
+            "announcementId": 34559,
+            "createdDate": "27 Nov 2025 08:59:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION"
+        },
+        {
+            "id": 28944,
+            "announcementId": 34544,
+            "createdDate": "27 Nov 2025 04:16:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION\r\n"
+        },
+        {
+            "id": 28936,
+            "announcementId": 34525,
+            "createdDate": "26 Nov 2025 10:26:19 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC FINANCE PLC (“COMPANY”) – ISSUANCE OF 150,000,000 LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE FIVE-YEAR DEBENTURES 2025"
+        },
+        {
+            "id": 28934,
+            "announcementId": 34524,
+            "createdDate": "26 Nov 2025 04:02:17 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION"
+        },
+        {
+            "id": 28914,
+            "announcementId": 34505,
+            "createdDate": "25 Nov 2025 05:25:05 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DFCC BANK PLC (“BANK”) – LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE 3-5-YEAR BLUE BONDS "
+        },
+        {
+            "id": 28910,
+            "announcementId": 34501,
+            "createdDate": "25 Nov 2025 04:59:19 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "INSUREME INSURANCE BROKERS LIMITED (“COMPANY”) – LISTING VIA INTRODUCTION ON THE EMPOWER BOARD"
+        },
+        {
+            "id": 28902,
+            "announcementId": 34487,
+            "createdDate": "25 Nov 2025 12:43:22 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LIMITED- DEBT IPO 2025 - LEVEL OF SUBSCRIPTION"
+        },
+        {
+            "id": 28891,
+            "announcementId": 34477,
+            "createdDate": "24 Nov 2025 03:04:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION\r\n"
+        },
+        {
+            "id": 28887,
+            "announcementId": 34468,
+            "createdDate": "24 Nov 2025 11:06:55 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "WEALTHTRUST SECURITIES LIMITED (‘COMPANY’) - INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA AN OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 28878,
+            "announcementId": 34454,
+            "createdDate": "21 Nov 2025 03:45:29 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION"
+        },
+        {
+            "id": 28868,
+            "announcementId": 34443,
+            "createdDate": "20 Nov 2025 05:21:55 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LTD - DEBT IPO 2025 - LEVEL OF SUBSCRIPTION"
+        },
+        {
+            "id": 28846,
+            "announcementId": 34415,
+            "createdDate": "19 Nov 2025 02:12:46 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LIMITED (“COMPANY”) – AN INITIAL ISSUE OF LISTED RATED UNSECURED SUBORDINATED REDEEMABLE DEBENTURES 2025-2030 "
+        },
+        {
+            "id": 28821,
+            "announcementId": 34389,
+            "createdDate": "18 Nov 2025 08:39:13 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "JF PACKAGING LIMITED (“COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 28744,
+            "announcementId": 34296,
+            "createdDate": "10 Nov 2025 05:29:13 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "JF Packaging Limited - Equity IPO 2025 - Basis of allotment\r\n"
+        },
+        {
+            "id": 28736,
+            "announcementId": 34291,
+            "createdDate": "10 Nov 2025 03:50:33 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CBC FINANCE LIMITED (“COMPANY”) – ISSUANCE OF 15,000,000 LISTED RATED UNSECURED SUBORDINATED REDEEMABLE DEBENTURES"
+        },
+        {
+            "id": 28731,
+            "announcementId": 34278,
+            "createdDate": "07 Nov 2025 07:23:11 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DFCC BANK PLC (“BANK”) – LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE BLUE BONDS"
+        },
+        {
+            "id": 28708,
+            "announcementId": 34256,
+            "createdDate": "06 Nov 2025 04:45:01 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "JF PACKAGING LIMITED - INITIAL PUBLIC OFFER 2025-FINAL FIGURES"
+        },
+        {
+            "id": 28627,
+            "announcementId": 34146,
+            "createdDate": "30 Oct 2025 09:21:45 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "JF PACKAGING LIMITED- INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 28615,
+            "announcementId": 34133,
+            "createdDate": "29 Oct 2025 03:39:50 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE PLC (“COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, \r\nSUBORDINATED, REDEEMABLE, HIGH YIELD, SUSTAINABLE BONDS "
+        },
+        {
+            "id": 28588,
+            "announcementId": 34100,
+            "createdDate": "28 Oct 2025 09:10:04 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LCB FINANCE PLC (“COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE HIGH YIELD BONDS"
+        },
+        {
+            "id": 28331,
+            "announcementId": 33783,
+            "createdDate": "08 Oct 2025 08:55:58 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL HOLDINGS PLC (“COMPANY”) – LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE DEBENTURES"
+        },
+        {
+            "id": 28151,
+            "announcementId": 33577,
+            "createdDate": "26 Sep 2025 05:55:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE PLC (“COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, \r\nSUBORDINATED, REDEEMABLE, HIGH YIELD, SUSTAINABLE BONDS"
+        },
+        {
+            "id": 27987,
+            "announcementId": 33350,
+            "createdDate": "17 Sep 2025 09:12:14 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL HOLDINGS PLC (“COMPANY”) – LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE\r\nFIVE-YEAR DEBENTURES"
+        },
+        {
+            "id": 27928,
+            "announcementId": 33291,
+            "createdDate": "12 Sep 2025 02:59:55 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LCB FINANCE PLC (“COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE HIGH YIELD BONDS"
+        },
+        {
+            "id": 27798,
+            "announcementId": 33154,
+            "createdDate": "04 Sep 2025 04:59:47 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ALLIANCE FINANCE COMPANY PLC (“COMPANY”) – LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE \r\nSOCIAL 4-5 YEAR BONDS"
+        },
+        {
+            "id": 27392,
+            "announcementId": 32663,
+            "createdDate": "18 Aug 2025 05:07:30 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "COMMERCIAL BANK OF CEYLON PLC (“BANK”) – BASEL III COMPLIANT, TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE, GREEN BONDS ISSUE WITH A NON-VIABILITY CONVERSION FEATURE"
+        },
+        {
+            "id": 27306,
+            "announcementId": 32553,
+            "createdDate": "12 Aug 2025 02:27:05 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FURTHER ANNOUNCEMENT : ALLIANCE FINANCE COMPANY PLC (“THE COMPANY”) – LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE SOCIAL 4-5 YEAR BONDS\r\n"
+        },
+        {
+            "id": 27302,
+            "announcementId": 32548,
+            "createdDate": "12 Aug 2025 09:03:03 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ALLIANCE FINANCE COMPANY PLC (“THE COMPANY”) – LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE SOCIAL 4-5 YEAR BONDS"
+        },
+        {
+            "id": 27113,
+            "announcementId": 32308,
+            "createdDate": "28 Jul 2025 04:42:43 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "COMMERCIAL BANK OF CEYLON PLC (“THE BANK”) – BASEL III COMPLIANT, TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE, GREEN BONDS ISSUE WITH A NON-VIABILITY CONVERSION FEATURE.\r\n\r\n"
+        },
+        {
+            "id": 27094,
+            "announcementId": 32281,
+            "createdDate": "28 Jul 2025 08:56:55 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SEYLAN BANK PLC (“THE BANK”) – BASEL III COMPLIANT CONVERTIBLE DEBENTURE ISSUE 2025."
+        },
+        {
+            "id": 26978,
+            "announcementId": 32129,
+            "createdDate": "16 Jul 2025 04:39:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "INITIAL PUBLIC OFFERING (IPO) OF LTL HOLDINGS LIMITED(LTLH/COMPANY)"
+        },
+        {
+            "id": 26903,
+            "announcementId": 32026,
+            "createdDate": "09 Jul 2025 10:39:44 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "RESUS ENERGY PLC (“COMPANY”) – ISSUANCE OF LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE GREEN 4 & 5-YEAR BONDS"
+        },
+        {
+            "id": 26836,
+            "announcementId": 31930,
+            "createdDate": "03 Jul 2025 05:12:35 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "VIDULLANKA PLC (“COMPANY”) – ISSUANCE OF 5,000,000 SUKUK (SHARIAH COMPLIANT DEBT SECURITIES)"
+        },
+        {
+            "id": 26828,
+            "announcementId": 31923,
+            "createdDate": "03 Jul 2025 03:49:47 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SEYLAN BANK PLC (“THE BANK”) – BASEL III COMPLIANT, TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE DEBENTURE ISSUE WITH A NON-VIABILITY"
+        },
+        {
+            "id": 26801,
+            "announcementId": 31885,
+            "createdDate": "02 Jul 2025 11:52:03 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SIYAPATHA FINANCE PLC (“COMPANY”) – ISSUANCE OF 50,000,000 LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE DEBENTURES - 2025"
+        },
+        {
+            "id": 26543,
+            "announcementId": 31574,
+            "createdDate": "17 Jun 2025 05:04:06 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "RESUS ENERGY PLC (“THE COMPANY”) – LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE GREEN\r\n4 & 5-YEAR BONDS"
+        },
+        {
+            "id": 26500,
+            "announcementId": 31514,
+            "createdDate": "12 Jun 2025 04:21:54 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SIYAPATHA FINANCE PLC (“COMPANY”) – ISSUANCE OF 50,000,000 LISTED, RATED, SENIOR, UNSECURED REDEEMABLE DEBENTURES"
+        },
+        {
+            "id": 26299,
+            "announcementId": 31267,
+            "createdDate": "03 Jun 2025 05:01:27 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MERCHANT BANK OF SRI LANKA & FINANCE PLC (“COMPANY”) – ISSUANCE OF 10,000,000 UNSECURED, SUBORDINATED, REDEEMABLE, LISTED, RATED DEBENTURES - 2025"
+        },
+        {
+            "id": 26297,
+            "announcementId": 31262,
+            "createdDate": "03 Jun 2025 04:23:49 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "VIDULLANKA PLC (“COMPANY”) – ISSUANCE OF 5,000,000 SUKUK (SHARIAH COMPLIANT DEBT SECURITIES)"
+        },
+        {
+            "id": 26224,
+            "announcementId": 31170,
+            "createdDate": "30 May 2025 05:13:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "BANK OF CEYLON (“BANK”) – BASEL III COMPLIANT DEBENTURE ISSUE WITH NON-VIABILITY WRITE DOWN FEATURES\t"
+        },
+        {
+            "id": 26147,
+            "announcementId": 31055,
+            "createdDate": "27 May 2025 05:04:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE HOLDINGS LTD (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING \r\nSHARES"
+        },
+        {
+            "id": 26071,
+            "announcementId": 30964,
+            "createdDate": "20 May 2025 08:48:16 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE HOLDINGS LIMITED - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 26069,
+            "announcementId": 30966,
+            "createdDate": "20 May 2025 08:43:59 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Hayleys PLC (“Company”) – Issuance of 70,000,000 Listed Rated Unsecured Senior Redeemable \r\nDebentures - 2025"
+        },
+        {
+            "id": 26053,
+            "announcementId": 30940,
+            "createdDate": "19 May 2025 05:05:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE HOLDINGS LIMITED - INITIAL PUBLIC OFFER 2025-FINAL FIGURES\r\n"
+        },
+        {
+            "id": 25978,
+            "announcementId": 30845,
+            "createdDate": "10 May 2025 01:49:16 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Merchant Bank of Sri Lanka & Finance PLC (“Company”) – Issuance of 10,000,000 Unsecured,\r\nSubordinated, Redeemable, Listed, Rated Debentures 2025"
+        },
+        {
+            "id": 25948,
+            "announcementId": 30813,
+            "createdDate": "08 May 2025 09:31:04 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE HOLDINGS LIMITED – INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 25915,
+            "announcementId": 30778,
+            "createdDate": "06 May 2025 11:09:09 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Bank of Ceylon (“Bank”) – BASEL III Compliant Debenture Issue with Non-Viability Write Down Features"
+        },
+        {
+            "id": 25907,
+            "announcementId": 30760,
+            "createdDate": "05 May 2025 05:13:05 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "First Capital Treasuries PLC (“Company”) – Issuance of 30,000,000 Redeemable Debentures - 2025"
+        },
+        {
+            "id": 25796,
+            "announcementId": 30605,
+            "createdDate": "25 Apr 2025 08:48:42 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HAYLEYS PLC (“THE COMPANY”) - LISTED RATED UNSECURED SENIOR REDEEMABLE FIVE YEAR (2025/2030) DEBENTURES"
+        },
+        {
+            "id": 25769,
+            "announcementId": 30574,
+            "createdDate": "21 Apr 2025 04:45:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Capital Alliance Holdings Limited (‘Company/CALH’) - Initial Public Offering of Ordinary Voting Shares via an Offer for Subscription"
+        },
+        {
+            "id": 25535,
+            "announcementId": 30283,
+            "createdDate": "28 Mar 2025 07:51:22 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Sampath Bank PLC (“Bank”) – Issuance of 100,000,000 BASEL III Compliant Convertible Debentures - 2025"
+        },
+        {
+            "id": 25392,
+            "announcementId": 30102,
+            "createdDate": "19 Mar 2025 03:15:53 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAL FIVE YEAR CLOSED END FUND (“Units”) – INTRODUCTION"
+        },
+        {
+            "id": 25297,
+            "announcementId": 29976,
+            "createdDate": "10 Mar 2025 11:43:00 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SAMPATH BANK PLC (“BANK”) – ISSUANCE OF 100,000,000 BASEL III COMPLIANT CONVERTIBLE DEBENTURES - 2025"
+        },
+        {
+            "id": 25295,
+            "announcementId": 29975,
+            "createdDate": "10 Mar 2025 10:22:33 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FINTREX FINANCE LIMITED (“THE COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE, HIGH YIELD BONDS"
+        },
+        {
+            "id": 25225,
+            "announcementId": 29886,
+            "createdDate": "04 Mar 2025 12:49:31 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FINTREX FINANCE LIMITED–HIGH YIELD BOND ISSUE 2025-BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 25166,
+            "announcementId": 29812,
+            "createdDate": "28 Feb 2025 09:02:12 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FINTREX FINANCE LIMITED – HIGH YIELD BOND ISSUE 2025 – NO. OF APPLICATIONS"
+        },
+        {
+            "id": 25149,
+            "announcementId": 29785,
+            "createdDate": "25 Feb 2025 04:41:37 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FINTREX FINANCE LIMITED – HIGH YIELD BOND ISSUE 2025 \r\n"
+        },
+        {
+            "id": 25146,
+            "announcementId": 29781,
+            "createdDate": "25 Feb 2025 04:21:30 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ALLIANCE FINANCE COMPANY PLC (“THE COMPANY”) – LISTED, RATED, GUARANTEED, SENIOR, \r\nREDEEMABLE GREEN 3-YEAR BONDS"
+        },
+        {
+            "id": 25090,
+            "announcementId": 29702,
+            "createdDate": "20 Feb 2025 09:44:13 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FINTREX FINANCE LIMITED (“THE COMPANY”) – TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, \r\nREDEEMABLE, HIGH YIELD BONDS\r\n"
+        },
+        {
+            "id": 24940,
+            "announcementId": 29500,
+            "createdDate": "06 Feb 2025 03:45:51 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ALLIANCE FINANCE COMPANY PLC (“THE COMPANY”) – LISTED, RATED, GUARANTEED, SENIOR, REDEEMABLE GREEN 3-YEAR BONDS\r\n"
+        },
+        {
+            "id": 24667,
+            "announcementId": 29144,
+            "createdDate": "20 Jan 2025 08:53:13 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED - COLLECTION OF APPLICATION FORMS FROM APPLICANTS, AND MANAGEMENT OF APPLICATION FORMS"
+        },
+        {
+            "id": 24289,
+            "announcementId": 28679,
+            "createdDate": "31 Dec 2024 04:41:39 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ASIA ASSET FINANCE PLC (“COMPANY”)– ISSUANCE OF 20,000,000 LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE DEBENTURES - 2024"
+        },
+        {
+            "id": 24048,
+            "announcementId": 28381,
+            "createdDate": "17 Dec 2024 05:00:11 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ABANS PLC (“THE COMPANY”) – LISTED, RATED, UNSECURED, SENIOR, REDEEMABLE DEBENTURES"
+        },
+        {
+            "id": 23913,
+            "announcementId": 28197,
+            "createdDate": "06 Dec 2024 03:55:02 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Asia Asset Finance PLC (“Company”) – Issuance of 20,000,000 Listed, Rated, Unsecured, Senior, Redeemable Debentures - 2024"
+        },
+        {
+            "id": 23903,
+            "announcementId": 28185,
+            "createdDate": "05 Dec 2024 04:58:51 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "NATIONAL DEVELOPMENT BANK PLC – ISSUANCE OF 50,000,000 BASEL III COMPLIANT, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE DEBENTURES WITH A NON-VIABILITY CONVERSION FEATURE - 2024"
+        },
+        {
+            "id": 23902,
+            "announcementId": 28184,
+            "createdDate": "05 Dec 2024 04:58:33 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "VALLIBEL FINANCE PLC – LISTED, RATED, SUBORDINATED, UNSECURED, REDEEMABLE DEBENTURES"
+        },
+        {
+            "id": 23725,
+            "announcementId": 27969,
+            "createdDate": "25 Nov 2024 05:55:46 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Abans PLC (“The Company”) – Listed Rated Unsecured Senior Redeemable Debenture issue"
+        },
+        {
+            "id": 23691,
+            "announcementId": 27927,
+            "createdDate": "22 Nov 2024 11:36:03 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "NATIONAL DEVELOPMENT BANK PLC (“BANK”)– ISSUANCE OF 50,000,000 BASEL III COMPLIANT CONVERTIBLE DEBENTURES - 2024"
+        },
+        {
+            "id": 23557,
+            "announcementId": 27763,
+            "createdDate": "11 Nov 2024 03:20:26 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Vallibel Finance PLC (“The Company”) – Listed, Rated, Subordinated, Unsecured, Redeemable \r\nDebenture Issue"
+        },
+        {
+            "id": 23189,
+            "announcementId": 27306,
+            "createdDate": "04 Oct 2024 12:20:31 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED- COLLECTION OF APPLICATION FORMS FROM APPLICANTS, AND MANAGEMENT OF APPLICATION FORMS"
+        },
+        {
+            "id": 23178,
+            "announcementId": 27303,
+            "createdDate": "04 Oct 2024 08:45:56 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED - NOT PROCEEDING WITH THE IPO UNTIL SUPREME COURT MAKES A RULING ON THE INTERIM RELIEF\r\n\r\n"
+        },
+        {
+            "id": 23066,
+            "announcementId": 27168,
+            "createdDate": "01 Oct 2024 07:41:14 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "BANK OF CEYLON (“BANK”) – BASEL III COMPLIANT DEBENTURE ISSUE WITH NON-VIABILITY WRITE DOWN FEATURES"
+        },
+        {
+            "id": 23062,
+            "announcementId": 27160,
+            "createdDate": "01 Oct 2024 04:26:01 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 23003,
+            "announcementId": 27073,
+            "createdDate": "01 Oct 2024 09:52:05 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SECOND ADDENDUM DATED SEPTEMBER 30, 2024 TO THE PROSPECTUS OF LTL HOLDINGS LIMITED DATED AUGUST 29, 2024"
+        },
+        {
+            "id": 22851,
+            "announcementId": 26894,
+            "createdDate": "27 Sep 2024 04:58:52 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DFCC BANK PLC – SENIOR, LISTED, RATED, UNSECURED, REDEEMABLE, GREEN 3-YEAR BONDS"
+        },
+        {
+            "id": 22763,
+            "announcementId": 26780,
+            "createdDate": "25 Sep 2024 05:15:11 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 22721,
+            "announcementId": 26730,
+            "createdDate": "23 Sep 2024 01:36:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - INITIAL PUBLIC OFFER 2024\r\nFINAL FIGURES"
+        },
+        {
+            "id": 22661,
+            "announcementId": 26658,
+            "createdDate": "19 Sep 2024 10:14:27 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - EQUITY IPO 2024 - UPDATE ON COURT PROCEEDINGS"
+        },
+        {
+            "id": 22622,
+            "announcementId": 26595,
+            "createdDate": "13 Sep 2024 01:55:39 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "INITIAL PUBLIC OFFER (IPO) OF LTL HOLDINGS LIMITED "
+        },
+        {
+            "id": 22616,
+            "announcementId": 26592,
+            "createdDate": "13 Sep 2024 01:00:37 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 22614,
+            "announcementId": 26589,
+            "createdDate": "13 Sep 2024 09:29:50 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - ADDENDUM TO THE PROSPECTUS"
+        },
+        {
+            "id": 22611,
+            "announcementId": 26586,
+            "createdDate": "13 Sep 2024 08:15:49 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED - NOT PROCEEDING WITH THE OPENING OF THE IPO ON 13TH SEPTEMBER 2024"
+        },
+        {
+            "id": 22547,
+            "announcementId": 26494,
+            "createdDate": "09 Sep 2024 03:28:41 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DFCC BANK PLC (“THE COMPANY”) – SENIOR, LISTED, RATED, UNSECURED, REDEEMABLE, GREEN 3-YEAR BONDS"
+        },
+        {
+            "id": 22538,
+            "announcementId": 26479,
+            "createdDate": "09 Sep 2024 11:33:44 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "BANK OF CEYLON (“BANK”) – BASEL III COMPLIANT DEBENTURE ISSUE WITH NON-VIABILITY WRITE DOWN FEATURES"
+        },
+        {
+            "id": 22533,
+            "announcementId": 26477,
+            "createdDate": "09 Sep 2024 09:17:45 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFER OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 22519,
+            "announcementId": 26464,
+            "createdDate": "09 Sep 2024 08:35:34 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ADDENDUM TO THE PROSPECTUS OF LTL HOLDINGS LIMITED DATED AUGUST 29, 2024"
+        },
+        {
+            "id": 22518,
+            "announcementId": 26462,
+            "createdDate": "09 Sep 2024 06:05:45 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CHANGE OF SUBSCRIPTION DATES FOR THE INITIAL PUBLIC OFFERING OF LTL HOLDINGS LIMITED"
+        },
+        {
+            "id": 22491,
+            "announcementId": 26423,
+            "createdDate": "05 Sep 2024 10:54:18 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED - ADDENDUM TO THE PROSPECTUS"
+        },
+        {
+            "id": 22487,
+            "announcementId": 26421,
+            "createdDate": "04 Sep 2024 04:50:29 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HATTON NATIONAL BANK PLC – BASEL III COMPLIANT CONVERTIBLE DEBENTURE ISSUE 2024"
+        },
+        {
+            "id": 22375,
+            "announcementId": 26351,
+            "createdDate": "02 Sep 2024 04:27:24 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DIGITAL MOBILITY SOLUTIONS LANKA LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFER OF \r\nORDINARY VOTING SHARES VIA AN OFFER FOR SALE"
+        },
+        {
+            "id": 22341,
+            "announcementId": 26293,
+            "createdDate": "02 Sep 2024 10:18:39 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "National Development Bank PLC (“Bank”)– BASEL III Compliant Convertible Debenture Issue 2024"
+        },
+        {
+            "id": 22254,
+            "announcementId": 26148,
+            "createdDate": "29 Aug 2024 09:48:04 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFER OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 22234,
+            "announcementId": 26123,
+            "createdDate": "28 Aug 2024 02:19:24 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LTL HOLDINGS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFER OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 22022,
+            "announcementId": 25864,
+            "createdDate": "09 Aug 2024 05:17:00 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HATTON NATIONAL BANK PLC (“THE BANK”) – BASEL III COMPLIANT, TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE DEBENTURE ISSUE WITH A NON-VIABILITY CONVERSION FEATURE"
+        },
+        {
+            "id": 22021,
+            "announcementId": 25866,
+            "createdDate": "09 Aug 2024 05:15:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CABLE SOLUTION LTD (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 21886,
+            "announcementId": 25692,
+            "createdDate": "01 Aug 2024 03:58:06 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CABLE SOLUTIONS LIMITED - OFFER FOR SUBSCRIPTION AND OFFER FOR SALE OF EIGHTY MILLION SEVEN HUNDRED AND EIGHTY SIX THOUSAND SIX HUNDRED (80,786,600) ORDINARY VOTING SHARES AT LKR 7.50 PER SHARE"
+        },
+        {
+            "id": 21884,
+            "announcementId": 25691,
+            "createdDate": "01 Aug 2024 03:52:44 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CABLE SOLUTIONS LIMITED - OFFER FOR SUBSCRIPTION AND OFFER FOR SALE OF EIGHTY MILLION SEVEN HUNDRED AND EIGHTY SIX THOUSAND SIX HUNDRED (80,786,600) ORDINARY VOTING SHARES AT LKR 7.50 PER SHARE"
+        },
+        {
+            "id": 21773,
+            "announcementId": 25547,
+            "createdDate": "24 Jul 2024 04:58:10 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SEYLAN BANK PLC (“THE BANK”) – BASEL III COMPLIANT CONVERTIBLE DEBENTURE ISSUE 2024"
+        },
+        {
+            "id": 21764,
+            "announcementId": 25527,
+            "createdDate": "23 Jul 2024 04:36:31 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MAHARAJA FOODS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 21760,
+            "announcementId": 25522,
+            "createdDate": "23 Jul 2024 03:35:54 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "OFFER FOR SUBSCRIPTION AND OFFER FOR SALE OF EIGHTY MILLION SEVEN HUNDRED AND EIGHTY SIX THOUSAND SIX HUNDRED (80,786,600) ORDINARY VOTING SHARES AT LKR 7.50 PER SHARE"
+        },
+        {
+            "id": 21734,
+            "announcementId": 25488,
+            "createdDate": "18 Jul 2024 04:52:17 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "COMMERCIAL BANK OF CEYLON PLC – BASEL III COMPLIANT CONVERTIBLE DEBENTURE ISSUE 2024"
+        },
+        {
+            "id": 21679,
+            "announcementId": 25420,
+            "createdDate": "15 Jul 2024 08:59:53 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MAHARAJA FOODS LIMITED - IPO - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 21655,
+            "announcementId": 25387,
+            "createdDate": "11 Jul 2024 03:43:47 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MAHARAJA FOODS LIMITED - IPO - APPLICATIONS RECEIVED"
+        },
+        {
+            "id": 21569,
+            "announcementId": 25290,
+            "createdDate": "04 Jul 2024 01:29:53 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "OFFER FOR SUBSCRIPTION OF TWENTY-FIVE MILLION (25,000,000) ORDINARY VOTING SHARES AT LKR 5.00 PER SHARE TO RAISE A TOTAL SUM OF SRI LANKA RUPEES ONE HUNDRED TWENTY-FIVE MILLION (LKR 125,000,000.00)"
+        },
+        {
+            "id": 21245,
+            "announcementId": 24920,
+            "createdDate": "19 Jun 2024 03:35:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MAHARAJA FOODS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING \r\nSHARES"
+        },
+        {
+            "id": 21244,
+            "announcementId": 24921,
+            "createdDate": "19 Jun 2024 03:34:39 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "COMMERCIAL BANK OF CEYLON PLC (“THE BANK”) – BASEL III COMPLIANT, TIER 2, LISTED, RATED, UNSECURED, SUBORDINATED, REDEEMABLE DEBENTURE ISSUE WITH A NON-VIABILITY CONVERSION FEATURE."
+        },
+        {
+            "id": 21191,
+            "announcementId": 24859,
+            "createdDate": "14 Jun 2024 05:21:24 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SIYAPATHA FINANCE PLC (“THE COMPANY”) – LISTED, RATED, SENIOR, UNSECURED, REDEEMABLE \r\nDEBENTURE ISSUE"
+        },
+        {
+            "id": 21185,
+            "announcementId": 24848,
+            "createdDate": "14 Jun 2024 01:04:02 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CABLE SOLUTIONS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 19637,
+            "announcementId": 22975,
+            "createdDate": "31 Jan 2024 05:02:23 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAL FIVE YEAR OPTIMUM FUND (“Units”) – INTRODUCTION"
+        },
+        {
+            "id": 19570,
+            "announcementId": 22882,
+            "createdDate": "23 Jan 2024 10:29:03 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAL FIVE YEAR OPTIMUM FUND (“UNITS”) – INTRODUCTION"
+        },
+        {
+            "id": 19419,
+            "announcementId": 22674,
+            "createdDate": "05 Jan 2024 09:22:59 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CARGILLS BANK LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 19239,
+            "announcementId": 22488,
+            "createdDate": "22 Dec 2023 03:16:36 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CARGILLS BANK LIMITED - INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 19221,
+            "announcementId": 22451,
+            "createdDate": "21 Dec 2023 03:52:32 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CARGILLS BANK LIMITED - INITIAL PUBLIC OFFERING 2023 FINAL FIGURES"
+        },
+        {
+            "id": 19166,
+            "announcementId": 22378,
+            "createdDate": "14 Dec 2023 09:05:46 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CARGILLS BANK LIMITED – INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 18990,
+            "announcementId": 22149,
+            "createdDate": "24 Nov 2023 05:09:50 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CARGILLS BANK LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 18024,
+            "announcementId": 20904,
+            "createdDate": "29 Aug 2023 05:24:43 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLANTATIONS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF \r\nORDINARY VOTING SHARES"
+        },
+        {
+            "id": 17915,
+            "announcementId": 20773,
+            "createdDate": "18 Aug 2023 06:01:49 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLANTATIONS LIMITED (\"COMPANY\") - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 17898,
+            "announcementId": 20752,
+            "createdDate": "18 Aug 2023 12:30:06 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLATITATIONS LIMITED - INITIAL PUBLIC OFFERING 2023"
+        },
+        {
+            "id": 17807,
+            "announcementId": 20639,
+            "createdDate": "10 Aug 2023 01:17:56 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLANTATIONS LIMITED - INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 17799,
+            "announcementId": 20632,
+            "createdDate": "09 Aug 2023 04:54:39 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "UB FINANCE COMPANY LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY \r\nVOTING SHARES"
+        },
+        {
+            "id": 17706,
+            "announcementId": 20519,
+            "createdDate": "02 Aug 2023 03:36:51 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "UB Finance Company Limited - Initial Public Offering - Basis of Allotment "
+        },
+        {
+            "id": 17574,
+            "announcementId": 20348,
+            "createdDate": "20 Jul 2023 09:32:35 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "UB FINANCE COMPANY LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 17548,
+            "announcementId": 20308,
+            "createdDate": "18 Jul 2023 01:07:39 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLANTATIONS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY \r\nVOTING SHARES"
+        },
+        {
+            "id": 17496,
+            "announcementId": 20249,
+            "createdDate": "11 Jul 2023 03:20:37 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "AGARAPATANA PLANTATIONS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY \r\nVOTING SHARES"
+        },
+        {
+            "id": 17468,
+            "announcementId": 20210,
+            "createdDate": "06 Jul 2023 03:57:37 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "UB FINANCE COMPANY LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING \r\nSHARES"
+        },
+        {
+            "id": 17214,
+            "announcementId": 19901,
+            "createdDate": "15 Jun 2023 05:38:36 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "UB FINANCE COMPANY LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING \r\nSHARES"
+        },
+        {
+            "id": 13379,
+            "announcementId": 15436,
+            "createdDate": "20 Jun 2022 04:48:45 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA \r\nOFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 13325,
+            "announcementId": 15363,
+            "createdDate": "15 Jun 2022 03:19:48 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Luminex Limited - Interim Financial Statements for the quarter ended 31st March 2022"
+        },
+        {
+            "id": 13251,
+            "announcementId": 15281,
+            "createdDate": "09 Jun 2022 03:23:57 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES (FINAL FIGURES)"
+        },
+        {
+            "id": 13248,
+            "announcementId": 15277,
+            "createdDate": "09 Jun 2022 01:42:36 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES (BASIS OF ALLOTMENT)"
+        },
+        {
+            "id": 13083,
+            "announcementId": 15089,
+            "createdDate": "02 Jun 2022 11:08:18 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED -INITIAL PUBLIC OFFERING - ISSUE OVERSUBSCRIBED"
+        },
+        {
+            "id": 13071,
+            "announcementId": 15076,
+            "createdDate": "01 Jun 2022 11:12:24 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)\r\n"
+        },
+        {
+            "id": 13024,
+            "announcementId": 15023,
+            "createdDate": "31 May 2022 10:38:15 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)\t"
+        },
+        {
+            "id": 12998,
+            "announcementId": 14996,
+            "createdDate": "30 May 2022 03:17:08 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12994,
+            "announcementId": 14988,
+            "createdDate": "30 May 2022 11:19:24 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CL SYNERGY LIMITED - WITHDRAWAL OF THE INITIAL PUBLIC OFFERING OF CL SYNERGY LIMITED"
+        },
+        {
+            "id": 12963,
+            "announcementId": 14947,
+            "createdDate": "27 May 2022 12:29:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12955,
+            "announcementId": 14939,
+            "createdDate": "26 May 2022 01:59:01 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "\r\nLUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12940,
+            "announcementId": 14923,
+            "createdDate": "25 May 2022 03:23:05 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12938,
+            "announcementId": 14921,
+            "createdDate": "25 May 2022 10:50:11 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ALPHA FIRE SERVICES LIMITED (THE COMPANY) - INTRODUCTION"
+        },
+        {
+            "id": 12929,
+            "announcementId": 14911,
+            "createdDate": "24 May 2022 12:32:42 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING - SUMMARY OF APPLICATIONS RECEIVED"
+        },
+        {
+            "id": 12912,
+            "announcementId": 14891,
+            "createdDate": "23 May 2022 12:28:08 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12893,
+            "announcementId": 14881,
+            "createdDate": "20 May 2022 04:23:52 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS RECEIVED)"
+        },
+        {
+            "id": 12793,
+            "announcementId": 14771,
+            "createdDate": "11 May 2022 03:44:08 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MARKET ANNOUNCEMENT - LUMINEX LIMITED – INITIAL PUBLIC OFFERING\r\nNOTICE OF CHANGE OF SCHEDULE DATE OF THE IPO"
+        },
+        {
+            "id": 12604,
+            "announcementId": 14555,
+            "createdDate": "22 Apr 2022 06:54:48 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - INITIAL PUBLIC OFFERING (NOTICE TO CHANGE OF SCHEDULE DATE OF THE IPO)"
+        },
+        {
+            "id": 12594,
+            "announcementId": 14537,
+            "createdDate": "22 Apr 2022 01:07:48 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED - RELEASE OF INTERIM FINANCIAL STATEMENTS FOR THE QUARTER ENDED DECEMBER 31, 2021"
+        },
+        {
+            "id": 12464,
+            "announcementId": 14366,
+            "createdDate": "06 Apr 2022 10:23:06 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED(“THE COMPANY”)–INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 12448,
+            "announcementId": 14347,
+            "createdDate": "05 Apr 2022 11:32:36 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LUMINEX LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 12416,
+            "announcementId": 14319,
+            "createdDate": "01 Apr 2022 05:06:27 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CL SYNERGY LIMITED- EQUITY IPO 2022 - ANNOUNCEMENT ON IPO ISSUE OPENING POSTPONEMENT"
+        },
+        {
+            "id": 12240,
+            "announcementId": 14136,
+            "createdDate": "23 Mar 2022 08:15:17 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EXTERMINATORS LIMITED – INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 12218,
+            "announcementId": 14104,
+            "createdDate": "21 Mar 2022 12:54:46 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EXTERMINATORS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 12163,
+            "announcementId": 14040,
+            "createdDate": "14 Mar 2022 01:34:38 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EXTERMINATORS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 11714,
+            "announcementId": 13541,
+            "createdDate": "02 Feb 2022 04:15:31 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED – RELEASE OF INTERIM FINANCIAL STATEMENTS FOR THE \r\nTHRID QUARTER ENDED 31 DECEMBER 2021 SUBSEQUENT TO THE IPO"
+        },
+        {
+            "id": 11713,
+            "announcementId": 13540,
+            "createdDate": "02 Feb 2022 04:13:50 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED (“THE COMPANY”) - INITIAL PUBLIC OFFERRING OF ORDINARY \r\nVOTING SHARES "
+        },
+        {
+            "id": 11636,
+            "announcementId": 13446,
+            "createdDate": "26 Jan 2022 12:10:27 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED- INITIAL PUBLIC OFFERING (IPO)"
+        },
+        {
+            "id": 11530,
+            "announcementId": 13326,
+            "createdDate": "12 Jan 2022 08:28:43 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED - INITIAL PUBLIC OFFERING - EXTENSION OF CLOSURE TIME FOR THE ONLINE PORTAL"
+        },
+        {
+            "id": 11510,
+            "announcementId": 13298,
+            "createdDate": "12 Jan 2022 09:14:15 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED-INITIAL PUBLIC OFFERING (OVERSUBSCRIBED)"
+        },
+        {
+            "id": 11431,
+            "announcementId": 13198,
+            "createdDate": "05 Jan 2022 02:13:18 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "KAPRUKA HOLDINGS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 11419,
+            "announcementId": 13183,
+            "createdDate": "04 Jan 2022 04:01:05 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "KAPRUKA HOLDINGS LIMITED – INITIAL PUBLIC OFFER (DETAILS OF PAYMENTS RECEIVED)"
+        },
+        {
+            "id": 11411,
+            "announcementId": 13177,
+            "createdDate": "04 Jan 2022 10:18:41 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "KAPRUKA HOLDINGS LIMITED - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 11375,
+            "announcementId": 13132,
+            "createdDate": "31 Dec 2021 08:34:20 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "ERRATA TO THE HELA APPAREL HOLDINGS LIMITED PROSPECTUS DATED 28 DECEMBER 2021"
+        },
+        {
+            "id": 11327,
+            "announcementId": 13080,
+            "createdDate": "30 Dec 2021 02:22:08 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC GENERAL INSURANCE LIMITED-INTERIM FINANCIAL STATEMENTS AS AT 30TH SEPTEMBER 2021"
+        },
+        {
+            "id": 11326,
+            "announcementId": 13079,
+            "createdDate": "30 Dec 2021 01:21:55 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC GENERAL INSURANCE LIMITED-INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SALE"
+        },
+        {
+            "id": 11321,
+            "announcementId": 13072,
+            "createdDate": "29 Dec 2021 05:14:40 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CO-OPERATIVE INSURANCE COMPANY LIMITED (THE COMPANY) - INITIAL PUBLIC OFFERRING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 11320,
+            "announcementId": 13071,
+            "createdDate": "29 Dec 2021 05:13:59 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CO-OPERATIVE INSURANCE COMPANY LIMITED - INITIAL PUBLIC OFFERING (SUMMARY OF APPLICATIONS)"
+        },
+        {
+            "id": 11317,
+            "announcementId": 13070,
+            "createdDate": "29 Dec 2021 04:36:26 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC GENERAL INSURANCE LTD INITIAL PUBLIC OFFER"
+        },
+        {
+            "id": 11309,
+            "announcementId": 13057,
+            "createdDate": "29 Dec 2021 10:42:29 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CO-OPERATIVE INSURANCE COMPANY LTD IPO - BASIS OF ALLLOTMENT"
+        },
+        {
+            "id": 11306,
+            "announcementId": 13054,
+            "createdDate": "28 Dec 2021 04:46:48 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC GENERAL INSURANCE LIMITED IPO"
+        },
+        {
+            "id": 11303,
+            "announcementId": 13052,
+            "createdDate": "28 Dec 2021 04:11:10 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC General Insurance IPO - Basis of Allocation"
+        },
+        {
+            "id": 11281,
+            "announcementId": 13034,
+            "createdDate": "27 Dec 2021 05:13:55 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "VOLUNTARY SUBMISSION OF INTERIM FINANCIAL STATEMENTS OF CO-OPERATIVE INSURANCE COMPANY LIMITED"
+        },
+        {
+            "id": 11240,
+            "announcementId": 12976,
+            "createdDate": "23 Dec 2021 05:02:34 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MYLAND DEVELOPMENTS LIMITED - INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 11218,
+            "announcementId": 12953,
+            "createdDate": "22 Dec 2021 09:07:31 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Kapruka Holdings Limited - lnitial Public Offering"
+        },
+        {
+            "id": 11191,
+            "announcementId": 12923,
+            "createdDate": "20 Dec 2021 04:41:16 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL TREASURIES PLC (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING \r\nSHARES VIA OFFER FOR SALE"
+        },
+        {
+            "id": 11179,
+            "announcementId": 12908,
+            "createdDate": "20 Dec 2021 02:43:33 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "HELA APPAREL HOLDINGS LIMITED (THE COMPANY) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 11172,
+            "announcementId": 12902,
+            "createdDate": "20 Dec 2021 01:53:02 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CO-OPERATIVE INSURANCE COMPANY LIMITED-INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES (OVERSUBSCRIBED)"
+        },
+        {
+            "id": 11155,
+            "announcementId": 12873,
+            "createdDate": "17 Dec 2021 07:32:54 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MYLAND DEVELOPMENTS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES RE: BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 11147,
+            "announcementId": 12864,
+            "createdDate": "17 Dec 2021 01:50:12 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "hSENID BUSINESS SOLUTIONS LIMITED"
+        },
+        {
+            "id": 11146,
+            "announcementId": 12863,
+            "createdDate": "17 Dec 2021 01:50:01 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Myland Development Limited - IPO (Summary of applications)"
+        },
+        {
+            "id": 11125,
+            "announcementId": 12839,
+            "createdDate": "16 Dec 2021 10:17:50 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC General Insurance Limited IPO - Oversubscribed"
+        },
+        {
+            "id": 11124,
+            "announcementId": 12838,
+            "createdDate": "16 Dec 2021 09:20:41 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL TREASURIES PLC IPO - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 11122,
+            "announcementId": 12837,
+            "createdDate": "15 Dec 2021 06:57:18 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL TREASURIES PLC - INITIAL PUBLIC OFFERING OF ORDINARY\r\nVOTING SHARES"
+        },
+        {
+            "id": 11103,
+            "announcementId": 12813,
+            "createdDate": "15 Dec 2021 11:58:42 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "hSENID Business Solutions Limited IPO 2021- Announcement on over subscription"
+        },
+        {
+            "id": 11091,
+            "announcementId": 12799,
+            "createdDate": "14 Dec 2021 05:01:53 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "hSenid Business Solutions Limited - Equity IPO 2021 -Number of applications"
+        },
+        {
+            "id": 11074,
+            "announcementId": 12783,
+            "createdDate": "13 Dec 2021 06:14:26 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING\r\nSHARES VIA OFFER FOR SUBSCRIPTION "
+        },
+        {
+            "id": 11070,
+            "announcementId": 12775,
+            "createdDate": "13 Dec 2021 02:05:45 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "KAPRUKA HOLDINGS LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 11069,
+            "announcementId": 12774,
+            "createdDate": "13 Dec 2021 02:05:28 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CO-OPERATIVE INSURANCE COMPANY LIMITED (“THE COMPANY”)-INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 11040,
+            "announcementId": 12750,
+            "createdDate": "10 Dec 2021 12:06:59 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE LIMITED (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 11019,
+            "announcementId": 12726,
+            "createdDate": "08 Dec 2021 10:16:00 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MYLAND DEVELOPMENTS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES (OVERSUBSCRIBED)"
+        },
+        {
+            "id": 11000,
+            "announcementId": 12711,
+            "createdDate": "07 Dec 2021 09:46:54 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED IPO - FINAL FIGURES IN RESPECT OF THE APPLICATIONS PROCESSED"
+        },
+        {
+            "id": 10998,
+            "announcementId": 12709,
+            "createdDate": "06 Dec 2021 09:54:10 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED IPO - BASIS OF ALLOTMENT"
+        },
+        {
+            "id": 10990,
+            "announcementId": 12694,
+            "createdDate": "06 Dec 2021 10:18:34 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL TREASURIES PLC - INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 10955,
+            "announcementId": 12679,
+            "createdDate": "03 Dec 2021 09:03:11 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "\r\nhSENID BUSINESS SOLUTION LIMITED- OVERSUBSCRIBED"
+        },
+        {
+            "id": 10947,
+            "announcementId": 12667,
+            "createdDate": "02 Dec 2021 01:54:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE LIMITED - IPO"
+        },
+        {
+            "id": 10934,
+            "announcementId": 12651,
+            "createdDate": "01 Dec 2021 05:43:59 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC GENERAL INSURANCE LIMITED - INITIAL PUBLIC OFFER OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 10916,
+            "announcementId": 12631,
+            "createdDate": "30 Nov 2021 07:26:58 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE LIMITED - IPO"
+        },
+        {
+            "id": 10904,
+            "announcementId": 12619,
+            "createdDate": "30 Nov 2021 01:51:22 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "hSENID BUSINESS SOLUTION LIMITED-RELEASE OF INTERIM FINANCIAL STATEMENTS FOR THE PERIOD ENDED OCTOBER 31, 2021"
+        },
+        {
+            "id": 10856,
+            "announcementId": 12554,
+            "createdDate": "25 Nov 2021 06:27:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "FIRST CAPITAL TREASURIES PLC (“THE COMPANY”) – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES\r\n"
+        },
+        {
+            "id": 10843,
+            "announcementId": 12537,
+            "createdDate": "25 Nov 2021 10:19:38 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED-INITIAL PUBLIC OFFERING (OVERSUBSCRIBED)"
+        },
+        {
+            "id": 10841,
+            "announcementId": 12534,
+            "createdDate": "24 Nov 2021 05:50:57 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "MYLAND DEVELOPMENTS LIMITED - INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 10829,
+            "announcementId": 12520,
+            "createdDate": "23 Nov 2021 02:05:19 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Sarvodaya Development Finance Ltd - IPO 2021 Oversubscribed\r\n"
+        },
+        {
+            "id": 10799,
+            "announcementId": 12479,
+            "createdDate": "19 Nov 2021 09:37:30 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED - DISCLOSURE REGARDING THE ADDENDUM TO THE PROSPECTUS OF CAPITAL ALLIANCE LIMITED"
+        },
+        {
+            "id": 10798,
+            "announcementId": 12478,
+            "createdDate": "19 Nov 2021 08:00:25 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "hSENID BUSINESS SOLUTIONS LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 10710,
+            "announcementId": 12387,
+            "createdDate": "11 Nov 2021 04:13:14 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LANKA CREDIT AND BUSINESS FINANCE LIMITED - INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES VIA OFFER FOR SUBSCRIPTION"
+        },
+        {
+            "id": 10698,
+            "announcementId": 12371,
+            "createdDate": "11 Nov 2021 11:05:26 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "CAPITAL ALLIANCE LIMITED – INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 10666,
+            "announcementId": 12334,
+            "createdDate": "09 Nov 2021 04:11:13 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EX-PACK CORRUGATED CARTONS LIMITED (“THE COMPANY”) - INITIAL PUBLIC OFFERRING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 10660,
+            "announcementId": 12328,
+            "createdDate": "08 Nov 2021 06:44:56 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EX-PACK CORRUGATED CARTONS LIMITED-INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 10653,
+            "announcementId": 12321,
+            "createdDate": "08 Nov 2021 03:06:29 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Lanka Credit and Business Finance Limited - Equity IPO 2021 - Basis of Allotment"
+        },
+        {
+            "id": 10629,
+            "announcementId": 12300,
+            "createdDate": "05 Nov 2021 06:14:07 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Invitation to invest in the IPO of LANKA CREDIT AND BUSINESS FINANCE LTD"
+        },
+        {
+            "id": 10622,
+            "announcementId": 12288,
+            "createdDate": "05 Nov 2021 12:28:46 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EX.PACK CORRUGATED CARTONS LIMITED - RELEASE OF HALF YEARLY FINANCIAL STATEMENTS AS AT 30TH SEPTEMBER 2021"
+        },
+        {
+            "id": 10610,
+            "announcementId": 12274,
+            "createdDate": "03 Nov 2021 02:33:08 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EX.PACK CORRUGATED CARTONS LIMITED - INITIAL PUBLIC OFFERING"
+        },
+        {
+            "id": 10604,
+            "announcementId": 12272,
+            "createdDate": "03 Nov 2021 10:53:01 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "EX.PACK CORRUGATED CARTONS LIMITED - INITIAL PUBLIC OFFERING (Total final figures in respect of the applications processed)\r\n"
+        },
+        {
+            "id": 10512,
+            "announcementId": 12158,
+            "createdDate": "26 Oct 2021 11:36:55 AM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "Lanka Credit and Business Finance Ltd - IPO 2021 Oversubscribed"
+        },
+        {
+            "id": 10455,
+            "announcementId": 12105,
+            "createdDate": "18 Oct 2021 08:03:49 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "DISCLOSURE REGARDING THE ADDENDUM TO THE PROSPECTUS OF EX-PACK CORRUGATED CARTONS LIMITED"
+        },
+        {
+            "id": 10454,
+            "announcementId": 12104,
+            "createdDate": "18 Oct 2021 05:58:46 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "SARVODAYA DEVELOPMENT FINANCE LIMITED-INITIAL PUBLIC OFFERING OF ORDINARY VOTING SHARES"
+        },
+        {
+            "id": 10413,
+            "announcementId": 12049,
+            "createdDate": "13 Oct 2021 12:02:22 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC Ceylon Holdings Limited - Circular on Listing via Debenture Issue"
+        },
+        {
+            "id": 10317,
+            "announcementId": 11940,
+            "createdDate": "05 Oct 2021 05:46:54 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC CEYLON HOLDINGS LIMITED - DEBENTURE ISSUE \r\nRE: BASIS OF ALLOTMENT\r\n\r\n"
+        },
+        {
+            "id": 10314,
+            "announcementId": 11935,
+            "createdDate": "05 Oct 2021 04:22:28 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC CEYLON HOLDINGS LIMITED - DEBENTURE ISSUE\r\nRE: FINAL FIGURES IN RESPECT OF THE APPLICATIONS PROCESSED"
+        },
+        {
+            "id": 10209,
+            "announcementId": 11803,
+            "createdDate": "29 Sep 2021 06:01:04 PM",
+            "title": null,
+            "announcementCategory": "NEW LISTINGS RELATED NOTICES",
+            "category": "59",
+            "company": "TRADING AND MARKET SURVEILLANCE",
+            "remarks": "LOLC CEYLON HOLDINGS LIMITED - DEBENTURE ISSUE (OVERSUBSCRIBED)"
+        }
+    ]
+}
