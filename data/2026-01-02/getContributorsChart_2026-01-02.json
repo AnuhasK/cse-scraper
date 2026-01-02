@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 25.47,
+      "lastTradedTime": 1767344398150
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 12.25,
+      "lastTradedTime": 1767344353883
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": 10.38,
+      "lastTradedTime": 1767344398421
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 9.33,
+      "lastTradedTime": 1767344398483
+    },
+    {
+      "id": 399,
+      "symbol": "DIPD.N0000",
+      "name": "DIPPED PRODUCTS PLC",
+      "contribution": 8.14,
+      "lastTradedTime": 1767344376635
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -9.08,
+      "lastTradedTime": 1767344373379
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -8.45,
+      "lastTradedTime": 1767343782546
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -5.75,
+      "lastTradedTime": 1767344108618
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -4.06,
+      "lastTradedTime": 1767344330617
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -3.51,
+      "lastTradedTime": 1767344398498
+    }
+  ]
+}
