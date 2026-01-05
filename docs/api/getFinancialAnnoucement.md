@@ -1,4 +1,4 @@
-https://www.cse.lk/api/getFinancialAnnouncement?fromDate=2000-11-02&toDate=2010-01-02 use the post method
+https://www.cse.lk/api/getFinancialAnnouncement?fromDate=2000-11-02&toDate=2026-01-02 use the post method
 
 the respose is , 
 

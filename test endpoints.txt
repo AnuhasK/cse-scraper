@@ -1,0 +1,4 @@
+POST https://www.cse.lk/api/sblBorrowingPool?security=ALL
+POST https://www.cse.lk/api/sblLendingPool?security=ALL
+POST https://www.cse.lk/api/getFinancialAnnouncement?fromDate=2000-11-02&toDate=2026-01-02 
+POST https://www.cse.lk/api/financials?symbol=CALH.N0000
