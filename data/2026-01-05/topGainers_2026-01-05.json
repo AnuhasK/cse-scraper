@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53205135,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.5,
+    "change": 0.1,
+    "changePercentage": 25.0,
+    "tradeDate": 1767604166000
+  },
+  {
+    "id": 53205300,
+    "securityId": 5351,
+    "symbol": "MDL.N0000",
+    "price": 24.1,
+    "change": 3.4,
+    "changePercentage": 16.42512077294686,
+    "tradeDate": 1767603887000
+  },
+  {
+    "id": 53205742,
+    "securityId": 524,
+    "symbol": "HEXP.N0000",
+    "price": 102.75,
+    "change": 10.75,
+    "changePercentage": 11.684782608695652,
+    "tradeDate": 1767604353000
+  },
+  {
+    "id": 53205665,
+    "securityId": 250,
+    "symbol": "ASCO.N0000",
+    "price": 47.2,
+    "change": 4.9,
+    "changePercentage": 11.583924349881796,
+    "tradeDate": 1767604427000
+  },
+  {
+    "id": 53205645,
+    "securityId": 262,
+    "symbol": "UML.N0000",
+    "price": 349.0,
+    "change": 33.5,
+    "changePercentage": 10.618066561014263,
+    "tradeDate": 1767603895000
+  },
+  {
+    "id": 53205315,
+    "securityId": 405,
+    "symbol": "EMER.N0000",
+    "price": 12.1,
+    "change": 1.1,
+    "changePercentage": 10.0,
+    "tradeDate": 1767604069000
+  },
+  {
+    "id": 53201729,
+    "securityId": 2997,
+    "symbol": "TESS.X0000",
+    "price": 1.2,
+    "change": 0.1,
+    "changePercentage": 9.090909090909092,
+    "tradeDate": 1767602483000
+  },
+  {
+    "id": 53202837,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 321.5,
+    "change": 26.0,
+    "changePercentage": 8.798646362098138,
+    "tradeDate": 1767603690000
+  },
+  {
+    "id": 53204996,
+    "securityId": 258,
+    "symbol": "CARE.N0000",
+    "price": 58.6,
+    "change": 4.6,
+    "changePercentage": 8.518518518518519,
+    "tradeDate": 1767603599000
+  },
+  {
+    "id": 53205626,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "price": 11.9,
+    "change": 0.9,
+    "changePercentage": 8.181818181818182,
+    "tradeDate": 1767603627000
+  }
+]
