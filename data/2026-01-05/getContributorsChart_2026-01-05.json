@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 23.14,
+      "lastTradedTime": 1767603579889
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 14.03,
+      "lastTradedTime": 1767603434892
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 12.74,
+      "lastTradedTime": 1767603597792
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 7.75,
+      "lastTradedTime": 1767603552504
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 7.23,
+      "lastTradedTime": 1767603579411
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -26.73,
+      "lastTradedTime": 1767603599157
+    },
+    {
+      "id": 322,
+      "symbol": "LFIN.N0000",
+      "name": "L B FINANCE PLC",
+      "contribution": -5.05,
+      "lastTradedTime": 1767603571334
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -4.59,
+      "lastTradedTime": 1767602966445
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": -2.31,
+      "lastTradedTime": 1767603529130
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": -2.06,
+      "lastTradedTime": 1767602690015
+    }
+  ]
+}
