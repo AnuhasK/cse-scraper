@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 46.29,
+      "lastTradedTime": 1767689999237
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 28.59,
+      "lastTradedTime": 1767689924213
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 22.7,
+      "lastTradedTime": 1767689990940
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 21.04,
+      "lastTradedTime": 1767689998157
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 19.87,
+      "lastTradedTime": 1767689999474
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -32.07,
+      "lastTradedTime": 1767689999777
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -5.14,
+      "lastTradedTime": 1767689965467
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": -4.79,
+      "lastTradedTime": 1767689997223
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -3.34,
+      "lastTradedTime": 1767689970524
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -3.19,
+      "lastTradedTime": 1767689997857
+    }
+  ]
+}
