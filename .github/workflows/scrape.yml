@@ -25,11 +25,11 @@ jobs:
         run: python scrape_company_details.py
 
       - name: Commit and push scraped data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "anuhask"
+          git config --global user.email "anuhasvihanga@gmail.com"
           git add .
           git commit -m "Automated scrape: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push https://$GH_PAT@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
