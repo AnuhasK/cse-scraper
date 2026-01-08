@@ -35,8 +35,8 @@ def save_json(data, from_date, to_date):
     print(f"Saved: {filepath}")
 
 def main():
-    start_date = datetime(2000, 1, 1)
-    end_date = datetime(2010, 1, 2)
+    start_date = datetime(2010, 1, 1)
+    end_date = datetime(2011, 1, 1)
     for from_date, to_date in daterange(start_date, end_date):
         try:
             data = fetch_announcements(from_date, to_date)

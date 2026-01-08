@@ -1,0 +1,81 @@
+{
+  "reqFinancialAnnouncemnets": [
+    {
+      "id": 15196,
+      "path": "upload_report_file/689_1258429850375.pdf",
+      "manualDate": 1080669600000,
+      "uploadedDate": "17 Nov 2009 12:00:00 AM",
+      "fileText": "Annual Report - 2003/2004",
+      "name": "UNISYST ENGINEERING PLC",
+      "symbol": "ALUF",
+      "logoUrl": "upload_logo/689_1638860463.jpeg",
+      "authorizedDate": null
+    },
+    {
+      "id": 15005,
+      "path": "upload_report_file/689_1258429931168.pdf",
+      "manualDate": 1112205600000,
+      "uploadedDate": "17 Nov 2009 12:00:00 AM",
+      "fileText": "Annual Report - 2004/2005",
+      "name": "UNISYST ENGINEERING PLC",
+      "symbol": "ALUF",
+      "logoUrl": "upload_logo/689_1638860463.jpeg",
+      "authorizedDate": null
+    },
+    {
+      "id": 15011,
+      "path": "upload_report_file/499_1251970872015.pdf",
+      "manualDate": 1080669600000,
+      "uploadedDate": "03 Sep 2009 12:00:00 AM",
+      "fileText": "Annual Report (Amended) - 2003/2004",
+      "name": "STANDARD CAPITAL PLC",
+      "symbol": "SING",
+      "logoUrl": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 11585,
+      "path": "upload_report_file/499_1251970993342.pdf",
+      "manualDate": 1112205600000,
+      "uploadedDate": "03 Sep 2009 12:00:00 AM",
+      "fileText": "Annual Report (Amended) - 2004/2005",
+      "name": "STANDARD CAPITAL PLC",
+      "symbol": "SING",
+      "logoUrl": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 11319,
+      "path": "upload_report_file/499_1251970749711.pdf",
+      "manualDate": 1049047200000,
+      "uploadedDate": "03 Sep 2009 12:00:00 AM",
+      "fileText": "Annual Report (Amended) - 2002/2003",
+      "name": "STANDARD CAPITAL PLC",
+      "symbol": "SING",
+      "logoUrl": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 10848,
+      "path": "upload_report_file/499_1251970520302.pdf",
+      "manualDate": 1017511200000,
+      "uploadedDate": "03 Sep 2009 12:00:00 AM",
+      "fileText": "Annual Report (Amended) - 2001/2002",
+      "name": "STANDARD CAPITAL PLC",
+      "symbol": "SING",
+      "logoUrl": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 10831,
+      "path": "upload_report_file/448_1244637514.pdf",
+      "manualDate": null,
+      "uploadedDate": "10 Jun 2009 12:00:00 AM",
+      "fileText": "ANNOUNCEMENT IN TERMS OF RULE 8(1) OF THE COMPANY TAKE - OVERS AND MERGERS CODE 1995 - PEOPLE'S LEASING COMPANY LIMITED.",
+      "name": "PEOPLE'S FINANCE PLC",
+      "symbol": "SMLL",
+      "logoUrl": null,
+      "authorizedDate": null
+    }
+  ]
+}

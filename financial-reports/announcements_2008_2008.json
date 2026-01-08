@@ -1,0 +1,37 @@
+{
+  "reqFinancialAnnouncemnets": [
+    {
+      "id": 10190,
+      "path": "upload_report_file/376_1219238628.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "20 Aug 2008 12:00:00 AM",
+      "fileText": "Annual Report 2007",
+      "name": "HOUSING DEVELOPMENT FINANCE CORPORATION BANK OF SRI LANKA",
+      "symbol": "HDFC",
+      "logoUrl": "upload_logo/376_1649304781.jpeg",
+      "authorizedDate": null
+    },
+    {
+      "id": 10189,
+      "path": "upload_report_file/489_1219238399.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "20 Aug 2008 12:00:00 AM",
+      "fileText": "Annual Report 2007/2008",
+      "name": "DILMAH CEYLON TEA COMPANY PLC",
+      "symbol": "CTEA",
+      "logoUrl": "upload_logo/489_1601452595.jpeg",
+      "authorizedDate": null
+    },
+    {
+      "id": 10022,
+      "path": "upload_report_file/742_1219235816.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "20 Aug 2008 12:00:00 AM",
+      "fileText": "Annual Report 2007/2008",
+      "name": "MERCANTILE SHIPPING COMPANY PLC",
+      "symbol": "MSL",
+      "logoUrl": "upload_logo/742_1193026791.gif",
+      "authorizedDate": null
+    }
+  ]
+}

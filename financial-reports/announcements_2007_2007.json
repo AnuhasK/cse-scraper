@@ -1,0 +1,37 @@
+{
+  "reqFinancialAnnouncemnets": [
+    {
+      "id": 12771,
+      "path": "upload_report_file/632_1193379324.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "26 Oct 2007 12:00:00 AM",
+      "fileText": "Quarterly Financial Report as of 30-06-2007",
+      "name": "LEE HEDGES PLC",
+      "symbol": "SHAW",
+      "logoUrl": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 9805,
+      "path": "upload_report_file/455_1193387199.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "26 Oct 2007 12:00:00 AM",
+      "fileText": "Quarterly Financial Report as of 31-03-2007",
+      "name": "VIDULLANKA PLC",
+      "symbol": "VLL",
+      "logoUrl": "upload_logo/455_1601464327.jpeg",
+      "authorizedDate": null
+    },
+    {
+      "id": 9739,
+      "path": "upload_report_file/709_1193222796.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": "24 Oct 2007 12:00:00 AM",
+      "fileText": "Quarterly Financial Report as of 30-06-2007",
+      "name": "HORANA PLANTATIONS PLC",
+      "symbol": "HOPL",
+      "logoUrl": "upload_logo/709_1192776068.gif",
+      "authorizedDate": null
+    }
+  ]
+}
