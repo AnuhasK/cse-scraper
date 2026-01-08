@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 22.47,
+      "lastTradedTime": 1767862770433
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 19.86,
+      "lastTradedTime": 1767862794264
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 19.05,
+      "lastTradedTime": 1767862781605
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 17.81,
+      "lastTradedTime": 1767862763746
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 14.15,
+      "lastTradedTime": 1767862794989
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -6.53,
+      "lastTradedTime": 1767862684817
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -4.1,
+      "lastTradedTime": 1767862788945
+    },
+    {
+      "id": 196,
+      "symbol": "GUAR.N0000",
+      "name": "CEYLON GUARDIAN INVESTMENT TRUST PLC",
+      "contribution": -3.74,
+      "lastTradedTime": 1767862771419
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -3.07,
+      "lastTradedTime": 1767862797209
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": -2.74,
+      "lastTradedTime": 1767862717795
+    }
+  ]
+}
