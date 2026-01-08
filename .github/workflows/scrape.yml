@@ -28,7 +28,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name "anuhask"
+          git config --global user.name "AnuhasK"
           git config --global user.email "anuhasvihanga@gmail.com"
           git add .
           git commit -m "Automated scrape: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
