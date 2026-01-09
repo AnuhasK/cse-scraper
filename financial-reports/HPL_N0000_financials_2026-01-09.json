@@ -56,7 +56,7 @@
     },
     {
       "id": 33278,
-      "path": "upload_report_file/1045_1559818272.pdf",
+      "path": "cmt/upload_report_file/1045_1559818272.pdf",
       "manualDate": null,
       "uploadedDate": 1559759400000,
       "fileText": "Annual Report 2018/2019",
@@ -65,7 +65,7 @@
     },
     {
       "id": 23648,
-      "path": "upload_report_file/1045_1528168841632.pdf",
+      "path": "cmt/upload_report_file/1045_1528168841632.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1528137000000,
       "fileText": "Annual Report 2017/18",
@@ -310,7 +310,7 @@
     },
     {
       "id": 33050,
-      "path": "upload_report_file/1045_1559126687584.PDF",
+      "path": "cmt/upload_report_file/1045_1559126687584.PDF",
       "manualDate": 1553970600000,
       "uploadedDate": 1559068200000,
       "fileText": "Interim financial statements as at 31-03-2019",
@@ -319,7 +319,7 @@
     },
     {
       "id": 32255,
-      "path": "upload_report_file/1045_1549963475177.pdf",
+      "path": "cmt/upload_report_file/1045_1549963475177.pdf",
       "manualDate": 1575225000000,
       "uploadedDate": 1549909800000,
       "fileText": "Interim financial statements as at 31-12-2018",
@@ -328,7 +328,7 @@
     },
     {
       "id": 31642,
-      "path": "upload_report_file/1045_1541589798010.pdf",
+      "path": "cmt/upload_report_file/1045_1541589798010.pdf",
       "manualDate": 1538245800000,
       "uploadedDate": 1541529000000,
       "fileText": "Interim Financial Statements as at 30.09.2018",
@@ -337,7 +337,7 @@
     },
     {
       "id": 24020,
-      "path": "upload_report_file/1045_1533723663743.pdf",
+      "path": "cmt/upload_report_file/1045_1533723663743.pdf",
       "manualDate": 1530297000000,
       "uploadedDate": 1533666600000,
       "fileText": "Interim Financial Statements as at 30.06.2018",
@@ -346,7 +346,7 @@
     },
     {
       "id": 23393,
-      "path": "upload_report_file/1045_1527243000037.pdf",
+      "path": "cmt/upload_report_file/1045_1527243000037.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1527186600000,
       "fileText": "Interim Financial Statements as of 31-03-2018",
@@ -355,7 +355,7 @@
     },
     {
       "id": 22629,
-      "path": "upload_report_file/1045_1518089311002.pdf",
+      "path": "cmt/upload_report_file/1045_1518089311002.pdf",
       "manualDate": 1514658600000,
       "uploadedDate": 1518028200000,
       "fileText": "Interim Financial Statements as at 31-12-2017",
@@ -367,7 +367,7 @@
   "infoOtherData": [
     {
       "id": 31122,
-      "path": "upload_report_file/1045_1517553024.pdf",
+      "path": "cmt/upload_report_file/1045_1517553024.pdf",
       "manualDate": 1517509800000,
       "uploadedDate": 1517509800000,
       "fileText": "Research Report",
@@ -376,7 +376,7 @@
     },
     {
       "id": 31121,
-      "path": "upload_report_file/1045_1517552968.pdf",
+      "path": "cmt/upload_report_file/1045_1517552968.pdf",
       "manualDate": 1517509800000,
       "uploadedDate": 1517509800000,
       "fileText": "Introductory Document Part 2",
@@ -385,7 +385,7 @@
     },
     {
       "id": 31120,
-      "path": "upload_report_file/1045_1517552893.pdf",
+      "path": "cmt/upload_report_file/1045_1517552893.pdf",
       "manualDate": 1517509800000,
       "uploadedDate": 1517509800000,
       "fileText": "Introductory Document Part 1",

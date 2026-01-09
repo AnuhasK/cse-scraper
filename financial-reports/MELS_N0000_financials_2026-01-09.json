@@ -65,7 +65,7 @@
     },
     {
       "id": 24462,
-      "path": "upload_report_file/1507_1535945067986.pdf",
+      "path": "cmt/upload_report_file/1507_1535945067986.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1535913000000,
       "fileText": "Annual Report 2017/2018",
@@ -74,7 +74,7 @@
     },
     {
       "id": 30752,
-      "path": "upload_report_file/1507_1504063180.pdf",
+      "path": "cmt/upload_report_file/1507_1504063180.pdf",
       "manualDate": 1490898600000,
       "uploadedDate": 1504031400000,
       "fileText": "Annual Report 2016/2017",
@@ -319,7 +319,7 @@
     },
     {
       "id": 33192,
-      "path": "upload_report_file/1507_1559301481.pdf",
+      "path": "cmt/upload_report_file/1507_1559301481.pdf",
       "manualDate": null,
       "uploadedDate": 1559241000000,
       "fileText": "Interim Financial Statements as of 31-03-2019",
@@ -328,7 +328,7 @@
     },
     {
       "id": 33178,
-      "path": "upload_report_file/1507_1559300373.pdf",
+      "path": "cmt/upload_report_file/1507_1559300373.pdf",
       "manualDate": null,
       "uploadedDate": 1559241000000,
       "fileText": "Interim Financial Statements as of 31-03-2019",
@@ -337,7 +337,7 @@
     },
     {
       "id": 32295,
-      "path": "upload_report_file/1507_1551265827910.pdf",
+      "path": "cmt/upload_report_file/1507_1551265827910.pdf",
       "manualDate": 1546194600000,
       "uploadedDate": 1549996200000,
       "fileText": "Interim Financial Statements as of 31-12-2018",
@@ -346,7 +346,7 @@
     },
     {
       "id": 31796,
-      "path": "upload_report_file/1507_1542194607499.pdf",
+      "path": "cmt/upload_report_file/1507_1542194607499.pdf",
       "manualDate": 1538245800000,
       "uploadedDate": 1542133800000,
       "fileText": "Interim Financial Statements as at 30.09.2018",
@@ -355,7 +355,7 @@
     },
     {
       "id": 24287,
-      "path": "upload_report_file/1507_1534329455096.pdf",
+      "path": "cmt/upload_report_file/1507_1534329455096.pdf",
       "manualDate": 1530297000000,
       "uploadedDate": 1534271400000,
       "fileText": "Interim Financial Statements as at 30.06.2018",
@@ -364,7 +364,7 @@
     },
     {
       "id": 23624,
-      "path": "upload_report_file/1507_1528108244967.pdf",
+      "path": "cmt/upload_report_file/1507_1528108244967.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1528050600000,
       "fileText": "Interim Financial Statements as at 31.03.2018",
@@ -373,7 +373,7 @@
     },
     {
       "id": 22744,
-      "path": "upload_report_file/1507_1518602874899.pdf",
+      "path": "cmt/upload_report_file/1507_1518602874899.pdf",
       "manualDate": 1514658600000,
       "uploadedDate": 1518546600000,
       "fileText": "Interim Financial Statements as at 31-12-2017",
@@ -382,7 +382,7 @@
     },
     {
       "id": 30936,
-      "path": "upload_report_file/1507_1510715880.pdf",
+      "path": "cmt/upload_report_file/1507_1510715880.pdf",
       "manualDate": 1506709800000,
       "uploadedDate": 1510684200000,
       "fileText": "Interim Financial Statements as at 30-09-2017",
@@ -391,7 +391,7 @@
     },
     {
       "id": 30644,
-      "path": "upload_report_file/1507_1502278224.pdf",
+      "path": "cmt/upload_report_file/1507_1502278224.pdf",
       "manualDate": 1498761000000,
       "uploadedDate": 1502217000000,
       "fileText": "Interim Financial Statements as of 30-06-2017",
@@ -400,7 +400,7 @@
     },
     {
       "id": 21531,
-      "path": "upload_report_file/1507_1496140018037.pdf",
+      "path": "cmt/upload_report_file/1507_1496140018037.pdf",
       "manualDate": 1490898600000,
       "uploadedDate": 1496082600000,
       "fileText": "Interim Financial Statements as at 31-03-2017",
@@ -409,7 +409,7 @@
     },
     {
       "id": 30132,
-      "path": "upload_report_file/1507_1487159584.pdf",
+      "path": "cmt/upload_report_file/1507_1487159584.pdf",
       "manualDate": 1483122600000,
       "uploadedDate": 1487097000000,
       "fileText": "Interim Financial Statements as at 31-12-2016",
@@ -430,7 +430,7 @@
     },
     {
       "id": 29956,
-      "path": "upload_report_file/1507_1483598203939.pdf",
+      "path": "cmt/upload_report_file/1507_1483598203939.pdf",
       "manualDate": 1475173800000,
       "uploadedDate": 1483554600000,
       "fileText": "Annexures to Introductory Document",
@@ -439,7 +439,7 @@
     },
     {
       "id": 29955,
-      "path": "upload_report_file/1507_1483592703.pdf",
+      "path": "cmt/upload_report_file/1507_1483592703.pdf",
       "manualDate": 1419877800000,
       "uploadedDate": 1483554600000,
       "fileText": "Audited Financials for FY14",
@@ -448,7 +448,7 @@
     },
     {
       "id": 29954,
-      "path": "upload_report_file/1507_1483592540.pdf",
+      "path": "cmt/upload_report_file/1507_1483592540.pdf",
       "manualDate": 1451413800000,
       "uploadedDate": 1483554600000,
       "fileText": "Audited Financials for FY15",
@@ -457,7 +457,7 @@
     },
     {
       "id": 29952,
-      "path": "upload_report_file/1507_1483591802.pdf",
+      "path": "cmt/upload_report_file/1507_1483591802.pdf",
       "manualDate": 1483036200000,
       "uploadedDate": 1483554600000,
       "fileText": "Audited Financials for FY16",
@@ -466,7 +466,7 @@
     },
     {
       "id": 29950,
-      "path": "upload_report_file/1507_1483589974.pdf",
+      "path": "cmt/upload_report_file/1507_1483589974.pdf",
       "manualDate": 1482863400000,
       "uploadedDate": 1483554600000,
       "fileText": "Research Report",
@@ -475,7 +475,7 @@
     },
     {
       "id": 29930,
-      "path": "upload_report_file/1507_1483069911.pdf",
+      "path": "cmt/upload_report_file/1507_1483069911.pdf",
       "manualDate": null,
       "uploadedDate": 1483036200000,
       "fileText": "Introductory Document",

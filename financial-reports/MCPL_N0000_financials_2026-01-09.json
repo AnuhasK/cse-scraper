@@ -304,7 +304,7 @@
   "infoOtherData": [
     {
       "id": 33234,
-      "path": "upload_report_file/1907_1559551031.pdf",
+      "path": "cmt/upload_report_file/1907_1559551031.pdf",
       "manualDate": 1559500200000,
       "uploadedDate": 1559500200000,
       "fileText": "Introductory Document - Part I",
@@ -313,7 +313,7 @@
     },
     {
       "id": 33233,
-      "path": "upload_report_file/1907_1559550840.pdf",
+      "path": "cmt/upload_report_file/1907_1559550840.pdf",
       "manualDate": 1559500200000,
       "uploadedDate": 1559500200000,
       "fileText": "Introductory Document - Part II ",

@@ -56,7 +56,7 @@
     },
     {
       "id": 33281,
-      "path": "upload_report_file/1686_1559818764.pdf",
+      "path": "cmt/upload_report_file/1686_1559818764.pdf",
       "manualDate": null,
       "uploadedDate": 1559759400000,
       "fileText": "Annual Report 2018/2019",
@@ -65,7 +65,7 @@
     },
     {
       "id": 23736,
-      "path": "upload_report_file/1686_1529404837296.pdf",
+      "path": "cmt/upload_report_file/1686_1529404837296.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1529346600000,
       "fileText": "Annual Report 2017/2018",
@@ -310,7 +310,7 @@
     },
     {
       "id": 32794,
-      "path": "upload_report_file/1686_1557487099843.pdf",
+      "path": "cmt/upload_report_file/1686_1557487099843.pdf",
       "manualDate": 1570213800000,
       "uploadedDate": 1557426600000,
       "fileText": "JETS - quarterly financial report for the period ended 31st March 2019 ",
@@ -319,7 +319,7 @@
     },
     {
       "id": 32258,
-      "path": "upload_report_file/1686_1549966294324.pdf",
+      "path": "cmt/upload_report_file/1686_1549966294324.pdf",
       "manualDate": 1575225000000,
       "uploadedDate": 1549909800000,
       "fileText": "JETS - quarterly financial report for the 9 months ended 31st Decemeber 2018 ",
@@ -328,7 +328,7 @@
     },
     {
       "id": 31606,
-      "path": "upload_report_file/1686_1541040288083.pdf",
+      "path": "cmt/upload_report_file/1686_1541040288083.pdf",
       "manualDate": 1538245800000,
       "uploadedDate": 1541010600000,
       "fileText": "Interim Financial Statements as of 30-09-2018",
@@ -337,7 +337,7 @@
     },
     {
       "id": 24060,
-      "path": "upload_report_file/1686_1533812920767.pdf",
+      "path": "cmt/upload_report_file/1686_1533812920767.pdf",
       "manualDate": 1530297000000,
       "uploadedDate": 1533753000000,
       "fileText": "Quarterly Financial Report as at 30.06.2018",
@@ -346,7 +346,7 @@
     },
     {
       "id": 23256,
-      "path": "upload_report_file/1686_1526038085506.pdf",
+      "path": "cmt/upload_report_file/1686_1526038085506.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1525977000000,
       "fileText": "Interim Financial Statements as at 31.03.2018",
@@ -355,7 +355,7 @@
     },
     {
       "id": 22702,
-      "path": "upload_report_file/1686_1518434598088.pdf",
+      "path": "cmt/upload_report_file/1686_1518434598088.pdf",
       "manualDate": 1514658600000,
       "uploadedDate": 1518373800000,
       "fileText": "Interim Financial Statements as of 31-12-2017",
@@ -376,7 +376,7 @@
     },
     {
       "id": 22514,
-      "path": "upload_report_file/1686_1515384965952.pdf",
+      "path": "cmt/upload_report_file/1686_1515384965952.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Audited Financial Statements",
@@ -385,7 +385,7 @@
     },
     {
       "id": 22513,
-      "path": "upload_report_file/1686_1515384948114.pdf",
+      "path": "cmt/upload_report_file/1686_1515384948114.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 7",
@@ -394,7 +394,7 @@
     },
     {
       "id": 22512,
-      "path": "upload_report_file/1686_1515384924148.pdf",
+      "path": "cmt/upload_report_file/1686_1515384924148.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 6",
@@ -403,7 +403,7 @@
     },
     {
       "id": 22511,
-      "path": "upload_report_file/1686_1515384894423.pdf",
+      "path": "cmt/upload_report_file/1686_1515384894423.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 5",
@@ -412,7 +412,7 @@
     },
     {
       "id": 22510,
-      "path": "upload_report_file/1686_1515384872739.pdf",
+      "path": "cmt/upload_report_file/1686_1515384872739.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 4",
@@ -421,7 +421,7 @@
     },
     {
       "id": 22509,
-      "path": "upload_report_file/1686_1515384768667.pdf",
+      "path": "cmt/upload_report_file/1686_1515384768667.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 3",
@@ -430,7 +430,7 @@
     },
     {
       "id": 22508,
-      "path": "upload_report_file/1686_1515384831708.pdf",
+      "path": "cmt/upload_report_file/1686_1515384831708.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 2",
@@ -439,7 +439,7 @@
     },
     {
       "id": 22507,
-      "path": "upload_report_file/1686_1515384847507.pdf",
+      "path": "cmt/upload_report_file/1686_1515384847507.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515349800000,
       "fileText": "Revaluation report 1",
@@ -448,7 +448,7 @@
     },
     {
       "id": 31061,
-      "path": "upload_report_file/1686_1515124292.pdf",
+      "path": "cmt/upload_report_file/1686_1515124292.pdf",
       "manualDate": 1515090600000,
       "uploadedDate": 1515090600000,
       "fileText": "Prospectus",

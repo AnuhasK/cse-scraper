@@ -56,7 +56,7 @@
     },
     {
       "id": 33428,
-      "path": "upload_report_file/1544_1562152897475.pdf",
+      "path": "cmt/upload_report_file/1544_1562152897475.pdf",
       "manualDate": 1553970600000,
       "uploadedDate": 1562152897475,
       "fileText": "Annual Report 2018/2019",
@@ -65,7 +65,7 @@
     },
     {
       "id": 24376,
-      "path": "upload_report_file/1544_1535106885936.pdf",
+      "path": "cmt/upload_report_file/1544_1535106885936.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1535049000000,
       "fileText": "Annual Report 2017/2018",
@@ -74,7 +74,7 @@
     },
     {
       "id": 30500,
-      "path": "upload_report_file/1544_1497438628.pdf",
+      "path": "cmt/upload_report_file/1544_1497438628.pdf",
       "manualDate": 1490898600000,
       "uploadedDate": 1497378600000,
       "fileText": "Annual Report 2016/2017",
@@ -319,7 +319,7 @@
     },
     {
       "id": 33095,
-      "path": "upload_report_file/1544_1559271958.pdf",
+      "path": "cmt/upload_report_file/1544_1559271958.pdf",
       "manualDate": null,
       "uploadedDate": 1559241000000,
       "fileText": "Interim Financial Statements as of 31-03-2019",
@@ -328,7 +328,7 @@
     },
     {
       "id": 32293,
-      "path": "upload_report_file/1544_1550056100.pdf",
+      "path": "cmt/upload_report_file/1544_1550056100.pdf",
       "manualDate": 1546194600000,
       "uploadedDate": 1549996200000,
       "fileText": "Interim Financial Statements as of 31-12-2018",
@@ -337,7 +337,7 @@
     },
     {
       "id": 31769,
-      "path": "upload_report_file/1544_1542190214593.pdf",
+      "path": "cmt/upload_report_file/1544_1542190214593.pdf",
       "manualDate": 1538245800000,
       "uploadedDate": 1542133800000,
       "fileText": "Interim Financial Statements as at 30.09.2018",
@@ -346,7 +346,7 @@
     },
     {
       "id": 24204,
-      "path": "upload_report_file/1544_1534243605506.pdf",
+      "path": "cmt/upload_report_file/1544_1534243605506.pdf",
       "manualDate": 1530297000000,
       "uploadedDate": 1534185000000,
       "fileText": "Interim Financial Statements as of 30-06-2018",
@@ -355,7 +355,7 @@
     },
     {
       "id": 23533,
-      "path": "upload_report_file/1544_1527761900479.pdf",
+      "path": "cmt/upload_report_file/1544_1527761900479.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1527705000000,
       "fileText": "Interim Financial Statements as at 31-03-2018",
@@ -364,7 +364,7 @@
     },
     {
       "id": 22653,
-      "path": "upload_report_file/1544_1518174456536.pdf",
+      "path": "cmt/upload_report_file/1544_1518174456536.pdf",
       "manualDate": 1514658600000,
       "uploadedDate": 1518114600000,
       "fileText": "Interim Financial Statements as at 31-12-2017",
@@ -373,7 +373,7 @@
     },
     {
       "id": 30929,
-      "path": "upload_report_file/1544_1510659037.pdf",
+      "path": "cmt/upload_report_file/1544_1510659037.pdf",
       "manualDate": 1506709800000,
       "uploadedDate": 1510597800000,
       "fileText": "Interim Financial Statements as at 30-09-2017",
@@ -382,7 +382,7 @@
     },
     {
       "id": 30694,
-      "path": "upload_report_file/1544_1502796947.pdf",
+      "path": "cmt/upload_report_file/1544_1502796947.pdf",
       "manualDate": 1498761000000,
       "uploadedDate": 1502735400000,
       "fileText": "Interim Financial Statements as of 30-06-2017",
@@ -391,7 +391,7 @@
     },
     {
       "id": 30336,
-      "path": "upload_report_file/1544_1493867489.pdf",
+      "path": "cmt/upload_report_file/1544_1493867489.pdf",
       "manualDate": 1490898600000,
       "uploadedDate": 1493836200000,
       "fileText": "Unaudited Interim Financial Statements for the three months ended 31-03-2017",
@@ -412,7 +412,7 @@
     },
     {
       "id": 30335,
-      "path": "upload_report_file/1544_1493867009.pdf",
+      "path": "cmt/upload_report_file/1544_1493867009.pdf",
       "manualDate": 1493836200000,
       "uploadedDate": 1493836200000,
       "fileText": "Prospectus - Part III",
@@ -421,7 +421,7 @@
     },
     {
       "id": 30334,
-      "path": "upload_report_file/1544_1493866889.pdf",
+      "path": "cmt/upload_report_file/1544_1493866889.pdf",
       "manualDate": 1493836200000,
       "uploadedDate": 1493836200000,
       "fileText": "Prospectus - Part II",
@@ -430,7 +430,7 @@
     },
     {
       "id": 30333,
-      "path": "upload_report_file/1544_1493866802.pdf",
+      "path": "cmt/upload_report_file/1544_1493866802.pdf",
       "manualDate": 1493836200000,
       "uploadedDate": 1493836200000,
       "fileText": "Prospectus - Part I",

@@ -23,7 +23,7 @@ def extract_symbol_from_filename(filename):
         return parts[0]
     return "UNKNOWN"
 
-def download_pdf(path, symbol, report_type, index):
+def download_pdf(path, symbol, report_type, index, file_text=None):
     """Download PDF file from CSE server."""
     if not path:
         return False
@@ -36,8 +36,18 @@ def download_pdf(path, symbol, report_type, index):
     if not os.path.exists(pdf_dir):
         os.makedirs(pdf_dir)
     
-    # Extract filename or create one
-    filename = f"{report_type}_{index}_{os.path.basename(path)}"
+    # Create filename from fileText or fallback to default naming
+    # Extract base symbol (e.g., ABAN from ABAN.N0000 or ABAN_N0000)
+    base_symbol = symbol.split('.')[0].split('_')[0]
+    
+    if file_text:
+        # Sanitize fileText to create a valid filename
+        safe_filename = "".join(c if c.isalnum() or c in (' ', '-', '_', '.') else '_' for c in file_text)
+        safe_filename = safe_filename.strip().replace('  ', ' ')
+        filename = f"{base_symbol} {safe_filename}.pdf"
+    else:
+        filename = f"{base_symbol} {report_type}_{index}_{os.path.basename(path)}"
+    
     filepath = os.path.join(pdf_dir, filename)
     
     # Skip if already downloaded
@@ -81,7 +91,7 @@ def process_json_file(json_filepath):
     if annual_data:
         print(f"  Annual reports: {len(annual_data)}")
         for idx, item in enumerate(annual_data, 1):
-            if download_pdf(item.get('path'), symbol, 'annual', idx):
+            if download_pdf(item.get('path'), symbol, 'annual', idx, item.get('fileText')):
                 download_count += 1
     
     # Download quarterly reports
@@ -89,7 +99,7 @@ def process_json_file(json_filepath):
     if quarterly_data:
         print(f"  Quarterly reports: {len(quarterly_data)}")
         for idx, item in enumerate(quarterly_data, 1):
-            if download_pdf(item.get('path'), symbol, 'quarterly', idx):
+            if download_pdf(item.get('path'), symbol, 'quarterly', idx, item.get('fileText')):
                 download_count += 1
     
     # Download other documents
@@ -97,7 +107,7 @@ def process_json_file(json_filepath):
     if other_data:
         print(f"  Other documents: {len(other_data)}")
         for idx, item in enumerate(other_data, 1):
-            if download_pdf(item.get('path'), symbol, 'other', idx):
+            if download_pdf(item.get('path'), symbol, 'other', idx, item.get('fileText')):
                 download_count += 1
     
     print(f"  Downloaded: {download_count} files")

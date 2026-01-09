@@ -65,7 +65,7 @@
     },
     {
       "id": 24392,
-      "path": "upload_report_file/1631_1535451133939.pdf",
+      "path": "cmt/upload_report_file/1631_1535451133939.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1535394600000,
       "fileText": "Annual Report 2017/2018",
@@ -310,7 +310,7 @@
     },
     {
       "id": 33041,
-      "path": "upload_report_file/1631_1559125118041.pdf",
+      "path": "cmt/upload_report_file/1631_1559125118041.pdf",
       "manualDate": 1553970600000,
       "uploadedDate": 1559068200000,
       "fileText": "Quarterly Financial Report as of 31-03-2019",
@@ -319,7 +319,7 @@
     },
     {
       "id": 32320,
-      "path": "upload_report_file/1631_1550138216373.pdf",
+      "path": "cmt/upload_report_file/1631_1550138216373.pdf",
       "manualDate": 1546194600000,
       "uploadedDate": 1550082600000,
       "fileText": "Quarterly Financial Report as of 31-12-2018",
@@ -328,7 +328,7 @@
     },
     {
       "id": 31776,
-      "path": "upload_report_file/1631_1542191438671.pdf",
+      "path": "cmt/upload_report_file/1631_1542191438671.pdf",
       "manualDate": 1538245800000,
       "uploadedDate": 1542133800000,
       "fileText": "Interim Financial Statements as at 30.09.2018",
@@ -337,7 +337,7 @@
     },
     {
       "id": 24194,
-      "path": "upload_report_file/1631_1534242461164.pdf",
+      "path": "cmt/upload_report_file/1631_1534242461164.pdf",
       "manualDate": 1530297000000,
       "uploadedDate": 1534185000000,
       "fileText": "Interim Financial Statements as at 30.06.2018",
@@ -346,7 +346,7 @@
     },
     {
       "id": 23457,
-      "path": "upload_report_file/1631_1527674731240.pdf",
+      "path": "cmt/upload_report_file/1631_1527674731240.pdf",
       "manualDate": 1522434600000,
       "uploadedDate": 1527618600000,
       "fileText": "Quarterly Financial Report as of 31-03-2018",
@@ -355,7 +355,7 @@
     },
     {
       "id": 22740,
-      "path": "upload_report_file/1631_1518602437464.pdf",
+      "path": "cmt/upload_report_file/1631_1518602437464.pdf",
       "manualDate": 1514658600000,
       "uploadedDate": 1518546600000,
       "fileText": "Quarterly Financial Report as of 31-12-2017",
@@ -367,7 +367,7 @@
   "infoOtherData": [
     {
       "id": 30981,
-      "path": "upload_report_file/1631_1511243754.pdf",
+      "path": "cmt/upload_report_file/1631_1511243754.pdf",
       "manualDate": 1511202600000,
       "uploadedDate": 1511202600000,
       "fileText": "Valuation Report as at 31st August 2017",
@@ -376,7 +376,7 @@
     },
     {
       "id": 30980,
-      "path": "upload_report_file/1631_1511243723.pdf",
+      "path": "cmt/upload_report_file/1631_1511243723.pdf",
       "manualDate": 1511202600000,
       "uploadedDate": 1511202600000,
       "fileText": "Financial Statements as at 31.03.2016",
@@ -385,7 +385,7 @@
     },
     {
       "id": 30979,
-      "path": "upload_report_file/1631_1511243694.pdf",
+      "path": "cmt/upload_report_file/1631_1511243694.pdf",
       "manualDate": 1511202600000,
       "uploadedDate": 1511202600000,
       "fileText": "Financial Statements as at 31.03.2015",
@@ -394,7 +394,7 @@
     },
     {
       "id": 30978,
-      "path": "upload_report_file/1631_1511238214.pdf",
+      "path": "cmt/upload_report_file/1631_1511238214.pdf",
       "manualDate": 1511202600000,
       "uploadedDate": 1511202600000,
       "fileText": "Introductory Document ",
