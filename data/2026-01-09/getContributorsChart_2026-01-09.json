@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 18.15,
+      "lastTradedTime": 1767949179219
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 12.25,
+      "lastTradedTime": 1767949179917
+    },
+    {
+      "id": 1848,
+      "symbol": "VONE.N0000",
+      "name": "VALLIBEL ONE PLC",
+      "contribution": 9.44,
+      "lastTradedTime": 1767949075701
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 7.57,
+      "lastTradedTime": 1767948691045
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 7.45,
+      "lastTradedTime": 1767949185636
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -8.53,
+      "lastTradedTime": 1767949177068
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -6.25,
+      "lastTradedTime": 1767948098381
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -5.44,
+      "lastTradedTime": 1767949043865
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -4.43,
+      "lastTradedTime": 1767949199907
+    },
+    {
+      "id": 5353,
+      "symbol": "COOP.N0000",
+      "name": "CO-OPERATIVE INSURANCE COMPANY PLC",
+      "contribution": -3.32,
+      "lastTradedTime": 1767949147488
+    }
+  ]
+}
