@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": 10.5,
+      "lastTradedTime": 1768208095708
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 6.8,
+      "lastTradedTime": 1768208297708
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 6.43,
+      "lastTradedTime": 1768208396321
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": 6.4,
+      "lastTradedTime": 1768207736921
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": 6.16,
+      "lastTradedTime": 1768208396641
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -21.37,
+      "lastTradedTime": 1768208400518
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -10.67,
+      "lastTradedTime": 1768208398104
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -9.91,
+      "lastTradedTime": 1768208108834
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -6.16,
+      "lastTradedTime": 1768208218597
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.42,
+      "lastTradedTime": 1768208379108
+    }
+  ]
+}

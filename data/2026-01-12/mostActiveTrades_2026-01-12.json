@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53418702,
+    "securityId": 6857,
+    "symbol": "WLTH.N0000",
+    "tradeVolume": 1706.0,
+    "shareVolume": 2662901.0,
+    "turnover": 45824447.0,
+    "percentageShareVolume": -3.409090909090909
+  },
+  {
+    "id": 53418730,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 1344.0,
+    "shareVolume": 423492.0,
+    "turnover": 59814452.5,
+    "percentageShareVolume": -7.345575959933222
+  },
+  {
+    "id": 53418532,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 980.0,
+    "shareVolume": 933469.0,
+    "turnover": 143964625.75,
+    "percentageShareVolume": -0.48465266558966075
+  },
+  {
+    "id": 53418392,
+    "securityId": 1851,
+    "symbol": "BIL.N0000",
+    "tradeVolume": 921.0,
+    "shareVolume": 12941408.0,
+    "turnover": 90621116.1,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 53418696,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 822.0,
+    "shareVolume": 17103848.0,
+    "turnover": 389453385.7,
+    "percentageShareVolume": 0.43859649122807015
+  },
+  {
+    "id": 53418637,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 779.0,
+    "shareVolume": 4640992.0,
+    "turnover": 175562353.2,
+    "percentageShareVolume": 3.5616438356164384
+  },
+  {
+    "id": 53418494,
+    "securityId": 503,
+    "symbol": "RCL.N0000",
+    "tradeVolume": 761.0,
+    "shareVolume": 7386235.0,
+    "turnover": 368726446.2,
+    "percentageShareVolume": 1.0101010101010102
+  },
+  {
+    "id": 53418712,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 756.0,
+    "shareVolume": 836428.0,
+    "turnover": 85590978.25,
+    "percentageShareVolume": -1.4492753623188406
+  },
+  {
+    "id": 53418508,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "tradeVolume": 687.0,
+    "shareVolume": 7428856.0,
+    "turnover": 42831873.3,
+    "percentageShareVolume": 12.0
+  },
+  {
+    "id": 53418672,
+    "securityId": 387,
+    "symbol": "OSEA.N0000",
+    "tradeVolume": 681.0,
+    "shareVolume": 2687145.0,
+    "turnover": 125500525.1,
+    "percentageShareVolume": 3.3259423503325944
+  }
+]
