@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53456402,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 10.2,
+    "change": 3.4,
+    "changePercentage": 50.0,
+    "tradeDate": 1768294799000
+  },
+  {
+    "id": 53456566,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "price": 6.8,
+    "change": 1.2,
+    "changePercentage": 21.428571428571427,
+    "tradeDate": 1768294909000
+  },
+  {
+    "id": 53456082,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "price": 7.4,
+    "change": 1.3,
+    "changePercentage": 21.311475409836067,
+    "tradeDate": 1768295549000
+  },
+  {
+    "id": 53456507,
+    "securityId": 5351,
+    "symbol": "MDL.N0000",
+    "price": 23.7,
+    "change": 2.9,
+    "changePercentage": 13.942307692307692,
+    "tradeDate": 1768295205000
+  },
+  {
+    "id": 53455297,
+    "securityId": 490,
+    "symbol": "COMD.N0000",
+    "price": 332.25,
+    "change": 38.25,
+    "changePercentage": 13.010204081632653,
+    "tradeDate": 1768295283000
+  },
+  {
+    "id": 53456529,
+    "securityId": 335,
+    "symbol": "CWM.N0000",
+    "price": 187.0,
+    "change": 19.0,
+    "changePercentage": 11.30952380952381,
+    "tradeDate": 1768295454000
+  },
+  {
+    "id": 53454552,
+    "securityId": 389,
+    "symbol": "LAMB.N0000",
+    "price": 1440.25,
+    "change": 139.5,
+    "changePercentage": 10.724581971939266,
+    "tradeDate": 1768294548000
+  },
+  {
+    "id": 53456354,
+    "securityId": 3815,
+    "symbol": "RIL.N0000",
+    "price": 37.6,
+    "change": 2.5,
+    "changePercentage": 7.122507122507122,
+    "tradeDate": 1768295313000
+  },
+  {
+    "id": 53453429,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "price": 3.6,
+    "change": 0.2,
+    "changePercentage": 5.882352941176471,
+    "tradeDate": 1768294251000
+  },
+  {
+    "id": 53453927,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 327.75,
+    "change": 17.5,
+    "changePercentage": 5.640612409347301,
+    "tradeDate": 1768294832000
+  }
+]

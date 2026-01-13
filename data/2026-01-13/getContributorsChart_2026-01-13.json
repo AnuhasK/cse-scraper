@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 14.65,
+      "lastTradedTime": 1768294799332
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 10.35,
+      "lastTradedTime": 1768294788432
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 8.87,
+      "lastTradedTime": 1768294768549
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 7.22,
+      "lastTradedTime": 1768294788900
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 6.17,
+      "lastTradedTime": 1768294795758
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -22.69,
+      "lastTradedTime": 1768294797117
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -22.34,
+      "lastTradedTime": 1768294796538
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.94,
+      "lastTradedTime": 1768294788297
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -3.43,
+      "lastTradedTime": 1768294788025
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -3.32,
+      "lastTradedTime": 1768294702441
+    }
+  ]
+}
