@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53505747,
+    "securityId": 1521,
+    "symbol": "COCO.X0000",
+    "price": 56.0,
+    "change": -3.8,
+    "changePercentage": -6.354515050167224,
+    "tradeDate": 1768381843000
+  },
+  {
+    "id": 53502908,
+    "securityId": 22,
+    "symbol": "CABO.N0000",
+    "price": 205.5,
+    "change": -13.0,
+    "changePercentage": -5.949656750572083,
+    "tradeDate": 1768381031000
+  },
+  {
+    "id": 53503325,
+    "securityId": 1971,
+    "symbol": "CITW.N0000",
+    "price": 2.0,
+    "change": -0.1,
+    "changePercentage": -4.761904761904762,
+    "tradeDate": 1768380879000
+  },
+  {
+    "id": 53504838,
+    "securityId": 382,
+    "symbol": "LITE.N0000",
+    "price": 54.1,
+    "change": -2.7,
+    "changePercentage": -4.753521126760563,
+    "tradeDate": 1768381692000
+  },
+  {
+    "id": 53505869,
+    "securityId": 2091,
+    "symbol": "MEL.N0000",
+    "price": 4.1,
+    "change": -0.2,
+    "changePercentage": -4.651162790697675,
+    "tradeDate": 1768381645000
+  },
+  {
+    "id": 53505674,
+    "securityId": 523,
+    "symbol": "PMB.N0000",
+    "price": 13.3,
+    "change": -0.6,
+    "changePercentage": -4.316546762589928,
+    "tradeDate": 1768382029000
+  },
+  {
+    "id": 53498203,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 314.0,
+    "change": -13.75,
+    "changePercentage": -4.195270785659802,
+    "tradeDate": 1768379115000
+  },
+  {
+    "id": 53505722,
+    "securityId": 524,
+    "symbol": "HEXP.N0000",
+    "price": 112.5,
+    "change": -4.25,
+    "changePercentage": -3.640256959314775,
+    "tradeDate": 1768381790000
+  },
+  {
+    "id": 53505974,
+    "securityId": 3938,
+    "symbol": "RCH.N0000",
+    "price": 240.0,
+    "change": -9.0,
+    "changePercentage": -3.6144578313253013,
+    "tradeDate": 1768381340000
+  },
+  {
+    "id": 53502839,
+    "securityId": 1789,
+    "symbol": "SFCL.N0000",
+    "price": 1254.5,
+    "change": -47.0,
+    "changePercentage": -3.6112178255858627,
+    "tradeDate": 1768380988000
+  }
+]
