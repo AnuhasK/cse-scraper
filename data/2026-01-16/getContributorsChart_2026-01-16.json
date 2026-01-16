@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 28.58,
+      "lastTradedTime": 1768553993588
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 15.26,
+      "lastTradedTime": 1768553985878
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 8.28,
+      "lastTradedTime": 1768553464894
+    },
+    {
+      "id": 291,
+      "symbol": "NAMU.N0000",
+      "name": "NAMUNUKULA PLANTATIONS PLC",
+      "contribution": 7.77,
+      "lastTradedTime": 1768553999636
+    },
+    {
+      "id": 5353,
+      "symbol": "COOP.N0000",
+      "name": "CO-OPERATIVE INSURANCE COMPANY PLC",
+      "contribution": 4.97,
+      "lastTradedTime": 1768553998855
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -18.46,
+      "lastTradedTime": 1768553999414
+    },
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": -9.31,
+      "lastTradedTime": 1768553966567
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -9.08,
+      "lastTradedTime": 1768553844815
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -7.29,
+      "lastTradedTime": 1768553778734
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": -3.88,
+      "lastTradedTime": 1768553978346
+    }
+  ]
+}
