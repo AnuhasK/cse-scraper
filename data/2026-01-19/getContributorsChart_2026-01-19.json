@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": 6.87,
+      "lastTradedTime": 1768813095143
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 4.39,
+      "lastTradedTime": 1768813187676
+    },
+    {
+      "id": 4887,
+      "symbol": "WIND.N0000",
+      "name": "WINDFORCE PLC",
+      "contribution": 2.99,
+      "lastTradedTime": 1768813110580
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 2.99,
+      "lastTradedTime": 1768813025184
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 2.79,
+      "lastTradedTime": 1768813185112
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -16.03,
+      "lastTradedTime": 1768813200772
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -12.25,
+      "lastTradedTime": 1768813179126
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": -7.45,
+      "lastTradedTime": 1768813105138
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.42,
+      "lastTradedTime": 1768813156003
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -5.33,
+      "lastTradedTime": 1768813071691
+    }
+  ]
+}
