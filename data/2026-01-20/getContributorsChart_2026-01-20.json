@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 16.76,
+      "lastTradedTime": 1768899504319
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 10.69,
+      "lastTradedTime": 1768899600803
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 8.9,
+      "lastTradedTime": 1768899600463
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 8.17,
+      "lastTradedTime": 1768899455519
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 5.4,
+      "lastTradedTime": 1768899576533
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -35.23,
+      "lastTradedTime": 1768898864341
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -13.62,
+      "lastTradedTime": 1768899522715
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -4.71,
+      "lastTradedTime": 1768895732993
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -4.06,
+      "lastTradedTime": 1768898661859
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -3.39,
+      "lastTradedTime": 1768899568712
+    }
+  ]
+}
