@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 85.21,
+      "lastTradedTime": 1768985998969
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 57.31,
+      "lastTradedTime": 1768985999618
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 12.64,
+      "lastTradedTime": 1768987144985
+    },
+    {
+      "id": 1848,
+      "symbol": "VONE.N0000",
+      "name": "VALLIBEL ONE PLC",
+      "contribution": 11.65,
+      "lastTradedTime": 1768985998258
+    },
+    {
+      "id": 556,
+      "symbol": "SLTL.N0000",
+      "name": "SRI LANKA TELECOM PLC",
+      "contribution": 7.62,
+      "lastTradedTime": 1768985999598
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -19.25,
+      "lastTradedTime": 1768985861733
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -17.98,
+      "lastTradedTime": 1768985986355
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -7.63,
+      "lastTradedTime": 1768985992440
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -6.57,
+      "lastTradedTime": 1768985822668
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -4.5,
+      "lastTradedTime": 1768985952115
+    }
+  ]
+}
