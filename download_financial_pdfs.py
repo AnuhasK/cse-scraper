@@ -1,6 +1,8 @@
 import os
 import json
 import requests
+import time
+import random
 from pathlib import Path
 
 INPUT_DIR = "financial-reports"
@@ -57,7 +59,10 @@ def download_pdf(path, symbol, report_type, index, file_text=None):
     
     try:
         print(f"  Downloading: {filename}")
-        response = requests.get(pdf_url)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
+        response = requests.get(pdf_url, headers=headers)
         response.raise_for_status()
         
         with open(filepath, 'wb') as f:
@@ -93,7 +98,7 @@ def process_json_file(json_filepath):
         for idx, item in enumerate(annual_data, 1):
             if download_pdf(item.get('path'), symbol, 'annual', idx, item.get('fileText')):
                 download_count += 1
-    
+
     # Download quarterly reports
     quarterly_data = data.get('infoQuarterlyData', [])
     if quarterly_data:
@@ -101,7 +106,7 @@ def process_json_file(json_filepath):
         for idx, item in enumerate(quarterly_data, 1):
             if download_pdf(item.get('path'), symbol, 'quarterly', idx, item.get('fileText')):
                 download_count += 1
-    
+
     # Download other documents
     other_data = data.get('infoOtherData', [])
     if other_data:
@@ -140,3 +145,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    
