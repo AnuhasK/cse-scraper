@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 23.13,
+      "lastTradedTime": 1769072359701
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 11.02,
+      "lastTradedTime": 1769072393717
+    },
+    {
+      "id": 262,
+      "symbol": "UML.N0000",
+      "name": "UNITED MOTORS LANKA PLC",
+      "contribution": 7.59,
+      "lastTradedTime": 1769072393204
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 6.57,
+      "lastTradedTime": 1769072395506
+    },
+    {
+      "id": 250,
+      "symbol": "ASCO.N0000",
+      "name": "LANKA REALTY INVESTMENTS PLC",
+      "contribution": 5.76,
+      "lastTradedTime": 1769072396921
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -44.0,
+      "lastTradedTime": 1769072400275
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -12.14,
+      "lastTradedTime": 1769072400655
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -11.01,
+      "lastTradedTime": 1769072359546
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -4.95,
+      "lastTradedTime": 1769071853143
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -4.39,
+      "lastTradedTime": 1769072369249
+    }
+  ]
+}
