@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 25.03,
+      "lastTradedTime": 1769158799128
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 24.77,
+      "lastTradedTime": 1769158797497
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 19.05,
+      "lastTradedTime": 1769158783066
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": 11.35,
+      "lastTradedTime": 1769158793742
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 9.75,
+      "lastTradedTime": 1769158708112
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": -4.79,
+      "lastTradedTime": 1769158793671
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -3.63,
+      "lastTradedTime": 1769158613666
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -2.93,
+      "lastTradedTime": 1769158743819
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": -2.77,
+      "lastTradedTime": 1769158652024
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -2.22,
+      "lastTradedTime": 1769158656215
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53772098,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 6733.0,
+    "shareVolume": 14793519.0,
+    "turnover": 2211017337.5,
+    "percentageShareVolume": 9.306569343065693
+  },
+  {
+    "id": 53772008,
+    "securityId": 262,
+    "symbol": "UML.N0000",
+    "tradeVolume": 1924.0,
+    "shareVolume": 4607275.0,
+    "turnover": 196298014.9,
+    "percentageShareVolume": 5.134474327628362
+  },
+  {
+    "id": 53772068,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "tradeVolume": 1891.0,
+    "shareVolume": 24179481.0,
+    "turnover": 321261263.6,
+    "percentageShareVolume": 8.130081300813009
+  },
+  {
+    "id": 53772061,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 1281.0,
+    "shareVolume": 11308025.0,
+    "turnover": 477243581.9,
+    "percentageShareVolume": 5.955334987593052
+  },
+  {
+    "id": 53771801,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 1250.0,
+    "shareVolume": 4424698.0,
+    "turnover": 85382755.7,
+    "percentageShareVolume": 24.68354430379747
+  },
+  {
+    "id": 53772101,
+    "securityId": 410,
+    "symbol": "LOLC.N0000",
+    "tradeVolume": 1146.0,
+    "shareVolume": 2125997.0,
+    "turnover": 1246849662.75,
+    "percentageShareVolume": 6.153165117308544
+  },
+  {
+    "id": 53772079,
+    "securityId": 5371,
+    "symbol": "KPHL.N0000",
+    "tradeVolume": 1083.0,
+    "shareVolume": 3715916.0,
+    "turnover": 71053944.2,
+    "percentageShareVolume": 20.481927710843372
+  },
+  {
+    "id": 53772062,
+    "securityId": 1851,
+    "symbol": "BIL.N0000",
+    "tradeVolume": 862.0,
+    "shareVolume": 18018314.0,
+    "turnover": 125773477.3,
+    "percentageShareVolume": 5.970149253731344
+  },
+  {
+    "id": 53771211,
+    "securityId": 2026,
+    "symbol": "AGST.N0000",
+    "tradeVolume": 828.0,
+    "shareVolume": 11290854.0,
+    "turnover": 125008827.9,
+    "percentageShareVolume": 5.769230769230769
+  },
+  {
+    "id": 53772025,
+    "securityId": 142,
+    "symbol": "SIRA.N0000",
+    "tradeVolume": 753.0,
+    "shareVolume": 2676978.0,
+    "turnover": 102003426.2,
+    "percentageShareVolume": -0.26595744680851063
+  }
+]
