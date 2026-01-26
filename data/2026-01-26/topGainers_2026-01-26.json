@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53816480,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.5,
+    "change": 0.1,
+    "changePercentage": 25.0,
+    "tradeDate": 1769417288000
+  },
+  {
+    "id": 53818149,
+    "securityId": 203,
+    "symbol": "RGEM.N0000",
+    "price": 126.25,
+    "change": 25.25,
+    "changePercentage": 25.0,
+    "tradeDate": 1769417597000
+  },
+  {
+    "id": 53791270,
+    "securityId": 167,
+    "symbol": "HARI.N0000",
+    "price": 6982.0,
+    "change": 1396.25,
+    "changePercentage": 24.99664324396903,
+    "tradeDate": 1769404698000
+  },
+  {
+    "id": 53818982,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 762.0,
+    "change": 152.25,
+    "changePercentage": 24.969249692496923,
+    "tradeDate": 1769418501000
+  },
+  {
+    "id": 53815010,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 486.0,
+    "change": 97.0,
+    "changePercentage": 24.93573264781491,
+    "tradeDate": 1769416156000
+  },
+  {
+    "id": 53818928,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "price": 24.6,
+    "change": 4.9,
+    "changePercentage": 24.873096446700508,
+    "tradeDate": 1769418077000
+  },
+  {
+    "id": 53819241,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 16.6,
+    "change": 3.3,
+    "changePercentage": 24.81203007518797,
+    "tradeDate": 1769418390000
+  },
+  {
+    "id": 53819472,
+    "securityId": 3055,
+    "symbol": "MHDL.N0000",
+    "price": 8.7,
+    "change": 1.7,
+    "changePercentage": 24.285714285714285,
+    "tradeDate": 1769418290000
+  },
+  {
+    "id": 53819829,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 1.9,
+    "change": 0.3,
+    "changePercentage": 18.75,
+    "tradeDate": 1769418276000
+  },
+  {
+    "id": 53818703,
+    "securityId": 3244,
+    "symbol": "AINS.N0000",
+    "price": 39.3,
+    "change": 4.4,
+    "changePercentage": 12.607449856733524,
+    "tradeDate": 1769418431000
+  }
+]

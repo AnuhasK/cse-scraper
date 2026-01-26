@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 17.06,
+      "lastTradedTime": 1769417984855
+    },
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": 14.79,
+      "lastTradedTime": null
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 13.15,
+      "lastTradedTime": 1769418000221
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 12.57,
+      "lastTradedTime": 1769417862472
+    },
+    {
+      "id": 503,
+      "symbol": "RCL.N0000",
+      "name": "ROYAL CERAMICS LANKA PLC",
+      "contribution": 11.64,
+      "lastTradedTime": 1769418000186
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -7.22,
+      "lastTradedTime": 1769417992015
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -6.57,
+      "lastTradedTime": 1769417446217
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.94,
+      "lastTradedTime": 1769417648045
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -5.78,
+      "lastTradedTime": 1769415168760
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -5.55,
+      "lastTradedTime": 1769417863776
+    }
+  ]
+}
