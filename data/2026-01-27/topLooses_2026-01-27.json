@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53865621,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.4,
+    "change": -0.1,
+    "changePercentage": -20.0,
+    "tradeDate": 1769505197000
+  },
+  {
+    "id": 53866288,
+    "securityId": 203,
+    "symbol": "RGEM.N0000",
+    "price": 109.5,
+    "change": -16.75,
+    "changePercentage": -13.267326732673267,
+    "tradeDate": 1769504954000
+  },
+  {
+    "id": 53860796,
+    "securityId": 2150,
+    "symbol": "RFL.N0000",
+    "price": 36.1,
+    "change": -3.6,
+    "changePercentage": -9.06801007556675,
+    "tradeDate": 1769502832000
+  },
+  {
+    "id": 53865950,
+    "securityId": 167,
+    "symbol": "HARI.N0000",
+    "price": 6552.75,
+    "change": -429.25,
+    "changePercentage": -6.147951876253223,
+    "tradeDate": 1769504764000
+  },
+  {
+    "id": 53866218,
+    "securityId": 25,
+    "symbol": "BRWN.N0000",
+    "price": 194.0,
+    "change": -9.5,
+    "changePercentage": -4.6683046683046685,
+    "tradeDate": 1769504628000
+  },
+  {
+    "id": 53866215,
+    "securityId": 113,
+    "symbol": "ETWO.N0000",
+    "price": 71.5,
+    "change": -3.2,
+    "changePercentage": -4.28380187416332,
+    "tradeDate": 1769504580000
+  },
+  {
+    "id": 53866289,
+    "securityId": 1784,
+    "symbol": "PAP.N0000",
+    "price": 23.0,
+    "change": -1.0,
+    "changePercentage": -4.166666666666667,
+    "tradeDate": 1769505274000
+  },
+  {
+    "id": 53866147,
+    "securityId": 383,
+    "symbol": "CHOT.N0000",
+    "price": 39.2,
+    "change": -1.7,
+    "changePercentage": -4.156479217603912,
+    "tradeDate": 1769504543000
+  },
+  {
+    "id": 53864255,
+    "securityId": 5005,
+    "symbol": "VLL.X0000",
+    "price": 17.8,
+    "change": -0.7,
+    "changePercentage": -3.7837837837837838,
+    "tradeDate": 1769504733000
+  },
+  {
+    "id": 53864101,
+    "securityId": 214,
+    "symbol": "CONN.N0000",
+    "price": 36.6,
+    "change": -1.4,
+    "changePercentage": -3.6842105263157894,
+    "tradeDate": 1769504915000
+  }
+]

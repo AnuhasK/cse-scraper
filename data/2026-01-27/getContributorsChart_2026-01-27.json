@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 22.69,
+      "lastTradedTime": 1769504389237
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 9.78,
+      "lastTradedTime": 1769504391452
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 9.71,
+      "lastTradedTime": 1769504400245
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": 5.01,
+      "lastTradedTime": 1769504374535
+    },
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": 4.84,
+      "lastTradedTime": 1769504400925
+    },
+    {
+      "id": 503,
+      "symbol": "RCL.N0000",
+      "name": "ROYAL CERAMICS LANKA PLC",
+      "contribution": -7.28,
+      "lastTradedTime": 1769504305545
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -6.15,
+      "lastTradedTime": 1769504287605
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -5.86,
+      "lastTradedTime": 1769504337257
+    },
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": -4.55,
+      "lastTradedTime": 1769504353414
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -4.24,
+      "lastTradedTime": 1769504365515
+    }
+  ]
+}

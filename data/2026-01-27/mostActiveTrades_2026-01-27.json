@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53866280,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 2366.0,
+    "shareVolume": 4136167.0,
+    "turnover": 626805420.5,
+    "percentageShareVolume": 3.401360544217687
+  },
+  {
+    "id": 53866030,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "tradeVolume": 2125.0,
+    "shareVolume": 21815051.0,
+    "turnover": 212528122.2,
+    "percentageShareVolume": 22.89156626506024
+  },
+  {
+    "id": 53863863,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "tradeVolume": 1531.0,
+    "shareVolume": 5668093.0,
+    "turnover": 113861061.1,
+    "percentageShareVolume": 24.698795180722893
+  },
+  {
+    "id": 53866205,
+    "securityId": 2209,
+    "symbol": "ASIY.N0000",
+    "tradeVolume": 1399.0,
+    "shareVolume": 12531628.0,
+    "turnover": 154848162.0,
+    "percentageShareVolume": 5.172413793103448
+  },
+  {
+    "id": 53866241,
+    "securityId": 123,
+    "symbol": "DPL.N0000",
+    "tradeVolume": 1269.0,
+    "shareVolume": 4112512.0,
+    "turnover": 80884851.0,
+    "percentageShareVolume": 18.34319526627219
+  },
+  {
+    "id": 53865972,
+    "securityId": 384,
+    "symbol": "MULL.N0000",
+    "tradeVolume": 892.0,
+    "shareVolume": 32566491.0,
+    "turnover": 85000556.0,
+    "percentageShareVolume": 22.727272727272727
+  },
+  {
+    "id": 53865880,
+    "securityId": 3307,
+    "symbol": "SINH.N0000",
+    "tradeVolume": 723.0,
+    "shareVolume": 9842626.0,
+    "turnover": 135438609.4,
+    "percentageShareVolume": 20.0
+  },
+  {
+    "id": 53866216,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 664.0,
+    "shareVolume": 13621659.0,
+    "turnover": 305002442.6,
+    "percentageShareVolume": 2.262443438914027
+  },
+  {
+    "id": 53866045,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 627.0,
+    "shareVolume": 712679.0,
+    "turnover": 72620157.75,
+    "percentageShareVolume": -1.2135922330097086
+  },
+  {
+    "id": 53866276,
+    "securityId": 2145,
+    "symbol": "TAP.N0000",
+    "tradeVolume": 620.0,
+    "shareVolume": 900493.0,
+    "turnover": 40382334.1,
+    "percentageShareVolume": 0.45248868778280543
+  }
+]
