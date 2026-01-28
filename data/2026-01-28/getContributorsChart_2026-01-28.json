@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": 21.84,
+      "lastTradedTime": 1769588472253
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": 17.0,
+      "lastTradedTime": 1769590798206
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 13.62,
+      "lastTradedTime": 1769590795829
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 11.71,
+      "lastTradedTime": 1769587476668
+    },
+    {
+      "id": 5353,
+      "symbol": "COOP.N0000",
+      "name": "CO-OPERATIVE INSURANCE COMPANY PLC",
+      "contribution": 8.29,
+      "lastTradedTime": 1769590798557
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -6.13,
+      "lastTradedTime": 1769590775564
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -5.83,
+      "lastTradedTime": 1769590793894
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.42,
+      "lastTradedTime": 1769590790014
+    },
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": -4.96,
+      "lastTradedTime": 1769590705733
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -4.63,
+      "lastTradedTime": 1769590795771
+    }
+  ]
+}
