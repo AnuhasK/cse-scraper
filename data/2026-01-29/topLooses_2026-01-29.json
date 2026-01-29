@@ -1,0 +1,92 @@
+[
+  {
+    "id": 53961927,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 530.0,
+    "change": -76.75,
+    "changePercentage": -12.64936135146271,
+    "tradeDate": 1769677065000
+  },
+  {
+    "id": 53957241,
+    "securityId": 490,
+    "symbol": "COMD.N0000",
+    "price": 311.5,
+    "change": -27.0,
+    "changePercentage": -7.976366322008863,
+    "tradeDate": 1769676168000
+  },
+  {
+    "id": 53962826,
+    "securityId": 1789,
+    "symbol": "SFCL.N0000",
+    "price": 1005.0,
+    "change": -83.75,
+    "changePercentage": -7.6923076923076925,
+    "tradeDate": 1769677380000
+  },
+  {
+    "id": 53962713,
+    "securityId": 400,
+    "symbol": "MBSL.N0000",
+    "price": 12.6,
+    "change": -1.0,
+    "changePercentage": -7.352941176470588,
+    "tradeDate": 1769677606000
+  },
+  {
+    "id": 53962970,
+    "securityId": 2997,
+    "symbol": "TESS.X0000",
+    "price": 1.3,
+    "change": -0.1,
+    "changePercentage": -7.142857142857143,
+    "tradeDate": 1769677991000
+  },
+  {
+    "id": 53962420,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 769.25,
+    "change": -52.75,
+    "changePercentage": -6.417274939172749,
+    "tradeDate": 1769677610000
+  },
+  {
+    "id": 53962911,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 19.9,
+    "change": -1.3,
+    "changePercentage": -6.132075471698113,
+    "tradeDate": 1769677403000
+  },
+  {
+    "id": 53962821,
+    "securityId": 167,
+    "symbol": "HARI.N0000",
+    "price": 6012.25,
+    "change": -387.75,
+    "changePercentage": -6.05859375,
+    "tradeDate": 1769678007000
+  },
+  {
+    "id": 53952336,
+    "securityId": 484,
+    "symbol": "TSML.N0000",
+    "price": 46.1,
+    "change": -2.9,
+    "changePercentage": -5.918367346938775,
+    "tradeDate": 1769673786000
+  },
+  {
+    "id": 53957114,
+    "securityId": 137,
+    "symbol": "LPRT.N0000",
+    "price": 454.0,
+    "change": -24.0,
+    "changePercentage": -5.02092050209205,
+    "tradeDate": 1769675491000
+  }
+]
