@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54003481,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "price": 21.2,
+    "change": -3.4,
+    "changePercentage": -13.821138211382113,
+    "tradeDate": 1769763606000
+  },
+  {
+    "id": 54003000,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "price": 7.5,
+    "change": -1.2,
+    "changePercentage": -13.793103448275861,
+    "tradeDate": 1769763733000
+  },
+  {
+    "id": 54000676,
+    "securityId": 185,
+    "symbol": "SEMB.N0000",
+    "price": 0.8,
+    "change": -0.1,
+    "changePercentage": -11.11111111111111,
+    "tradeDate": 1769763097000
+  },
+  {
+    "id": 54003494,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 18.1,
+    "change": -1.8,
+    "changePercentage": -9.045226130653266,
+    "tradeDate": 1769764560000
+  },
+  {
+    "id": 54003458,
+    "securityId": 2091,
+    "symbol": "MEL.N0000",
+    "price": 6.6,
+    "change": -0.6,
+    "changePercentage": -8.333333333333334,
+    "tradeDate": 1769764270000
+  },
+  {
+    "id": 54003479,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "price": 10.9,
+    "change": -0.9,
+    "changePercentage": -7.627118644067797,
+    "tradeDate": 1769764084000
+  },
+  {
+    "id": 54000727,
+    "securityId": 167,
+    "symbol": "HARI.N0000",
+    "price": 5592.5,
+    "change": -419.75,
+    "changePercentage": -6.981579275645557,
+    "tradeDate": 1769763581000
+  },
+  {
+    "id": 54003449,
+    "securityId": 3055,
+    "symbol": "MHDL.N0000",
+    "price": 9.6,
+    "change": -0.6,
+    "changePercentage": -5.882352941176471,
+    "tradeDate": 1769764306000
+  },
+  {
+    "id": 54003456,
+    "securityId": 5732,
+    "symbol": "UBF.N0000",
+    "price": 3.2,
+    "change": -0.2,
+    "changePercentage": -5.882352941176471,
+    "tradeDate": 1769763616000
+  },
+  {
+    "id": 54002559,
+    "securityId": 5532,
+    "symbol": "LUMX.N0000",
+    "price": 6.8,
+    "change": -0.4,
+    "changePercentage": -5.555555555555555,
+    "tradeDate": 1769764238000
+  }
+]
