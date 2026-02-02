@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": 4.31,
+      "lastTradedTime": 1770022805958
+    },
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": 4.2,
+      "lastTradedTime": 1770022762860
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 3.62,
+      "lastTradedTime": 1770022628863
+    },
+    {
+      "id": 225,
+      "symbol": "ASIR.N0000",
+      "name": "ASIRI HOSPITAL HOLDINGS PLC",
+      "contribution": 2.35,
+      "lastTradedTime": 1770022778578
+    },
+    {
+      "id": 533,
+      "symbol": "WAPO.N0000",
+      "name": "GALLE FACE CAPITAL PARTNERS PLC",
+      "contribution": 1.96,
+      "lastTradedTime": null
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -18.44,
+      "lastTradedTime": 1770022464279
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -17.97,
+      "lastTradedTime": 1770023518987
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -14.62,
+      "lastTradedTime": 1770022764313
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -12.25,
+      "lastTradedTime": 1770022778256
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -9.08,
+      "lastTradedTime": 1770022796285
+    }
+  ]
+}
