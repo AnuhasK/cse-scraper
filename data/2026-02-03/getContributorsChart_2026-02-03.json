@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 12.14,
+      "lastTradedTime": 1770109194651
+    },
+    {
+      "id": 1854,
+      "symbol": "TJL.N0000",
+      "name": "TEEJAY LANKA PLC",
+      "contribution": 9.27,
+      "lastTradedTime": 1770109162031
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 8.81,
+      "lastTradedTime": 1770109095870
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 6.78,
+      "lastTradedTime": 1770109179210
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 6.57,
+      "lastTradedTime": 1770108906019
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -6.78,
+      "lastTradedTime": 1770108709850
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -4.54,
+      "lastTradedTime": 1770109154691
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -3.99,
+      "lastTradedTime": 1770108814012
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -3.61,
+      "lastTradedTime": 1770109183876
+    },
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": -2.94,
+      "lastTradedTime": 1770109044321
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54081877,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 3212.0,
+    "shareVolume": 21432591.0,
+    "turnover": 344602036.0,
+    "percentageShareVolume": 9.933774834437086
+  },
+  {
+    "id": 54081844,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 1475.0,
+    "shareVolume": 2657136.0,
+    "turnover": 405072735.0,
+    "percentageShareVolume": 4.288164665523156
+  },
+  {
+    "id": 54081875,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 1432.0,
+    "shareVolume": 2643817.0,
+    "turnover": 58501003.1,
+    "percentageShareVolume": 23.529411764705884
+  },
+  {
+    "id": 54081817,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "tradeVolume": 1306.0,
+    "shareVolume": 7183444.0,
+    "turnover": 88685553.1,
+    "percentageShareVolume": 21.153846153846153
+  },
+  {
+    "id": 54081879,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "tradeVolume": 1106.0,
+    "shareVolume": 3413659.0,
+    "turnover": 67615934.5,
+    "percentageShareVolume": 10.869565217391305
+  },
+  {
+    "id": 54081576,
+    "securityId": 1854,
+    "symbol": "TJL.N0000",
+    "tradeVolume": 800.0,
+    "shareVolume": 14986003.0,
+    "turnover": 541544040.7,
+    "percentageShareVolume": 9.523809523809524
+  },
+  {
+    "id": 54081800,
+    "securityId": 2091,
+    "symbol": "MEL.N0000",
+    "tradeVolume": 799.0,
+    "shareVolume": 4046761.0,
+    "turnover": 28454348.5,
+    "percentageShareVolume": 14.754098360655737
+  },
+  {
+    "id": 54081795,
+    "securityId": 533,
+    "symbol": "WAPO.N0000",
+    "tradeVolume": 777.0,
+    "shareVolume": 397878.0,
+    "turnover": 52279811.5,
+    "percentageShareVolume": -0.5859375
+  },
+  {
+    "id": 54081787,
+    "securityId": 5472,
+    "symbol": "EXT.N0000",
+    "tradeVolume": 723.0,
+    "shareVolume": 6102654.0,
+    "turnover": 64862011.3,
+    "percentageShareVolume": 14.736842105263158
+  },
+  {
+    "id": 54081269,
+    "securityId": 185,
+    "symbol": "SEMB.N0000",
+    "tradeVolume": 687.0,
+    "shareVolume": 63167342.0,
+    "turnover": 56915496.8,
+    "percentageShareVolume": 12.5
+  }
+]
