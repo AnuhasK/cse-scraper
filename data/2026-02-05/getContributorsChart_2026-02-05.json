@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 13.62,
+      "lastTradedTime": 1770281992609
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 9.03,
+      "lastTradedTime": 1770281902701
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 8.79,
+      "lastTradedTime": 1770281818786
+    },
+    {
+      "id": 554,
+      "symbol": "ACME.N0000",
+      "name": "ACME PRINTING & PACKAGING PLC",
+      "contribution": 6.82,
+      "lastTradedTime": 1770281910705
+    },
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": 6.16,
+      "lastTradedTime": 1770281977668
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -7.39,
+      "lastTradedTime": 1770281993887
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -6.61,
+      "lastTradedTime": 1770281935732
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -6.09,
+      "lastTradedTime": 1770281694618
+    },
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": -4.96,
+      "lastTradedTime": 1770281982867
+    },
+    {
+      "id": 512,
+      "symbol": "SINS.N0000",
+      "name": "SINGER (SRI LANKA) PLC",
+      "contribution": -4.49,
+      "lastTradedTime": 1770281982363
+    }
+  ]
+}
