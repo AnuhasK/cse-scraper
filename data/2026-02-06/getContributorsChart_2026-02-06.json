@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 554,
+      "symbol": "ACME.N0000",
+      "name": "ACME PRINTING & PACKAGING PLC",
+      "contribution": 14.71,
+      "lastTradedTime": 1770368302232
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 13.62,
+      "lastTradedTime": 1770368395757
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 10.83,
+      "lastTradedTime": 1770368395477
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 10.57,
+      "lastTradedTime": 1770368387348
+    },
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": 9.09,
+      "lastTradedTime": 1770368400776
+    },
+    {
+      "id": 335,
+      "symbol": "CWM.N0000",
+      "name": "C. W. MACKIE PLC",
+      "contribution": -10.9,
+      "lastTradedTime": 1770368347922
+    },
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": -10.53,
+      "lastTradedTime": 1770368375894
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -7.06,
+      "lastTradedTime": 1770368213693
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -6.78,
+      "lastTradedTime": 1770368332703
+    },
+    {
+      "id": 512,
+      "symbol": "SINS.N0000",
+      "name": "SINGER (SRI LANKA) PLC",
+      "contribution": -6.67,
+      "lastTradedTime": 1770367451050
+    }
+  ]
+}
