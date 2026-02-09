@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54219411,
+    "securityId": 2985,
+    "symbol": "SFCL.R0000",
+    "price": 384.0,
+    "change": -105.0,
+    "changePercentage": -21.47239263803681,
+    "tradeDate": 1770627860000
+  },
+  {
+    "id": 54219810,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "price": 11.9,
+    "change": -2.3,
+    "changePercentage": -16.197183098591548,
+    "tradeDate": 1770628435000
+  },
+  {
+    "id": 54192006,
+    "securityId": 1481,
+    "symbol": "RHL.X0000",
+    "price": 40.1,
+    "change": -3.9,
+    "changePercentage": -8.863636363636363,
+    "tradeDate": 1770613915000
+  },
+  {
+    "id": 54218211,
+    "securityId": 384,
+    "symbol": "MULL.N0000",
+    "price": 2.4,
+    "change": -0.2,
+    "changePercentage": -7.6923076923076925,
+    "tradeDate": 1770627296000
+  },
+  {
+    "id": 54219640,
+    "securityId": 1522,
+    "symbol": "CTBL.N0000",
+    "price": 12.0,
+    "change": -1.0,
+    "changePercentage": -7.6923076923076925,
+    "tradeDate": 1770627675000
+  },
+  {
+    "id": 54192082,
+    "securityId": 701,
+    "symbol": "RHL.N0000",
+    "price": 57.8,
+    "change": -4.8,
+    "changePercentage": -7.667731629392971,
+    "tradeDate": 1770613642000
+  },
+  {
+    "id": 54219651,
+    "securityId": 2091,
+    "symbol": "MEL.N0000",
+    "price": 7.3,
+    "change": -0.6,
+    "changePercentage": -7.594936708860759,
+    "tradeDate": 1770628043000
+  },
+  {
+    "id": 54219762,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "price": 6.5,
+    "change": -0.5,
+    "changePercentage": -7.142857142857143,
+    "tradeDate": 1770628530000
+  },
+  {
+    "id": 54217848,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 344.75,
+    "change": -26.0,
+    "changePercentage": -7.0128118678354685,
+    "tradeDate": 1770627485000
+  },
+  {
+    "id": 54219823,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "price": 21.0,
+    "change": -1.5,
+    "changePercentage": -6.666666666666667,
+    "tradeDate": 1770627956000
+  }
+]
