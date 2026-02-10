@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 9.08,
+      "lastTradedTime": 1770713994787
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": 3.88,
+      "lastTradedTime": 1770713947133
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 2.85,
+      "lastTradedTime": 1770713329200
+    },
+    {
+      "id": 291,
+      "symbol": "NAMU.N0000",
+      "name": "NAMUNUKULA PLANTATIONS PLC",
+      "contribution": 2.48,
+      "lastTradedTime": 1770713736700
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 2.06,
+      "lastTradedTime": 1770713987774
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -13.35,
+      "lastTradedTime": 1770713961379
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -10.14,
+      "lastTradedTime": 1770713755006
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -8.79,
+      "lastTradedTime": 1770713962735
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -6.53,
+      "lastTradedTime": 1770712335472
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -6.31,
+      "lastTradedTime": 1770713999006
+    }
+  ]
+}
