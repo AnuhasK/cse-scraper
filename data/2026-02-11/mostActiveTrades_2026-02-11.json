@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54287365,
+    "securityId": 230,
+    "symbol": "NHL.N0000",
+    "tradeVolume": 1193.0,
+    "shareVolume": 5242514.0,
+    "turnover": 74987332.4,
+    "percentageShareVolume": 15.079365079365079
+  },
+  {
+    "id": 54287388,
+    "securityId": 2985,
+    "symbol": "SFCL.R0000",
+    "tradeVolume": 1047.0,
+    "shareVolume": 192249.0,
+    "turnover": 54638022.75,
+    "percentageShareVolume": 25.61904761904762
+  },
+  {
+    "id": 54287384,
+    "securityId": 5732,
+    "symbol": "UBF.N0000",
+    "tradeVolume": 1006.0,
+    "shareVolume": 53418153.0,
+    "turnover": 172083691.2,
+    "percentageShareVolume": 3.225806451612903
+  },
+  {
+    "id": 54287387,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 826.0,
+    "shareVolume": 758225.0,
+    "turnover": 111780166.25,
+    "percentageShareVolume": 0.1694915254237288
+  },
+  {
+    "id": 54287392,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 760.0,
+    "shareVolume": 1898154.0,
+    "turnover": 19373540.4,
+    "percentageShareVolume": -4.545454545454546
+  },
+  {
+    "id": 54287386,
+    "securityId": 405,
+    "symbol": "EMER.N0000",
+    "tradeVolume": 715.0,
+    "shareVolume": 2058402.0,
+    "turnover": 35354329.9,
+    "percentageShareVolume": 4.320987654320987
+  },
+  {
+    "id": 54287354,
+    "securityId": 142,
+    "symbol": "SIRA.N0000",
+    "tradeVolume": 648.0,
+    "shareVolume": 4106838.0,
+    "turnover": 148674178.5,
+    "percentageShareVolume": -1.9021739130434783
+  },
+  {
+    "id": 54287367,
+    "securityId": 1965,
+    "symbol": "CALF.N0000",
+    "tradeVolume": 626.0,
+    "shareVolume": 117420.0,
+    "turnover": 20303670.0,
+    "percentageShareVolume": 22.93103448275862
+  },
+  {
+    "id": 54287320,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "tradeVolume": 539.0,
+    "shareVolume": 13106058.0,
+    "turnover": 119092799.2,
+    "percentageShareVolume": 10.843373493975903
+  },
+  {
+    "id": 54287361,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 538.0,
+    "shareVolume": 2118528.0,
+    "turnover": 47171362.9,
+    "percentageShareVolume": 0.9174311926605505
+  }
+]

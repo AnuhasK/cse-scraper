@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54287388,
+    "securityId": 2985,
+    "symbol": "SFCL.R0000",
+    "price": 329.75,
+    "change": 67.25,
+    "changePercentage": 25.61904761904762,
+    "tradeDate": 1770800792000
+  },
+  {
+    "id": 54286729,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.5,
+    "change": 0.1,
+    "changePercentage": 25.0,
+    "tradeDate": 1770800609000
+  },
+  {
+    "id": 54278075,
+    "securityId": 137,
+    "symbol": "LPRT.N0000",
+    "price": 771.5,
+    "change": 154.25,
+    "changePercentage": 24.98987444309437,
+    "tradeDate": 1770795546000
+  },
+  {
+    "id": 54285260,
+    "securityId": 117,
+    "symbol": "SIL.N0000",
+    "price": 434.5,
+    "change": 86.75,
+    "changePercentage": 24.94608195542775,
+    "tradeDate": 1770799986000
+  },
+  {
+    "id": 54287182,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 2417.5,
+    "change": 457.75,
+    "changePercentage": 23.357571118765147,
+    "tradeDate": 1770800637000
+  },
+  {
+    "id": 54287367,
+    "securityId": 1965,
+    "symbol": "CALF.N0000",
+    "price": 178.25,
+    "change": 33.25,
+    "changePercentage": 22.93103448275862,
+    "tradeDate": 1770800423000
+  },
+  {
+    "id": 54285475,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 610.0,
+    "change": 97.5,
+    "changePercentage": 19.024390243902438,
+    "tradeDate": 1770800576000
+  },
+  {
+    "id": 54287365,
+    "securityId": 230,
+    "symbol": "NHL.N0000",
+    "price": 14.5,
+    "change": 1.9,
+    "changePercentage": 15.079365079365079,
+    "tradeDate": 1770800491000
+  },
+  {
+    "id": 54286112,
+    "securityId": 389,
+    "symbol": "LAMB.N0000",
+    "price": 1650.0,
+    "change": 208.5,
+    "changePercentage": 14.464099895941727,
+    "tradeDate": 1770800543000
+  },
+  {
+    "id": 54287147,
+    "securityId": 6297,
+    "symbol": "CALC.U0000",
+    "price": 16.0,
+    "change": 1.8,
+    "changePercentage": 12.67605633802817,
+    "tradeDate": 1770800577000
+  }
+]
