@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54323274,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 3021.5,
+    "change": 604.0,
+    "changePercentage": 24.984488107549122,
+    "tradeDate": 1770886873000
+  },
+  {
+    "id": 54322927,
+    "securityId": 137,
+    "symbol": "LPRT.N0000",
+    "price": 964.0,
+    "change": 192.5,
+    "changePercentage": 24.95139338950097,
+    "tradeDate": 1770887106000
+  },
+  {
+    "id": 54318878,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 761.25,
+    "change": 151.25,
+    "changePercentage": 24.795081967213115,
+    "tradeDate": 1770885197000
+  },
+  {
+    "id": 54322790,
+    "securityId": 327,
+    "symbol": "CTEA.N0000",
+    "price": 1542.25,
+    "change": 306.0,
+    "changePercentage": 24.75227502527806,
+    "tradeDate": 1770887211000
+  },
+  {
+    "id": 54323479,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 442.0,
+    "change": 76.75,
+    "changePercentage": 21.013004791238878,
+    "tradeDate": 1770887623000
+  },
+  {
+    "id": 54323657,
+    "securityId": 117,
+    "symbol": "SIL.N0000",
+    "price": 519.5,
+    "change": 85.0,
+    "changePercentage": 19.56271576524741,
+    "tradeDate": 1770887726000
+  },
+  {
+    "id": 54320958,
+    "securityId": 363,
+    "symbol": "NEH.N0000",
+    "price": 5523.25,
+    "change": 812.5,
+    "changePercentage": 17.2477843230908,
+    "tradeDate": 1770886398000
+  },
+  {
+    "id": 54323339,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 162.5,
+    "change": 19.5,
+    "changePercentage": 13.636363636363637,
+    "tradeDate": 1770887416000
+  },
+  {
+    "id": 54323545,
+    "securityId": 198,
+    "symbol": "SHAW.N0000",
+    "price": 248.0,
+    "change": 28.0,
+    "changePercentage": 12.727272727272727,
+    "tradeDate": 1770887470000
+  },
+  {
+    "id": 54323490,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "price": 7.2,
+    "change": 0.7,
+    "changePercentage": 10.76923076923077,
+    "tradeDate": 1770887454000
+  }
+]

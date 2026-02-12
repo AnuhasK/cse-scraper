@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": 14.6,
+      "lastTradedTime": 1770877592505
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 10.2,
+      "lastTradedTime": 1770886804817
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 9.63,
+      "lastTradedTime": 1770886796935
+    },
+    {
+      "id": 518,
+      "symbol": "LMF.N0000",
+      "name": "LANKA MILK FOODS (CWE) PLC",
+      "contribution": 7.74,
+      "lastTradedTime": 1770886781535
+    },
+    {
+      "id": 327,
+      "symbol": "CTEA.N0000",
+      "name": "DILMAH CEYLON TEA COMPANY PLC",
+      "contribution": 7.74,
+      "lastTradedTime": 1770886620600
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -9.85,
+      "lastTradedTime": 1770886353555
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -9.79,
+      "lastTradedTime": 1770886796451
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -9.08,
+      "lastTradedTime": 1770886756104
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -3.19,
+      "lastTradedTime": 1770886747167
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -3.07,
+      "lastTradedTime": 1770886772048
+    }
+  ]
+}
