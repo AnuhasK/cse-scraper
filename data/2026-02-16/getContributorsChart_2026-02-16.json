@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 33.04,
+      "lastTradedTime": 1771232201263
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 30.69,
+      "lastTradedTime": 1771232385404
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 23.14,
+      "lastTradedTime": 1771232349948
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 14.08,
+      "lastTradedTime": 1771232399646
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 14.01,
+      "lastTradedTime": 1771232400590
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -7.39,
+      "lastTradedTime": 1771232279356
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -5.27,
+      "lastTradedTime": 1771232323474
+    },
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": -4.84,
+      "lastTradedTime": 1771232394018
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": -2.84,
+      "lastTradedTime": 1771232255186
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -2.42,
+      "lastTradedTime": 1771232264264
+    }
+  ]
+}
