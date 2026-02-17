@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": 9.6,
+      "lastTradedTime": 1771318798142
+    },
+    {
+      "id": 4986,
+      "symbol": "PLR.N0000",
+      "name": "PRIME LANDS RESIDENCIES PLC",
+      "contribution": 8.6,
+      "lastTradedTime": 1771318805445
+    },
+    {
+      "id": 518,
+      "symbol": "LMF.N0000",
+      "name": "LANKA MILK FOODS (CWE) PLC",
+      "contribution": 6.93,
+      "lastTradedTime": 1771318784561
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.87,
+      "lastTradedTime": 1771318733247
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 4.58,
+      "lastTradedTime": 1771317032392
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -9.83,
+      "lastTradedTime": 1771317804595
+    },
+    {
+      "id": 105,
+      "symbol": "PABC.N0000",
+      "name": "PAN ASIA BANKING CORPORATION PLC",
+      "contribution": -8.31,
+      "lastTradedTime": 1771318748065
+    },
+    {
+      "id": 375,
+      "symbol": "DIMO.N0000",
+      "name": "DIESEL & MOTOR ENGINEERING PLC",
+      "contribution": -7.73,
+      "lastTradedTime": 1771318798290
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.93,
+      "lastTradedTime": 1771318798496
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -4.92,
+      "lastTradedTime": 1771318798667
+    }
+  ]
+}

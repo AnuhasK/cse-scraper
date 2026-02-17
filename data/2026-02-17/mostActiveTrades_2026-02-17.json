@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54440711,
+    "securityId": 2209,
+    "symbol": "ASIY.N0000",
+    "tradeVolume": 1676.0,
+    "shareVolume": 13277148.0,
+    "turnover": 191808393.3,
+    "percentageShareVolume": 20.634920634920636
+  },
+  {
+    "id": 54440704,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 1627.0,
+    "shareVolume": 4786532.0,
+    "turnover": 245147021.9,
+    "percentageShareVolume": 9.583333333333334
+  },
+  {
+    "id": 54440712,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 1565.0,
+    "shareVolume": 34201335.0,
+    "turnover": 273779679.4,
+    "percentageShareVolume": 13.698630136986301
+  },
+  {
+    "id": 54440689,
+    "securityId": 6876,
+    "symbol": "MFPE.R0000",
+    "tradeVolume": 1563.0,
+    "shareVolume": 2261883.0,
+    "turnover": 17348950.9,
+    "percentageShareVolume": 80.85106382978724
+  },
+  {
+    "id": 54440598,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 1440.0,
+    "shareVolume": 2741101.0,
+    "turnover": 239320732.0,
+    "percentageShareVolume": 6.181818181818182
+  },
+  {
+    "id": 54440398,
+    "securityId": 105,
+    "symbol": "PABC.N0000",
+    "tradeVolume": 1093.0,
+    "shareVolume": 2920899.0,
+    "turnover": 174313472.4,
+    "percentageShareVolume": -5.405405405405405
+  },
+  {
+    "id": 54440706,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 974.0,
+    "shareVolume": 963523.0,
+    "turnover": 156605868.75,
+    "percentageShareVolume": -0.4622496147919877
+  },
+  {
+    "id": 54440672,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 973.0,
+    "shareVolume": 3890620.0,
+    "turnover": 101208593.4,
+    "percentageShareVolume": 1.5625
+  },
+  {
+    "id": 54440671,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "tradeVolume": 959.0,
+    "shareVolume": 2099551.0,
+    "turnover": 37879091.6,
+    "percentageShareVolume": 8.641975308641975
+  },
+  {
+    "id": 54440592,
+    "securityId": 405,
+    "symbol": "EMER.N0000",
+    "tradeVolume": 603.0,
+    "shareVolume": 1791072.0,
+    "turnover": 28841835.2,
+    "percentageShareVolume": -8.092485549132949
+  }
+]
