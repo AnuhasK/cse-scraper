@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54482800,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "price": 9.6,
+    "change": 1.3,
+    "changePercentage": 15.662650602409638,
+    "tradeDate": 1771405313000
+  },
+  {
+    "id": 54482669,
+    "securityId": 335,
+    "symbol": "CWM.N0000",
+    "price": 44.8,
+    "change": 5.0,
+    "changePercentage": 12.56281407035176,
+    "tradeDate": 1771405609000
+  },
+  {
+    "id": 54482779,
+    "securityId": 437,
+    "symbol": "SIGV.N0000",
+    "price": 16.1,
+    "change": 1.7,
+    "changePercentage": 11.805555555555555,
+    "tradeDate": 1771405204000
+  },
+  {
+    "id": 54482761,
+    "securityId": 4680,
+    "symbol": "HNBF.N0000",
+    "price": 9.2,
+    "change": 0.8,
+    "changePercentage": 9.523809523809524,
+    "tradeDate": 1771405640000
+  },
+  {
+    "id": 54482667,
+    "securityId": 384,
+    "symbol": "MULL.N0000",
+    "price": 2.5,
+    "change": 0.2,
+    "changePercentage": 8.695652173913043,
+    "tradeDate": 1771406033000
+  },
+  {
+    "id": 54482493,
+    "securityId": 4681,
+    "symbol": "HNBF.X0000",
+    "price": 8.9,
+    "change": 0.7,
+    "changePercentage": 8.536585365853659,
+    "tradeDate": 1771405411000
+  },
+  {
+    "id": 54480998,
+    "securityId": 1965,
+    "symbol": "CALF.N0000",
+    "price": 147.75,
+    "change": 10.25,
+    "changePercentage": 7.454545454545454,
+    "tradeDate": 1771404776000
+  },
+  {
+    "id": 54482748,
+    "securityId": 1041,
+    "symbol": "CRL.N0000",
+    "price": 6.5,
+    "change": 0.4,
+    "changePercentage": 6.557377049180328,
+    "tradeDate": 1771405372000
+  },
+  {
+    "id": 54482842,
+    "securityId": 119,
+    "symbol": "PARQ.N0000",
+    "price": 88.3,
+    "change": 5.2,
+    "changePercentage": 6.257521058965103,
+    "tradeDate": 1771405774000
+  },
+  {
+    "id": 54482766,
+    "securityId": 117,
+    "symbol": "SIL.N0000",
+    "price": 598.5,
+    "change": 34.0,
+    "changePercentage": 6.023029229406554,
+    "tradeDate": 1771405211000
+  }
+]
