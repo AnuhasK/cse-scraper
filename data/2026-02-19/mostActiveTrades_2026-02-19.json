@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54522575,
+    "securityId": 401,
+    "symbol": "ACME.R0000",
+    "tradeVolume": 3286.0,
+    "shareVolume": 49414473.0,
+    "turnover": 156089789.4,
+    "percentageShareVolume": -64.63414634146342
+  },
+  {
+    "id": 54522554,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 1550.0,
+    "shareVolume": 3814449.0,
+    "turnover": 35676106.3,
+    "percentageShareVolume": -14.018691588785046
+  },
+  {
+    "id": 54522230,
+    "securityId": 5371,
+    "symbol": "KPHL.N0000",
+    "tradeVolume": 1046.0,
+    "shareVolume": 3910097.0,
+    "turnover": 96912059.9,
+    "percentageShareVolume": 17.431192660550458
+  },
+  {
+    "id": 54522550,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1023.0,
+    "shareVolume": 489258.0,
+    "turnover": 80156187.75,
+    "percentageShareVolume": -1.0670731707317074
+  },
+  {
+    "id": 54522495,
+    "securityId": 2209,
+    "symbol": "ASIY.N0000",
+    "tradeVolume": 994.0,
+    "shareVolume": 7306478.0,
+    "turnover": 121214722.5,
+    "percentageShareVolume": 2.5157232704402515
+  },
+  {
+    "id": 54522542,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 907.0,
+    "shareVolume": 10884451.0,
+    "turnover": 103640836.5,
+    "percentageShareVolume": -3.125
+  },
+  {
+    "id": 54522468,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 872.0,
+    "shareVolume": 868973.0,
+    "turnover": 137239578.0,
+    "percentageShareVolume": -2.945736434108527
+  },
+  {
+    "id": 54522576,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 766.0,
+    "shareVolume": 2560849.0,
+    "turnover": 66909432.3,
+    "percentageShareVolume": -4.477611940298507
+  },
+  {
+    "id": 54521943,
+    "securityId": 4680,
+    "symbol": "HNBF.N0000",
+    "tradeVolume": 727.0,
+    "shareVolume": 8037194.0,
+    "turnover": 75265143.0,
+    "percentageShareVolume": -1.0869565217391304
+  },
+  {
+    "id": 54522501,
+    "securityId": 117,
+    "symbol": "SIL.N0000",
+    "tradeVolume": 716.0,
+    "shareVolume": 114463.0,
+    "turnover": 75981980.75,
+    "percentageShareVolume": 14.82873851294904
+  }
+]
