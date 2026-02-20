@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 7.22,
+      "lastTradedTime": 1771577984285
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 6.03,
+      "lastTradedTime": 1771577078471
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 5.65,
+      "lastTradedTime": 1771577941446
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 4.92,
+      "lastTradedTime": 1771577991073
+    },
+    {
+      "id": 3461,
+      "symbol": "PINS.N0000",
+      "name": "PEOPLE'S INSURANCE PLC",
+      "contribution": 4.09,
+      "lastTradedTime": 1771577911620
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -13.61,
+      "lastTradedTime": 1771577993162
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -10.93,
+      "lastTradedTime": 1771574771785
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -8.53,
+      "lastTradedTime": 1771577935447
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -5.24,
+      "lastTradedTime": 1771577992492
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -4.54,
+      "lastTradedTime": 1771577984597
+    }
+  ]
+}
