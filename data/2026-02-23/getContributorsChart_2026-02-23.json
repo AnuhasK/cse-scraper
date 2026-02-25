@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 13.4,
+      "lastTradedTime": 1771837084810
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 5.74,
+      "lastTradedTime": 1771837200334
+    },
+    {
+      "id": 4986,
+      "symbol": "PLR.N0000",
+      "name": "PRIME LANDS RESIDENCIES PLC",
+      "contribution": 5.61,
+      "lastTradedTime": 1771837200425
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 4.08,
+      "lastTradedTime": 1771837194136
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 3.96,
+      "lastTradedTime": 1771837069934
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": -8.13,
+      "lastTradedTime": 1771833632341
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -6.13,
+      "lastTradedTime": 1771837200527
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -5.34,
+      "lastTradedTime": 1771837153178
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -4.54,
+      "lastTradedTime": 1771837187096
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": -4.11,
+      "lastTradedTime": 1771837084419
+    }
+  ]
+}
