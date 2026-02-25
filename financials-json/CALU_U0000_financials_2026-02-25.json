@@ -1,0 +1,36 @@
+{
+  "infoAnnualData": [],
+  "infoQuarterlyData": [],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 50561,
+      "path": "cmt/upload_report_file/3519_1771493446721.pdf",
+      "manualDate": 1771439400000,
+      "uploadedDate": 1771493446721,
+      "fileText": "Trust Deed-Part 01",
+      "path2": null,
+      "authorizedDate": 1771494061143
+    },
+    {
+      "id": 50560,
+      "path": "cmt/upload_report_file/3519_1771493497112.pdf",
+      "manualDate": 1771439400000,
+      "uploadedDate": 1771493497112,
+      "fileText": "Trust Deed-Part 02",
+      "path2": null,
+      "authorizedDate": 1771493907201
+    },
+    {
+      "id": 50559,
+      "path": "cmt/upload_report_file/3519_1771493529170.pdf",
+      "manualDate": 1771439400000,
+      "uploadedDate": 1771493529170,
+      "fileText": "Trust Deed-Part 03",
+      "path2": null,
+      "authorizedDate": 1771493825561
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}

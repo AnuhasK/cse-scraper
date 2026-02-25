@@ -1,0 +1,101 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 48484,
+      "path": "cmt/upload_report_file/3279_1754019103606.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1754019103606,
+      "fileText": "Annual Report 2024/2025",
+      "path2": "cmt/upload_report_file/3279_1754019103606.",
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 50429,
+      "path": "cmt/upload_report_file/3279_1770980002943.pdf",
+      "manualDate": 1767119400000,
+      "uploadedDate": 1770980002943,
+      "fileText": "Interim Financial Statements for the Quarter ended 31st December 2025",
+      "path2": "cmt/upload_report_file/3279_1770980002943.",
+      "authorizedDate": 1770980389078
+    },
+    {
+      "id": 49530,
+      "path": "cmt/upload_report_file/3279_1763041219104.pdf",
+      "manualDate": 1759170600000,
+      "uploadedDate": 1763041219104,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th September 2025",
+      "path2": "cmt/upload_report_file/3279_1763041219104.",
+      "authorizedDate": 1763088306671
+    },
+    {
+      "id": 48622,
+      "path": "cmt/upload_report_file/3279_1755007815053.pdf",
+      "manualDate": 1751221800000,
+      "uploadedDate": 1755007815053,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th June 2025",
+      "path2": "cmt/upload_report_file/3279_1755007815053.",
+      "authorizedDate": null
+    },
+    {
+      "id": 48199,
+      "path": "cmt/upload_report_file/3279_1748944660247.03.2025.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1748944660247,
+      "fileText": "Interim Financial Statements for the quarter ended 31st March 2025",
+      "path2": "cmt/upload_report_file/3279_1748944660247.",
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 47641,
+      "path": "cmt/upload_report_file/3279_1742442446351.pdf",
+      "manualDate": 1742409000000,
+      "uploadedDate": 1742442446351,
+      "fileText": "Key Investor Information Document - Introduction (CAL 5 Year Closed End Fund)",
+      "path2": "cmt/upload_report_file/3279_1742442446351.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47645,
+      "path": "cmt/upload_report_file/3279_1742442415842.pdf",
+      "manualDate": 1742409000000,
+      "uploadedDate": 1742442415842,
+      "fileText": "Supplementary Trust Deed - Introduction (CAL 5 Year Closed End Fund)",
+      "path2": "cmt/upload_report_file/3279_1742442415842.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47644,
+      "path": "cmt/upload_report_file/3279_1742442357086.pdf",
+      "manualDate": 1742409000000,
+      "uploadedDate": 1742442357086,
+      "fileText": "Trust Deed 3 - Introduction (CAL 5 Year Closed End Fund)",
+      "path2": "cmt/upload_report_file/3279_1742442357086.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47643,
+      "path": "cmt/upload_report_file/3279_1742442323831.pdf",
+      "manualDate": 1742409000000,
+      "uploadedDate": 1742442323831,
+      "fileText": "Trust Deed 2 - Introduction (CAL 5 Year Closed End Fund)",
+      "path2": "cmt/upload_report_file/3279_1742442323831.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47642,
+      "path": "cmt/upload_report_file/3279_1742442287665.pdf",
+      "manualDate": 1742409000000,
+      "uploadedDate": 1742442287665,
+      "fileText": "Trust Deed 1 - Introduction (CAL 5 Year Closed End Fund)",
+      "path2": "cmt/upload_report_file/3279_1742442287665.",
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}

@@ -1,0 +1,101 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 48269,
+      "path": "cmt/upload_report_file/3259_1749212722365.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1749212722365,
+      "fileText": "Annual Report - 2024/25",
+      "path2": "cmt/upload_report_file/3259_1749212722365.",
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 50358,
+      "path": "cmt/upload_report_file/3259_1770974287032.pdf",
+      "manualDate": 1767119400000,
+      "uploadedDate": 1770974287032,
+      "fileText": "Interim Financial Statements for the Quarter ended 31st December 2025",
+      "path2": "cmt/upload_report_file/3259_1770974287032.",
+      "authorizedDate": 1770976162789
+    },
+    {
+      "id": 49621,
+      "path": "cmt/upload_report_file/3259_1763114947062.09.2025.pdf",
+      "manualDate": 1759170600000,
+      "uploadedDate": 1763114947062,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th September 2025",
+      "path2": "cmt/upload_report_file/3259_1763114947062.",
+      "authorizedDate": 1763118450187
+    },
+    {
+      "id": 48399,
+      "path": "cmt/upload_report_file/3259_1753090142195.06.2025.pdf",
+      "manualDate": 1751221800000,
+      "uploadedDate": 1753090142195,
+      "fileText": "Interim Financial Statements as at 30th June 2025",
+      "path2": "cmt/upload_report_file/3259_1753090142195.",
+      "authorizedDate": null
+    },
+    {
+      "id": 48035,
+      "path": "cmt/upload_report_file/3259_1748519083401.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1748519083401,
+      "fileText": "Interim Financial Statements as at 31st March 2025",
+      "path2": "cmt/upload_report_file/3259_1748519083401.",
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 47624,
+      "path": "cmt/upload_report_file/3259_1741667805425.pdf",
+      "manualDate": 1741631400000,
+      "uploadedDate": 1741667805425,
+      "fileText": "Five Year Summary - High Yield Bond Issue 2025",
+      "path2": "cmt/upload_report_file/3259_1741667805425.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47623,
+      "path": "cmt/upload_report_file/3259_1741667735157.pdf",
+      "manualDate": 1741631400000,
+      "uploadedDate": 1741667735157,
+      "fileText": "Accountants Report - High Yield Bond Issue 2025",
+      "path2": "cmt/upload_report_file/3259_1741667735157.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47622,
+      "path": "cmt/upload_report_file/3259_1741667654860.pdf",
+      "manualDate": 1741631400000,
+      "uploadedDate": 1741667654860,
+      "fileText": "Supplementary Trust Deed - High Yield Bond Issue 2025",
+      "path2": "cmt/upload_report_file/3259_1741667654860.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47621,
+      "path": "cmt/upload_report_file/3259_1741667590696.pdf",
+      "manualDate": 1741631400000,
+      "uploadedDate": 1741667590696,
+      "fileText": "Trust Deed - High Yield Bond Issue 2025",
+      "path2": "cmt/upload_report_file/3259_1741667590696.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47620,
+      "path": "cmt/upload_report_file/3259_1741667538879.pdf",
+      "manualDate": 1741631400000,
+      "uploadedDate": 1741667538879,
+      "fileText": "Prospectus - High Yield Bond Issue 2025",
+      "path2": "cmt/upload_report_file/3259_1741667538879.",
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}

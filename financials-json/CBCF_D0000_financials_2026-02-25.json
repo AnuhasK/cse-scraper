@@ -1,0 +1,46 @@
+{
+  "infoAnnualData": [],
+  "infoQuarterlyData": [
+    {
+      "id": 49880,
+      "path": "cmt/upload_report_file/3439_1767954451621.9.2025.pdf",
+      "manualDate": 1759170600000,
+      "uploadedDate": 1767954451621,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th September 2025",
+      "path2": "cmt/upload_report_file/3439_1767954451621.",
+      "authorizedDate": 1767957407574
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 49783,
+      "path": "cmt/upload_report_file/3439_1765422081828.pdf",
+      "manualDate": 1765391400000,
+      "uploadedDate": 1765422081828,
+      "fileText": "Accountants Report and 5 Year Summeary - Debenture Issue 2025",
+      "path2": "cmt/upload_report_file/3439_1765422081828.",
+      "authorizedDate": null
+    },
+    {
+      "id": 49782,
+      "path": "cmt/upload_report_file/3439_1765421973590.pdf",
+      "manualDate": 1765391400000,
+      "uploadedDate": 1765421973590,
+      "fileText": "Trust Deed - Debenture Issue 2025",
+      "path2": "cmt/upload_report_file/3439_1765421973590.",
+      "authorizedDate": null
+    },
+    {
+      "id": 49781,
+      "path": "cmt/upload_report_file/3439_1765421869335.pdf",
+      "manualDate": 1765391400000,
+      "uploadedDate": 1765421869335,
+      "fileText": "Prospectus - Debenture Issue 2025",
+      "path2": "cmt/upload_report_file/3439_1765421869335.",
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}

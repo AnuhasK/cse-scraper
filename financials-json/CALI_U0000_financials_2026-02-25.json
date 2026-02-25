@@ -1,0 +1,119 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 48488,
+      "path": "cmt/upload_report_file/3138_1754019147083.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1754019147083,
+      "fileText": "Annual Report 2024/2025",
+      "path2": "cmt/upload_report_file/3138_1754019147083.",
+      "authorizedDate": null
+    },
+    {
+      "id": 46188,
+      "path": "cmt/upload_report_file/3138_1722424318429.pdf",
+      "manualDate": 1711823400000,
+      "uploadedDate": 1722424318429,
+      "fileText": "Annual Report 2023/2024",
+      "path2": "cmt/upload_report_file/3138_1722424318429.",
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 50336,
+      "path": "cmt/upload_report_file/3138_1770974415524.pdf",
+      "manualDate": 1767119400000,
+      "uploadedDate": 1770974415524,
+      "fileText": "Interim Financial Statements for the Quarter ended 31st December 2025",
+      "path2": "cmt/upload_report_file/3138_1770974415524.",
+      "authorizedDate": 1770975022791
+    },
+    {
+      "id": 49529,
+      "path": "cmt/upload_report_file/3138_1763041275097.pdf",
+      "manualDate": 1759170600000,
+      "uploadedDate": 1763041275097,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th September 2025",
+      "path2": "cmt/upload_report_file/3138_1763041275097.",
+      "authorizedDate": 1763088176593
+    },
+    {
+      "id": 48623,
+      "path": "cmt/upload_report_file/3138_1755007904411.pdf",
+      "manualDate": 1751221800000,
+      "uploadedDate": 1755007904411,
+      "fileText": "Interim Financial Statements for the Quarter ended 30th June 2025",
+      "path2": "cmt/upload_report_file/3138_1755007904411.",
+      "authorizedDate": null
+    },
+    {
+      "id": 48086,
+      "path": "cmt/upload_report_file/3138_1748598233444.pdf",
+      "manualDate": 1743359400000,
+      "uploadedDate": 1748598233444,
+      "fileText": "Interim Financial Statements for the quarter ended 31st March 2025",
+      "path2": "cmt/upload_report_file/3138_1748598233444.",
+      "authorizedDate": null
+    },
+    {
+      "id": 47451,
+      "path": "cmt/upload_report_file/3138_1739531215521.pdf",
+      "manualDate": 1735583400000,
+      "uploadedDate": 1739531215521,
+      "fileText": "Interim Financial Statements for the period ended 31st December 2024",
+      "path2": "cmt/upload_report_file/3138_1739531215521.",
+      "authorizedDate": null
+    },
+    {
+      "id": 46892,
+      "path": "cmt/upload_report_file/3138_1731324381770.pdf",
+      "manualDate": 1727634600000,
+      "uploadedDate": 1731324381770,
+      "fileText": "Interim Financial Statements for the period ended 30th September 2024",
+      "path2": "cmt/upload_report_file/3138_1731324381770.",
+      "authorizedDate": null
+    },
+    {
+      "id": 46429,
+      "path": "cmt/upload_report_file/3138_1723716085931.pdf",
+      "manualDate": 1719685800000,
+      "uploadedDate": 1723716085931,
+      "fileText": " Interim Financial Statements for the Quarter ended 30th June 2024",
+      "path2": "cmt/upload_report_file/3138_1723716085931.",
+      "authorizedDate": null
+    },
+    {
+      "id": 45838,
+      "path": "cmt/upload_report_file/3138_1717150086923.pdf",
+      "manualDate": 1711823400000,
+      "uploadedDate": 1717150086923,
+      "fileText": "Interim Financial Statements for the Quarter ended  31st March 2024",
+      "path2": "cmt/upload_report_file/3138_1717150086923.",
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 44945,
+      "path": "cmt/upload_report_file/3138_1706757619265.pdf",
+      "manualDate": 1706725800000,
+      "uploadedDate": 1706757619265,
+      "fileText": "Trust Deed - CAL FIVE YEAR OPTIMUM FUND (?Units?)",
+      "path2": "cmt/upload_report_file/3138_1706757619265.",
+      "authorizedDate": null
+    },
+    {
+      "id": 44944,
+      "path": "cmt/upload_report_file/3138_1706757464194.pdf",
+      "manualDate": 1706725800000,
+      "uploadedDate": 1706757464194,
+      "fileText": "Key Investor Information Document",
+      "path2": "cmt/upload_report_file/3138_1706757464194.",
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}
