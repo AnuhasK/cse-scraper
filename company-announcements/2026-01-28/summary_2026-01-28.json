@@ -1,0 +1,17 @@
+{
+  "api": "https://www.cse.lk/api/getAnnouncementByCompany",
+  "fromDate": "2020-01-28",
+  "toDate": "2026-01-28",
+  "symbols": 1,
+  "ok": 1,
+  "error": 0,
+  "results": [
+    {
+      "symbol": "ABAN.N0000",
+      "ok": true,
+      "output_path": "company-announcements\\2026-01-28\\ABAN.N0000_2020-01-28_2026-01-28.json",
+      "announcements_count": null,
+      "error": null
+    }
+  ]
+}

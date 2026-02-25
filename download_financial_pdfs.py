@@ -6,7 +6,7 @@ import random
 from pathlib import Path
 
 INPUT_DIR = "financial-reports"
-OUTPUT_BASE_DIR = "financial-reports/pdfs"
+OUTPUT_BASE_DIR = r"C:\\Users\\Anuhas\\Documents\\datasets\\CSE company reports"
 
 def get_json_files():
     """Get all JSON files from the financial-reports directory."""
