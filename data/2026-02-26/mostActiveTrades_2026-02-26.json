@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54691989,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 2382.0,
+    "shareVolume": 33412110.0,
+    "turnover": 359821805.1,
+    "percentageShareVolume": 21.50537634408602
+  },
+  {
+    "id": 54691924,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 1694.0,
+    "shareVolume": 3346738.0,
+    "turnover": 198016643.4,
+    "percentageShareVolume": -1.6891891891891893
+  },
+  {
+    "id": 54692048,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 1390.0,
+    "shareVolume": 3330906.0,
+    "turnover": 303284491.2,
+    "percentageShareVolume": 9.165687426556993
+  },
+  {
+    "id": 54691979,
+    "securityId": 2065,
+    "symbol": "AEL.N0000",
+    "tradeVolume": 1176.0,
+    "shareVolume": 4657219.0,
+    "turnover": 372261912.9,
+    "percentageShareVolume": 3.6222509702457955
+  },
+  {
+    "id": 54692034,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 992.0,
+    "shareVolume": 3410820.0,
+    "turnover": 82845951.5,
+    "percentageShareVolume": -4.4
+  },
+  {
+    "id": 54691814,
+    "securityId": 1522,
+    "symbol": "CTBL.N0000",
+    "tradeVolume": 983.0,
+    "shareVolume": 5369385.0,
+    "turnover": 81567762.1,
+    "percentageShareVolume": 1.36986301369863
+  },
+  {
+    "id": 54692008,
+    "securityId": 401,
+    "symbol": "ACME.R0000",
+    "tradeVolume": 869.0,
+    "shareVolume": 17029060.0,
+    "turnover": 49566788.6,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 54691999,
+    "securityId": 5371,
+    "symbol": "KPHL.N0000",
+    "tradeVolume": 849.0,
+    "shareVolume": 2379287.0,
+    "turnover": 81709430.6,
+    "percentageShareVolume": 5.405405405405405
+  },
+  {
+    "id": 54692001,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 750.0,
+    "shareVolume": 1740591.0,
+    "turnover": 279446194.0,
+    "percentageShareVolume": -0.15552099533437014
+  },
+  {
+    "id": 54692043,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 661.0,
+    "shareVolume": 1323112.0,
+    "turnover": 203242088.25,
+    "percentageShareVolume": 2.7914614121510675
+  }
+]
