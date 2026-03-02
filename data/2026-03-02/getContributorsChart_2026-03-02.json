@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": 16.85,
+      "lastTradedTime": 1772182794921
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 10.66,
+      "lastTradedTime": 1772182704861
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 7.32,
+      "lastTradedTime": 1772182751372
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 4.84,
+      "lastTradedTime": 1772182377411
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 4.68,
+      "lastTradedTime": 1772182783017
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -39.47,
+      "lastTradedTime": 1772182800559
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -31.75,
+      "lastTradedTime": 1772182794083
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -9.91,
+      "lastTradedTime": 1772182786408
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": -4.18,
+      "lastTradedTime": 1772182752357
+    },
+    {
+      "id": 131,
+      "symbol": "LLUB.N0000",
+      "name": "CHEVRON LUBRICANTS LANKA PLC",
+      "contribution": -3.54,
+      "lastTradedTime": 1772182629996
+    }
+  ]
+}
