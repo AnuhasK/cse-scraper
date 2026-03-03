@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54733853,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "tradeVolume": 169.0,
+    "shareVolume": 2593.0,
+    "turnover": 6637419.0,
+    "percentageShareVolume": -10.260269121813032
+  },
+  {
+    "id": 54733880,
+    "securityId": 701,
+    "symbol": "RHL.N0000",
+    "tradeVolume": 77.0,
+    "shareVolume": 162873.0,
+    "turnover": 8984609.8,
+    "percentageShareVolume": -8.666666666666666
+  },
+  {
+    "id": 54733857,
+    "securityId": 137,
+    "symbol": "LPRT.N0000",
+    "tradeVolume": 59.0,
+    "shareVolume": 486.0,
+    "turnover": 308498.75,
+    "percentageShareVolume": -12.944073162152655
+  },
+  {
+    "id": 54733786,
+    "securityId": 2147,
+    "symbol": "SDB.N0000",
+    "tradeVolume": 59.0,
+    "shareVolume": 36273.0,
+    "turnover": 2147074.1,
+    "percentageShareVolume": -7.6923076923076925
+  },
+  {
+    "id": 54732692,
+    "securityId": 1851,
+    "symbol": "BIL.N0000",
+    "tradeVolume": 53.0,
+    "shareVolume": 3727176.0,
+    "turnover": 23101443.5,
+    "percentageShareVolume": -7.6923076923076925
+  },
+  {
+    "id": 54733847,
+    "securityId": 5892,
+    "symbol": "CALI.U0000",
+    "tradeVolume": 51.0,
+    "shareVolume": 24340.0,
+    "turnover": 364767.2,
+    "percentageShareVolume": 5.633802816901408
+  },
+  {
+    "id": 54732725,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 51.0,
+    "shareVolume": 251836.0,
+    "turnover": 52958143.25,
+    "percentageShareVolume": -5.191873589164786
+  },
+  {
+    "id": 54732763,
+    "securityId": 325,
+    "symbol": "HHL.N0000",
+    "tradeVolume": 48.0,
+    "shareVolume": 202179.0,
+    "turnover": 6415716.2,
+    "percentageShareVolume": -5.029585798816568
+  },
+  {
+    "id": 54733876,
+    "securityId": 529,
+    "symbol": "CHMX.N0000",
+    "tradeVolume": 48.0,
+    "shareVolume": 14691.0,
+    "turnover": 2544392.5,
+    "percentageShareVolume": -3.6671368124118477
+  },
+  {
+    "id": 54732778,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 47.0,
+    "shareVolume": 2119988.0,
+    "turnover": 44715010.7,
+    "percentageShareVolume": -4.524886877828054
+  }
+]

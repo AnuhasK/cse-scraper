@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": 3.66,
+      "lastTradedTime": null
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": 0.72,
+      "lastTradedTime": null
+    },
+    {
+      "id": 34,
+      "symbol": "BOPL.N0000",
+      "name": "BOGAWANTALAWA TEA ESTATES PLC",
+      "contribution": 0.05,
+      "lastTradedTime": null
+    },
+    {
+      "id": 187,
+      "symbol": "MRH.N0000",
+      "name": "MAHAWELI REACH HOTELS PLC",
+      "contribution": 0.04,
+      "lastTradedTime": null
+    },
+    {
+      "id": 170,
+      "symbol": "MADU.N0000",
+      "name": "MADULSIMA PLANTATIONS PLC",
+      "contribution": 0.03,
+      "lastTradedTime": null
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -62.61,
+      "lastTradedTime": null
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -48.72,
+      "lastTradedTime": null
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -47.56,
+      "lastTradedTime": null
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -45.36,
+      "lastTradedTime": null
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -40.49,
+      "lastTradedTime": null
+    }
+  ]
+}
