@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 21.65,
+      "lastTradedTime": 1772614799622
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 19.06,
+      "lastTradedTime": 1772614795895
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 16.23,
+      "lastTradedTime": 1772605400716
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 11.48,
+      "lastTradedTime": 1772614149011
+    },
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": 10.3,
+      "lastTradedTime": 1772614789453
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -36.52,
+      "lastTradedTime": 1772614776266
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -7.12,
+      "lastTradedTime": 1772614593391
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -6.09,
+      "lastTradedTime": 1772614719714
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -5.34,
+      "lastTradedTime": 1772614799709
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -4.43,
+      "lastTradedTime": 1772614799517
+    }
+  ]
+}
