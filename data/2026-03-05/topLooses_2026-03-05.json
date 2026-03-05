@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54903136,
+    "securityId": 453,
+    "symbol": "CHL.X0000",
+    "price": 55.6,
+    "change": -10.59,
+    "changePercentage": -15.999395679105605,
+    "tradeDate": 1772701209000
+  },
+  {
+    "id": 54903256,
+    "securityId": 1789,
+    "symbol": "SFCL.N0000",
+    "price": 503.0,
+    "change": -60.0,
+    "changePercentage": -10.657193605683837,
+    "tradeDate": 1772702063000
+  },
+  {
+    "id": 54902534,
+    "securityId": 183,
+    "symbol": "HSIG.N0000",
+    "price": 80.2,
+    "change": -5.3,
+    "changePercentage": -6.1988304093567255,
+    "tradeDate": 1772701541000
+  },
+  {
+    "id": 54900439,
+    "securityId": 264,
+    "symbol": "CHL.N0000",
+    "price": 79.6,
+    "change": -4.59,
+    "changePercentage": -5.451953913766481,
+    "tradeDate": 1772700810000
+  },
+  {
+    "id": 54898767,
+    "securityId": 4077,
+    "symbol": "NTB.X0000",
+    "price": 406.0,
+    "change": -22.49,
+    "changePercentage": -5.248663912810101,
+    "tradeDate": 1772699541000
+  },
+  {
+    "id": 54890589,
+    "securityId": 55,
+    "symbol": "RPBH.N0000",
+    "price": 50.0,
+    "change": -2.7,
+    "changePercentage": -5.1233396584440225,
+    "tradeDate": 1772694290000
+  },
+  {
+    "id": 54902827,
+    "securityId": 187,
+    "symbol": "MRH.N0000",
+    "price": 17.0,
+    "change": -0.6,
+    "changePercentage": -3.409090909090909,
+    "tradeDate": 1772701174000
+  },
+  {
+    "id": 54898358,
+    "securityId": 499,
+    "symbol": "TRAN.N0000",
+    "price": 52.4,
+    "change": -1.8,
+    "changePercentage": -3.321033210332103,
+    "tradeDate": 1772699675000
+  },
+  {
+    "id": 54901944,
+    "securityId": 4561,
+    "symbol": "LPL.N0000",
+    "price": 12.2,
+    "change": -0.4,
+    "changePercentage": -3.1746031746031744,
+    "tradeDate": 1772701193000
+  },
+  {
+    "id": 54898783,
+    "securityId": 278,
+    "symbol": "UCAR.N0000",
+    "price": 1645.75,
+    "change": -44.75,
+    "changePercentage": -2.6471458148476783,
+    "tradeDate": 1772699799000
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 22.66,
+      "lastTradedTime": 1772700944669
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 11.85,
+      "lastTradedTime": 1772701199083
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 10.5,
+      "lastTradedTime": 1772701199763
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 10.24,
+      "lastTradedTime": 1772701195566
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 9.52,
+      "lastTradedTime": 1772701173012
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -11.67,
+      "lastTradedTime": 1772701195872
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -2.43,
+      "lastTradedTime": 1772701000746
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -1.8,
+      "lastTradedTime": 1772701195100
+    },
+    {
+      "id": 2147,
+      "symbol": "SDB.N0000",
+      "name": "SANASA DEVELOPMENT BANK PLC",
+      "contribution": -1.35,
+      "lastTradedTime": 1772700823529
+    },
+    {
+      "id": 264,
+      "symbol": "CHL.N0000",
+      "name": "CEYLON HOSPITALS PLC (DURDANS)",
+      "contribution": -1.26,
+      "lastTradedTime": 1772700290526
+    }
+  ]
+}
