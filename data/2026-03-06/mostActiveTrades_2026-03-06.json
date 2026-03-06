@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54936882,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "tradeVolume": 2582.0,
+    "shareVolume": 35846485.0,
+    "turnover": 225878250.3,
+    "percentageShareVolume": 14.285714285714286
+  },
+  {
+    "id": 54936787,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1266.0,
+    "shareVolume": 715013.0,
+    "turnover": 111268291.75,
+    "percentageShareVolume": -0.7974481658692185
+  },
+  {
+    "id": 54936892,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 1245.0,
+    "shareVolume": 6550455.0,
+    "turnover": 137987873.6,
+    "percentageShareVolume": -2.7777777777777777
+  },
+  {
+    "id": 54936751,
+    "securityId": 4680,
+    "symbol": "HNBF.N0000",
+    "tradeVolume": 1243.0,
+    "shareVolume": 17405043.0,
+    "turnover": 173038314.0,
+    "percentageShareVolume": 4.123711340206185
+  },
+  {
+    "id": 54936816,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 703.0,
+    "shareVolume": 10762230.0,
+    "turnover": 121585470.6,
+    "percentageShareVolume": 1.7857142857142858
+  },
+  {
+    "id": 54936796,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "tradeVolume": 680.0,
+    "shareVolume": 15300829.0,
+    "turnover": 134392303.4,
+    "percentageShareVolume": 2.272727272727273
+  },
+  {
+    "id": 54936808,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 621.0,
+    "shareVolume": 9494738.0,
+    "turnover": 921551917.3,
+    "percentageShareVolume": -0.20449897750511248
+  },
+  {
+    "id": 54936841,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 596.0,
+    "shareVolume": 1494528.0,
+    "turnover": 210905114.75,
+    "percentageShareVolume": -1.7482517482517483
+  },
+  {
+    "id": 54936878,
+    "securityId": 325,
+    "symbol": "HHL.N0000",
+    "tradeVolume": 580.0,
+    "shareVolume": 2980611.0,
+    "turnover": 94165456.2,
+    "percentageShareVolume": -0.9375
+  },
+  {
+    "id": 54936868,
+    "securityId": 239,
+    "symbol": "DFCC.N0000",
+    "tradeVolume": 501.0,
+    "shareVolume": 601271.0,
+    "turnover": 88280731.75,
+    "percentageShareVolume": -0.847457627118644
+  }
+]
