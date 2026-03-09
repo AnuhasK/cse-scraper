@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": 2.32,
+      "lastTradedTime": 1773046787187
+    },
+    {
+      "id": 241,
+      "symbol": "CPRT.N0000",
+      "name": "KERNER HAUS GLOBAL SOLUTIONS PLC",
+      "contribution": 0.98,
+      "lastTradedTime": 1773046109080
+    },
+    {
+      "id": 3046,
+      "symbol": "ABL.N0000",
+      "name": "AMANA BANK PLC",
+      "contribution": 0.49,
+      "lastTradedTime": 1773046686164
+    },
+    {
+      "id": 1786,
+      "symbol": "HVA.N0000",
+      "name": "HVA FOODS PLC",
+      "contribution": 0.43,
+      "lastTradedTime": 1773046799655
+    },
+    {
+      "id": 3244,
+      "symbol": "AINS.N0000",
+      "name": "ARPICO INSURANCE PLC",
+      "contribution": 0.21,
+      "lastTradedTime": 1773043109891
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -47.6,
+      "lastTradedTime": 1773046799877
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -43.55,
+      "lastTradedTime": 1773046772762
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -40.8,
+      "lastTradedTime": 1773046787049
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -37.85,
+      "lastTradedTime": 1773046793633
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -24.94,
+      "lastTradedTime": 1773046790843
+    }
+  ]
+}

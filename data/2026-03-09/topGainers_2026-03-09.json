@@ -1,0 +1,56 @@
+[
+  {
+    "id": 54989963,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 2976.75,
+    "change": 595.25,
+    "changePercentage": 24.99475120722234,
+    "tradeDate": 1773046168000
+  },
+  {
+    "id": 54992409,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "price": 7.2,
+    "change": 0.8,
+    "changePercentage": 12.5,
+    "tradeDate": 1773047451000
+  },
+  {
+    "id": 54983799,
+    "securityId": 3244,
+    "symbol": "AINS.N0000",
+    "price": 34.3,
+    "change": 3.2,
+    "changePercentage": 10.289389067524116,
+    "tradeDate": 1773043995000
+  },
+  {
+    "id": 54992142,
+    "securityId": 414,
+    "symbol": "RHTL.N0000",
+    "price": 25.6,
+    "change": 0.7,
+    "changePercentage": 2.8112449799196786,
+    "tradeDate": 1773047600000
+  },
+  {
+    "id": 54992283,
+    "securityId": 553,
+    "symbol": "LIOC.N0000",
+    "price": 148.75,
+    "change": 1.75,
+    "changePercentage": 1.1904761904761905,
+    "tradeDate": 1773046963000
+  },
+  {
+    "id": 54991884,
+    "securityId": 3046,
+    "symbol": "ABL.N0000",
+    "price": 28.2,
+    "change": 0.2,
+    "changePercentage": 0.7142857142857143,
+    "tradeDate": 1773046845000
+  }
+]
