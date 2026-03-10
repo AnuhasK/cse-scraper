@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 38.27,
+      "lastTradedTime": 1773133178305
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 36.05,
+      "lastTradedTime": 1773133194076
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 24.48,
+      "lastTradedTime": 1773133194986
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 22.66,
+      "lastTradedTime": 1773133626858
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 17.55,
+      "lastTradedTime": 1773133011482
+    },
+    {
+      "id": 131,
+      "symbol": "LLUB.N0000",
+      "name": "CHEVRON LUBRICANTS LANKA PLC",
+      "contribution": -3.24,
+      "lastTradedTime": 1773133194157
+    },
+    {
+      "id": 331,
+      "symbol": "MGT.N0000",
+      "name": "HAYLEYS FABRIC PLC",
+      "contribution": -1.23,
+      "lastTradedTime": 1773133186224
+    },
+    {
+      "id": 395,
+      "symbol": "ALLI.N0000",
+      "name": "ALLIANCE FINANCE COMPANY PLC",
+      "contribution": -0.81,
+      "lastTradedTime": 1773133078963
+    },
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": -0.48,
+      "lastTradedTime": 1773133088557
+    },
+    {
+      "id": 264,
+      "symbol": "CHL.N0000",
+      "name": "CEYLON HOSPITALS PLC (DURDANS)",
+      "contribution": -0.44,
+      "lastTradedTime": 1773133194906
+    }
+  ]
+}
