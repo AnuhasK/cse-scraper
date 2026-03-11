@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 225,
+      "symbol": "ASIR.N0000",
+      "name": "ASIRI HOSPITAL HOLDINGS PLC",
+      "contribution": 6.53,
+      "lastTradedTime": 1773219597800
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 6.51,
+      "lastTradedTime": 1773216353873
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 5.41,
+      "lastTradedTime": 1773219513553
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": 4.42,
+      "lastTradedTime": 1773219581961
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 4.35,
+      "lastTradedTime": 1773218819917
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -13.38,
+      "lastTradedTime": 1773218945148
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -9.21,
+      "lastTradedTime": 1773219581649
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -8.18,
+      "lastTradedTime": 1773211706416
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -4.35,
+      "lastTradedTime": 1773218748500
+    },
+    {
+      "id": 131,
+      "symbol": "LLUB.N0000",
+      "name": "CHEVRON LUBRICANTS LANKA PLC",
+      "contribution": -3.24,
+      "lastTradedTime": 1773219603902
+    }
+  ]
+}
