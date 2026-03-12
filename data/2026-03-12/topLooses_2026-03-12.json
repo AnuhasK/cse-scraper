@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55089115,
+    "securityId": 6896,
+    "symbol": "CBNK.R0000",
+    "price": 0.2,
+    "change": -0.1,
+    "changePercentage": -33.333333333333336,
+    "tradeDate": 1773306000000
+  },
+  {
+    "id": 55089245,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 2749.0,
+    "change": -760.75,
+    "changePercentage": -21.675333000925992,
+    "tradeDate": 1773306170000
+  },
+  {
+    "id": 55089359,
+    "securityId": 209,
+    "symbol": "MSL.N0000",
+    "price": 211.0,
+    "change": -54.0,
+    "changePercentage": -20.37735849056604,
+    "tradeDate": 1773306286000
+  },
+  {
+    "id": 55087154,
+    "securityId": 4966,
+    "symbol": "CWL.N0000",
+    "price": 17.6,
+    "change": -1.9,
+    "changePercentage": -9.743589743589743,
+    "tradeDate": 1773305768000
+  },
+  {
+    "id": 55089104,
+    "securityId": 5351,
+    "symbol": "MDL.N0000",
+    "price": 21.0,
+    "change": -2.1,
+    "changePercentage": -9.090909090909092,
+    "tradeDate": 1773306899000
+  },
+  {
+    "id": 55089113,
+    "securityId": 115,
+    "symbol": "ELPL.N0000",
+    "price": 154.75,
+    "change": -15.0,
+    "changePercentage": -8.836524300441827,
+    "tradeDate": 1773306746000
+  },
+  {
+    "id": 55089242,
+    "securityId": 1596,
+    "symbol": "ODEL.N0000",
+    "price": 13.1,
+    "change": -1.2,
+    "changePercentage": -8.391608391608392,
+    "tradeDate": 1773306298000
+  },
+  {
+    "id": 55089259,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 338.25,
+    "change": -30.0,
+    "changePercentage": -8.146639511201629,
+    "tradeDate": 1773306145000
+  },
+  {
+    "id": 55088038,
+    "securityId": 5472,
+    "symbol": "EXT.N0000",
+    "price": 11.6,
+    "change": -1.0,
+    "changePercentage": -7.936507936507937,
+    "tradeDate": 1773306466000
+  },
+  {
+    "id": 55084019,
+    "securityId": 2997,
+    "symbol": "TESS.X0000",
+    "price": 1.2,
+    "change": -0.1,
+    "changePercentage": -7.6923076923076925,
+    "tradeDate": 1773304172000
+  }
+]

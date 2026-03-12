@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55089385,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "tradeVolume": 1187.0,
+    "shareVolume": 35092507.0,
+    "turnover": 334132779.8,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 55089381,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 1093.0,
+    "shareVolume": 9967932.0,
+    "turnover": 200751931.3,
+    "percentageShareVolume": -2.4271844660194173
+  },
+  {
+    "id": 55089330,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 871.0,
+    "shareVolume": 1076348.0,
+    "turnover": 166521057.75,
+    "percentageShareVolume": -1.1217948717948718
+  },
+  {
+    "id": 55089361,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 865.0,
+    "shareVolume": 1159158.0,
+    "turnover": 150884588.0,
+    "percentageShareVolume": -3.165735567970205
+  },
+  {
+    "id": 55089386,
+    "securityId": 4680,
+    "symbol": "HNBF.N0000",
+    "tradeVolume": 631.0,
+    "shareVolume": 6457437.0,
+    "turnover": 66086346.9,
+    "percentageShareVolume": -2.8846153846153846
+  },
+  {
+    "id": 55089392,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 625.0,
+    "shareVolume": 9592234.0,
+    "turnover": 120563007.4,
+    "percentageShareVolume": -3.816793893129771
+  },
+  {
+    "id": 55089390,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 606.0,
+    "shareVolume": 1276094.0,
+    "turnover": 66462820.8,
+    "percentageShareVolume": -3.5315985130111525
+  },
+  {
+    "id": 55089337,
+    "securityId": 1851,
+    "symbol": "BIL.N0000",
+    "tradeVolume": 447.0,
+    "shareVolume": 4050642.0,
+    "turnover": 23792035.2,
+    "percentageShareVolume": -1.6666666666666667
+  },
+  {
+    "id": 55089087,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 423.0,
+    "shareVolume": 3945737.0,
+    "turnover": 373391546.9,
+    "percentageShareVolume": -1.7689906347554631
+  },
+  {
+    "id": 55089102,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "tradeVolume": 421.0,
+    "shareVolume": 2364992.0,
+    "turnover": 25535227.9,
+    "percentageShareVolume": -3.5714285714285716
+  }
+]

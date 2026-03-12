@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 6.79,
+      "lastTradedTime": 1773303918503
+    },
+    {
+      "id": 5,
+      "symbol": "HASU.N0000",
+      "name": "HNB ASSURANCE PLC",
+      "contribution": 0.75,
+      "lastTradedTime": 1773305976577
+    },
+    {
+      "id": 204,
+      "symbol": "ABAN.N0000",
+      "name": "ABANS ELECTRICALS PLC",
+      "contribution": 0.47,
+      "lastTradedTime": 1773305927944
+    },
+    {
+      "id": 276,
+      "symbol": "HUNA.N0000",
+      "name": "HUNAS HOLDINGS PLC",
+      "contribution": 0.45,
+      "lastTradedTime": 1773305829523
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": 0.4,
+      "lastTradedTime": 1773305035977
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -22.67,
+      "lastTradedTime": 1773306000902
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -21.12,
+      "lastTradedTime": 1773305940301
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -17.03,
+      "lastTradedTime": 1773305983844
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -13.95,
+      "lastTradedTime": 1773305993904
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -12.62,
+      "lastTradedTime": 1773305993352
+    }
+  ]
+}
