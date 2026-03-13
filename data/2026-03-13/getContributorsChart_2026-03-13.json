@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 9.01,
+      "lastTradedTime": 1773392113717
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": 6.03,
+      "lastTradedTime": 1773387660444
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 5.92,
+      "lastTradedTime": 1773392240632
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 3.28,
+      "lastTradedTime": 1773391941925
+    },
+    {
+      "id": 375,
+      "symbol": "DIMO.N0000",
+      "name": "DIESEL & MOTOR ENGINEERING PLC",
+      "contribution": 1.94,
+      "lastTradedTime": 1773392144260
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -19.04,
+      "lastTradedTime": 1773392347418
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -15.34,
+      "lastTradedTime": 1773392399235
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -15.18,
+      "lastTradedTime": 1773392399489
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": -10.61,
+      "lastTradedTime": 1773392350060
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -9.01,
+      "lastTradedTime": 1773392352202
+    }
+  ]
+}
