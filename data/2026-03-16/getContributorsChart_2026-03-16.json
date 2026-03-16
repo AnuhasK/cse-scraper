@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 364,
+      "symbol": "ATL.N0000",
+      "name": "AMANA TAKAFUL  PLC",
+      "contribution": 1.45,
+      "lastTradedTime": 1773651177367
+    },
+    {
+      "id": 105,
+      "symbol": "PABC.N0000",
+      "name": "PAN ASIA BANKING CORPORATION PLC",
+      "contribution": 1.22,
+      "lastTradedTime": 1773651583787
+    },
+    {
+      "id": 1849,
+      "symbol": "SHL.N0000",
+      "name": "SOFTLOGIC HOLDINGS PLC",
+      "contribution": 0.94,
+      "lastTradedTime": 1773651600848
+    },
+    {
+      "id": 240,
+      "symbol": "AMSL.N0000",
+      "name": "ASIRI  SURGICAL HOSPITAL PLC",
+      "contribution": 0.42,
+      "lastTradedTime": 1773651572829
+    },
+    {
+      "id": 44,
+      "symbol": "PHAR.N0000",
+      "name": "COLOMBO CITY HOLDINGS PLC",
+      "contribution": 0.26,
+      "lastTradedTime": 1773650997760
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -45.33,
+      "lastTradedTime": 1773651583578
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -34.0,
+      "lastTradedTime": 1773651591661
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -31.67,
+      "lastTradedTime": 1773651534401
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -27.79,
+      "lastTradedTime": 1773651576472
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -21.76,
+      "lastTradedTime": 1773651491021
+    }
+  ]
+}

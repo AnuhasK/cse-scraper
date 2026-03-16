@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55184591,
+    "securityId": 3834,
+    "symbol": "KZOO.R0000",
+    "price": 2.1,
+    "change": -2.4,
+    "changePercentage": -53.333333333333336,
+    "tradeDate": 1773652208000
+  },
+  {
+    "id": 55178842,
+    "securityId": 357,
+    "symbol": "SEMB.X0000",
+    "price": 0.2,
+    "change": -0.1,
+    "changePercentage": -33.333333333333336,
+    "tradeDate": 1773650410000
+  },
+  {
+    "id": 55178353,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.3,
+    "change": -0.1,
+    "changePercentage": -25.0,
+    "tradeDate": 1773650195000
+  },
+  {
+    "id": 55184252,
+    "securityId": 306,
+    "symbol": "AUTO.N0000",
+    "price": 291.25,
+    "change": -74.0,
+    "changePercentage": -20.26009582477755,
+    "tradeDate": 1773651696000
+  },
+  {
+    "id": 55181362,
+    "securityId": 203,
+    "symbol": "RGEM.N0000",
+    "price": 141.75,
+    "change": -20.0,
+    "changePercentage": -12.364760432766616,
+    "tradeDate": 1773651523000
+  },
+  {
+    "id": 55184586,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "price": 10.1,
+    "change": -1.4,
+    "changePercentage": -12.173913043478262,
+    "tradeDate": 1773652385000
+  },
+  {
+    "id": 55182603,
+    "securityId": 204,
+    "symbol": "ABAN.N0000",
+    "price": 1010.0,
+    "change": -138.75,
+    "changePercentage": -12.078346028291621,
+    "tradeDate": 1773651299000
+  },
+  {
+    "id": 55180843,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 285.0,
+    "change": -38.5,
+    "changePercentage": -11.901081916537867,
+    "tradeDate": 1773650819000
+  },
+  {
+    "id": 55184525,
+    "securityId": 1785,
+    "symbol": "SFIN.N0000",
+    "price": 42.3,
+    "change": -5.4,
+    "changePercentage": -11.320754716981131,
+    "tradeDate": 1773652561000
+  },
+  {
+    "id": 55157125,
+    "securityId": 372,
+    "symbol": "KGAL.N0000",
+    "price": 120.5,
+    "change": -14.75,
+    "changePercentage": -10.905730129390019,
+    "tradeDate": 1773639133000
+  }
+]
