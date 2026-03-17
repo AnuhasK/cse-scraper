@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 6.58,
+      "lastTradedTime": 1773737577229
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": 2.22,
+      "lastTradedTime": 1773735125129
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": 2.04,
+      "lastTradedTime": 1773737881585
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": 1.94,
+      "lastTradedTime": 1773737957379
+    },
+    {
+      "id": 2147,
+      "symbol": "SDB.N0000",
+      "name": "SANASA DEVELOPMENT BANK PLC",
+      "contribution": 1.75,
+      "lastTradedTime": 1773737986919
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -29.92,
+      "lastTradedTime": 1773737996083
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -23.71,
+      "lastTradedTime": 1773737988485
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -20.85,
+      "lastTradedTime": 1773737986845
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -18.37,
+      "lastTradedTime": 1773737969041
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -15.34,
+      "lastTradedTime": 1773738005003
+    }
+  ]
+}

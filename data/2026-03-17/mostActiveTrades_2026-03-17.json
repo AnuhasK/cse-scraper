@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55236222,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 2047.0,
+    "shareVolume": 31057927.0,
+    "turnover": 591062547.2,
+    "percentageShareVolume": -0.5263157894736842
+  },
+  {
+    "id": 55236203,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 1737.0,
+    "shareVolume": 24146759.0,
+    "turnover": 323039583.1,
+    "percentageShareVolume": -4.8
+  },
+  {
+    "id": 55236196,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 1546.0,
+    "shareVolume": 5633738.0,
+    "turnover": 258095310.2,
+    "percentageShareVolume": -7.775377969762419
+  },
+  {
+    "id": 55236059,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1487.0,
+    "shareVolume": 1090198.0,
+    "turnover": 163689726.5,
+    "percentageShareVolume": -0.9950248756218906
+  },
+  {
+    "id": 55236200,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 1432.0,
+    "shareVolume": 671726.0,
+    "turnover": 131905069.5,
+    "percentageShareVolume": -2.770780856423174
+  },
+  {
+    "id": 55235877,
+    "securityId": 3834,
+    "symbol": "KZOO.R0000",
+    "tradeVolume": 1381.0,
+    "shareVolume": 32758631.0,
+    "turnover": 46896419.7,
+    "percentageShareVolume": -47.61904761904762
+  },
+  {
+    "id": 55236104,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 1223.0,
+    "shareVolume": 806054.0,
+    "turnover": 91961971.75,
+    "percentageShareVolume": -8.99581589958159
+  },
+  {
+    "id": 55235880,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "tradeVolume": 1188.0,
+    "shareVolume": 13219128.0,
+    "turnover": 159734748.6,
+    "percentageShareVolume": -4.504504504504505
+  },
+  {
+    "id": 55236185,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 911.0,
+    "shareVolume": 3403988.0,
+    "turnover": 291216305.8,
+    "percentageShareVolume": -4.696449026345934
+  },
+  {
+    "id": 55236225,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 838.0,
+    "shareVolume": 1097220.0,
+    "turnover": 83134170.1,
+    "percentageShareVolume": -8.291457286432161
+  }
+]
