@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 2.41,
+      "lastTradedTime": 1773910274026
+    },
+    {
+      "id": 264,
+      "symbol": "CHL.N0000",
+      "name": "CEYLON HOSPITALS PLC (DURDANS)",
+      "contribution": 1.4,
+      "lastTradedTime": 1773910562965
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 0.64,
+      "lastTradedTime": 1773910772431
+    },
+    {
+      "id": 329,
+      "symbol": "KHC.N0000",
+      "name": "THE KANDY HOTELS COMPANY (1938) PLC",
+      "contribution": 0.6,
+      "lastTradedTime": 1773905997874
+    },
+    {
+      "id": 18,
+      "symbol": "LALU.N0000",
+      "name": "LANKA ALUMINIUM INDUSTRIES PLC",
+      "contribution": 0.55,
+      "lastTradedTime": 1773910772750
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -31.68,
+      "lastTradedTime": 1773910800086
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -15.7,
+      "lastTradedTime": 1773910791312
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -14.93,
+      "lastTradedTime": 1773910794595
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -14.58,
+      "lastTradedTime": 1773910697339
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -14.02,
+      "lastTradedTime": 1773910746412
+    }
+  ]
+}
