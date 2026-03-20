@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55338292,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 1552.0,
+    "shareVolume": 63070718.0,
+    "turnover": 1145745813.2,
+    "percentageShareVolume": 1.6666666666666667
+  },
+  {
+    "id": 55338390,
+    "securityId": 3834,
+    "symbol": "KZOO.R0000",
+    "tradeVolume": 1214.0,
+    "shareVolume": 57280514.0,
+    "turnover": 40382642.5,
+    "percentageShareVolume": -14.285714285714286
+  },
+  {
+    "id": 55338344,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 898.0,
+    "shareVolume": 18480944.0,
+    "turnover": 254926160.7,
+    "percentageShareVolume": 6.0606060606060606
+  },
+  {
+    "id": 55338283,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 761.0,
+    "shareVolume": 2021849.0,
+    "turnover": 241287584.25,
+    "percentageShareVolume": 6.828193832599119
+  },
+  {
+    "id": 55338376,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 731.0,
+    "shareVolume": 459547.0,
+    "turnover": 68585968.0,
+    "percentageShareVolume": 3.2367972742759794
+  },
+  {
+    "id": 55338394,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 698.0,
+    "shareVolume": 655005.0,
+    "turnover": 125189329.5,
+    "percentageShareVolume": 0.657030223390276
+  },
+  {
+    "id": 55338353,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 696.0,
+    "shareVolume": 2540149.0,
+    "turnover": 117410276.0,
+    "percentageShareVolume": 7.2727272727272725
+  },
+  {
+    "id": 55338260,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 443.0,
+    "shareVolume": 1294721.0,
+    "turnover": 7120965.5,
+    "percentageShareVolume": -24.65753424657534
+  },
+  {
+    "id": 55338345,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 389.0,
+    "shareVolume": 665288.0,
+    "turnover": 56597734.0,
+    "percentageShareVolume": 1.431980906921241
+  },
+  {
+    "id": 55338158,
+    "securityId": 172,
+    "symbol": "HNB.N0000",
+    "tradeVolume": 365.0,
+    "shareVolume": 529236.0,
+    "turnover": 206856958.25,
+    "percentageShareVolume": 0.3826530612244898
+  }
+]

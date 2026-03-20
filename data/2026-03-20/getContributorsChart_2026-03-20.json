@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 34.2,
+      "lastTradedTime": 1773997200061
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 27.31,
+      "lastTradedTime": 1773996997314
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 15.01,
+      "lastTradedTime": 1773997187301
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 14.58,
+      "lastTradedTime": 1773997107945
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 13.58,
+      "lastTradedTime": 1773997187514
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -8.72,
+      "lastTradedTime": 1773992811876
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -5.22,
+      "lastTradedTime": 1773996956037
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -4.34,
+      "lastTradedTime": 1773997187145
+    },
+    {
+      "id": 554,
+      "symbol": "ACME.N0000",
+      "name": "ACME PRINTING & PACKAGING PLC",
+      "contribution": -3.01,
+      "lastTradedTime": 1773997179371
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": -2.3,
+      "lastTradedTime": 1773996824883
+    }
+  ]
+}
