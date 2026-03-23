@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 4887,
+      "symbol": "WIND.N0000",
+      "name": "WINDFORCE PLC",
+      "contribution": 11.3,
+      "lastTradedTime": 1774256395571
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": 5.86,
+      "lastTradedTime": 1774256198327
+    },
+    {
+      "id": 300,
+      "symbol": "VLL.N0000",
+      "name": "VIDULLANKA PLC",
+      "contribution": 3.8,
+      "lastTradedTime": 1774256353378
+    },
+    {
+      "id": 4038,
+      "symbol": "LVEF.N0000",
+      "name": "LVL ENERGY FUND PLC",
+      "contribution": 3.3,
+      "lastTradedTime": 1774256393884
+    },
+    {
+      "id": 473,
+      "symbol": "VPEL.N0000",
+      "name": "VALLIBEL POWER ERATHNA PLC",
+      "contribution": 2.35,
+      "lastTradedTime": 1774256395363
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -11.75,
+      "lastTradedTime": 1774256396262
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -10.7,
+      "lastTradedTime": 1774256395748
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -10.1,
+      "lastTradedTime": 1774256311833
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -9.92,
+      "lastTradedTime": 1774256341176
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -9.83,
+      "lastTradedTime": 1774256349851
+    }
+  ]
+}
