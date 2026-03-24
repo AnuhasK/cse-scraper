@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 53.47,
+      "lastTradedTime": 1774342780221
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 33.15,
+      "lastTradedTime": 1774342782297
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 32.16,
+      "lastTradedTime": 1774342791526
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 31.13,
+      "lastTradedTime": 1774342781110
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 30.13,
+      "lastTradedTime": 1774342794684
+    },
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": -1.61,
+      "lastTradedTime": 1774342791712
+    },
+    {
+      "id": 4038,
+      "symbol": "LVEF.N0000",
+      "name": "LVL ENERGY FUND PLC",
+      "contribution": -0.66,
+      "lastTradedTime": 1774342796706
+    },
+    {
+      "id": 439,
+      "symbol": "MAL.N0000",
+      "name": "MALWATTE VALLEY PLANTATIONS PLC",
+      "contribution": -0.39,
+      "lastTradedTime": 1774342773297
+    },
+    {
+      "id": 479,
+      "symbol": "SMOT.N0000",
+      "name": "SATHOSA MOTORS PLC",
+      "contribution": -0.18,
+      "lastTradedTime": 1774341997712
+    },
+    {
+      "id": 331,
+      "symbol": "MGT.N0000",
+      "name": "HAYLEYS FABRIC PLC",
+      "contribution": -0.15,
+      "lastTradedTime": 1774342289211
+    }
+  ]
+}
