@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55419226,
+    "securityId": 134,
+    "symbol": "HUNT.N0000",
+    "price": 1172.25,
+    "change": -105.75,
+    "changePercentage": -8.274647887323944,
+    "tradeDate": 1774414274000
+  },
+  {
+    "id": 55451971,
+    "securityId": 5145,
+    "symbol": "AAF.P0000",
+    "price": 62.9,
+    "change": -3.4,
+    "changePercentage": -5.128205128205129,
+    "tradeDate": 1774429712000
+  },
+  {
+    "id": 55451357,
+    "securityId": 520,
+    "symbol": "CTLD.N0000",
+    "price": 35.0,
+    "change": -1.6,
+    "changePercentage": -4.371584699453552,
+    "tradeDate": 1774429302000
+  },
+  {
+    "id": 55442901,
+    "securityId": 132,
+    "symbol": "HAPU.N0000",
+    "price": 54.5,
+    "change": -2.2,
+    "changePercentage": -3.880070546737213,
+    "tradeDate": 1774424394000
+  },
+  {
+    "id": 55448211,
+    "securityId": 354,
+    "symbol": "PALM.N0000",
+    "price": 58.3,
+    "change": -1.6,
+    "changePercentage": -2.671118530884808,
+    "tradeDate": 1774427637000
+  },
+  {
+    "id": 55449475,
+    "securityId": 1665,
+    "symbol": "HPFL.N0000",
+    "price": 13.7,
+    "change": -0.3,
+    "changePercentage": -2.142857142857143,
+    "tradeDate": 1774427896000
+  },
+  {
+    "id": 55453951,
+    "securityId": 203,
+    "symbol": "RGEM.N0000",
+    "price": 154.25,
+    "change": -3.25,
+    "changePercentage": -2.0634920634920637,
+    "tradeDate": 1774429263000
+  },
+  {
+    "id": 55451224,
+    "securityId": 1965,
+    "symbol": "CALF.N0000",
+    "price": 131.25,
+    "change": -2.5,
+    "changePercentage": -1.8691588785046729,
+    "tradeDate": 1774429100000
+  },
+  {
+    "id": 55451786,
+    "securityId": 276,
+    "symbol": "HUNA.N0000",
+    "price": 16.7,
+    "change": -0.3,
+    "changePercentage": -1.7647058823529411,
+    "tradeDate": 1774429547000
+  },
+  {
+    "id": 55453507,
+    "securityId": 2091,
+    "symbol": "MEL.N0000",
+    "price": 6.1,
+    "change": -0.1,
+    "changePercentage": -1.6129032258064515,
+    "tradeDate": 1774430116000
+  }
+]

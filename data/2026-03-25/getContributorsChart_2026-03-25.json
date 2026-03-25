@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 45.45,
+      "lastTradedTime": 1774429184231
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 43.71,
+      "lastTradedTime": 1774429173378
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 40.14,
+      "lastTradedTime": 1774428831067
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 37.52,
+      "lastTradedTime": 1774429197855
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 26.54,
+      "lastTradedTime": 1774429192343
+    },
+    {
+      "id": 134,
+      "symbol": "HUNT.N0000",
+      "name": "HUNTERS & COMPANY PLC",
+      "contribution": -1.43,
+      "lastTradedTime": 1774413838445
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": -1.12,
+      "lastTradedTime": 1774429179330
+    },
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": -0.64,
+      "lastTradedTime": 1774429192795
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -0.52,
+      "lastTradedTime": 1774429179879
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -0.47,
+      "lastTradedTime": 1774429014129
+    }
+  ]
+}
