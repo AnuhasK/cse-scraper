@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": 4.03,
+      "lastTradedTime": 1774515597913
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": 3.76,
+      "lastTradedTime": 1774512321106
+    },
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": 2.9,
+      "lastTradedTime": 1774515575292
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": 1.88,
+      "lastTradedTime": 1774515522187
+    },
+    {
+      "id": 477,
+      "symbol": "TPL.N0000",
+      "name": "TALAWAKELLE TEA ESTATES  PLC",
+      "contribution": 0.35,
+      "lastTradedTime": 1774515304326
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -23.18,
+      "lastTradedTime": 1774515600894
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -21.25,
+      "lastTradedTime": 1774514956746
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -20.05,
+      "lastTradedTime": 1774515560712
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -16.56,
+      "lastTradedTime": 1774512989813
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -16.08,
+      "lastTradedTime": 1774515583627
+    }
+  ]
+}
