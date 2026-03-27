@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 6.68,
+      "lastTradedTime": 1774601999050
+    },
+    {
+      "id": 375,
+      "symbol": "DIMO.N0000",
+      "name": "DIESEL & MOTOR ENGINEERING PLC",
+      "contribution": 6.35,
+      "lastTradedTime": 1774601963610
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 5.28,
+      "lastTradedTime": 1774601980716
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 5.13,
+      "lastTradedTime": 1774600709531
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.72,
+      "lastTradedTime": 1774601928953
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -37.52,
+      "lastTradedTime": 1774601999644
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -20.38,
+      "lastTradedTime": 1774601998000
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -16.83,
+      "lastTradedTime": 1774601201276
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -8.63,
+      "lastTradedTime": 1774601758508
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -4.23,
+      "lastTradedTime": 1774601998969
+    }
+  ]
+}
