@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 10.94,
+      "lastTradedTime": 1774860874501
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": 8.25,
+      "lastTradedTime": 1774861159101
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 2.77,
+      "lastTradedTime": 1774861126059
+    },
+    {
+      "id": 3046,
+      "symbol": "ABL.N0000",
+      "name": "AMANA BANK PLC",
+      "contribution": 1.68,
+      "lastTradedTime": 1774860361904
+    },
+    {
+      "id": 3461,
+      "symbol": "PINS.N0000",
+      "name": "PEOPLE'S INSURANCE PLC",
+      "contribution": 1.58,
+      "lastTradedTime": 1774860896281
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -21.43,
+      "lastTradedTime": 1774861204687
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -17.83,
+      "lastTradedTime": 1774861135033
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -17.21,
+      "lastTradedTime": 1774861002240
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -14.16,
+      "lastTradedTime": 1774860726450
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -13.36,
+      "lastTradedTime": 1774861158530
+    }
+  ]
+}
