@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55555768,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 3414.25,
+    "change": 423.5,
+    "changePercentage": 14.160327677004096,
+    "tradeDate": 1774948387000
+  },
+  {
+    "id": 55551552,
+    "securityId": 468,
+    "symbol": "TAJ.N0000",
+    "price": 34.3,
+    "change": 2.3,
+    "changePercentage": 7.1875,
+    "tradeDate": 1774945498000
+  },
+  {
+    "id": 55546447,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 503.5,
+    "change": 25.75,
+    "changePercentage": 5.389848246991104,
+    "tradeDate": 1774941107000
+  },
+  {
+    "id": 55553585,
+    "securityId": 258,
+    "symbol": "CARE.N0000",
+    "price": 48.0,
+    "change": 2.3,
+    "changePercentage": 5.032822757111598,
+    "tradeDate": 1774946737000
+  },
+  {
+    "id": 55551887,
+    "securityId": 561,
+    "symbol": "UDPL.N0000",
+    "price": 143.0,
+    "change": 6.75,
+    "changePercentage": 4.954128440366972,
+    "tradeDate": 1774945917000
+  },
+  {
+    "id": 55555582,
+    "securityId": 276,
+    "symbol": "HUNA.N0000",
+    "price": 18.0,
+    "change": 0.8,
+    "changePercentage": 4.651162790697675,
+    "tradeDate": 1774947704000
+  },
+  {
+    "id": 55555499,
+    "securityId": 336,
+    "symbol": "CARS.N0000",
+    "price": 660.75,
+    "change": 29.0,
+    "changePercentage": 4.590423426988524,
+    "tradeDate": 1774947969000
+  },
+  {
+    "id": 55555699,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "price": 12.1,
+    "change": 0.5,
+    "changePercentage": 4.310344827586207,
+    "tradeDate": 1774948153000
+  },
+  {
+    "id": 55554850,
+    "securityId": 1724,
+    "symbol": "LGL.N0000",
+    "price": 53.9,
+    "change": 2.2,
+    "changePercentage": 4.25531914893617,
+    "tradeDate": 1774948183000
+  },
+  {
+    "id": 55555504,
+    "securityId": 2026,
+    "symbol": "AGST.N0000",
+    "price": 9.9,
+    "change": 0.4,
+    "changePercentage": 4.2105263157894735,
+    "tradeDate": 1774948460000
+  }
+]

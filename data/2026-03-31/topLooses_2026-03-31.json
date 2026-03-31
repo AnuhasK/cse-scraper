@@ -1,0 +1,83 @@
+[
+  {
+    "id": 55554797,
+    "securityId": 6616,
+    "symbol": "INME.N0000",
+    "price": 1300.5,
+    "change": -101.0,
+    "changePercentage": -7.20656439529076,
+    "tradeDate": 1774947823000
+  },
+  {
+    "id": 55555755,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "price": 145.25,
+    "change": -10.25,
+    "changePercentage": -6.591639871382637,
+    "tradeDate": 1774947877000
+  },
+  {
+    "id": 55549644,
+    "securityId": 486,
+    "symbol": "GLAS.N0000",
+    "price": 52.1,
+    "change": -2.6,
+    "changePercentage": -4.753199268738574,
+    "tradeDate": 1774944037000
+  },
+  {
+    "id": 55554950,
+    "securityId": 18,
+    "symbol": "LALU.N0000",
+    "price": 40.3,
+    "change": -2.0,
+    "changePercentage": -4.7281323877068555,
+    "tradeDate": 1774947692000
+  },
+  {
+    "id": 55545748,
+    "securityId": 4439,
+    "symbol": "MCPL.N0000",
+    "price": 49.3,
+    "change": -2.4,
+    "changePercentage": -4.6421663442940035,
+    "tradeDate": 1774940309000
+  },
+  {
+    "id": 55547807,
+    "securityId": 198,
+    "symbol": "SHAW.N0000",
+    "price": 210.25,
+    "change": -9.75,
+    "changePercentage": -4.431818181818182,
+    "tradeDate": 1774942134000
+  },
+  {
+    "id": 55551409,
+    "securityId": 170,
+    "symbol": "MADU.N0000",
+    "price": 10.9,
+    "change": -0.5,
+    "changePercentage": -4.385964912280702,
+    "tradeDate": 1774945913000
+  },
+  {
+    "id": 55555526,
+    "securityId": 214,
+    "symbol": "CONN.N0000",
+    "price": 28.4,
+    "change": -1.2,
+    "changePercentage": -4.054054054054054,
+    "tradeDate": 1774948216000
+  },
+  {
+    "id": 55555316,
+    "securityId": 284,
+    "symbol": "JKL.N0000",
+    "price": 81.2,
+    "change": -3.2,
+    "changePercentage": -3.7914691943127963,
+    "tradeDate": 1774947668000
+  }
+]
