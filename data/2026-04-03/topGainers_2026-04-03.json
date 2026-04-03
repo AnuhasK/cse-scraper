@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55576537,
+    "securityId": 19,
+    "symbol": "HAYL.R0000",
+    "price": 22.2,
+    "change": 7.2,
+    "changePercentage": 48.0,
+    "tradeDate": 1775120672000
+  },
+  {
+    "id": 55576536,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "price": 4138.75,
+    "change": 724.5,
+    "changePercentage": 21.219887237314197,
+    "tradeDate": 1775120486000
+  },
+  {
+    "id": 55576490,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 540.5,
+    "change": 48.5,
+    "changePercentage": 9.857723577235772,
+    "tradeDate": 1775121123000
+  },
+  {
+    "id": 55574219,
+    "securityId": 492,
+    "symbol": "ONAL.N0000",
+    "price": 40.3,
+    "change": 3.4,
+    "changePercentage": 9.214092140921409,
+    "tradeDate": 1775119726000
+  },
+  {
+    "id": 55576273,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 141.5,
+    "change": 11.0,
+    "changePercentage": 8.42911877394636,
+    "tradeDate": 1775120941000
+  },
+  {
+    "id": 55576086,
+    "securityId": 1561,
+    "symbol": "RWSL.N0000",
+    "price": 20.7,
+    "change": 1.2,
+    "changePercentage": 6.153846153846154,
+    "tradeDate": 1775120763000
+  },
+  {
+    "id": 55576443,
+    "securityId": 5371,
+    "symbol": "KPHL.N0000",
+    "price": 24.5,
+    "change": 1.4,
+    "changePercentage": 6.0606060606060606,
+    "tradeDate": 1775120952000
+  },
+  {
+    "id": 55564157,
+    "securityId": 455,
+    "symbol": "STAF.N0000",
+    "price": 42.3,
+    "change": 2.4,
+    "changePercentage": 6.015037593984962,
+    "tradeDate": 1775108451000
+  },
+  {
+    "id": 55575945,
+    "securityId": 477,
+    "symbol": "TPL.N0000",
+    "price": 137.0,
+    "change": 7.25,
+    "changePercentage": 5.5876685934489405,
+    "tradeDate": 1775121099000
+  },
+  {
+    "id": 55576085,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 1.9,
+    "change": 0.1,
+    "changePercentage": 5.555555555555555,
+    "tradeDate": 1775120757000
+  }
+]

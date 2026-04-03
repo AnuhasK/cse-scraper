@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 12.98,
+      "lastTradedTime": 1775120200153
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 9.21,
+      "lastTradedTime": 1775120392264
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 5.45,
+      "lastTradedTime": 1775120301802
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.36,
+      "lastTradedTime": 1775120400314
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 4.6,
+      "lastTradedTime": 1775120370938
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -19.94,
+      "lastTradedTime": 1775120224950
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -6.33,
+      "lastTradedTime": 1775120301879
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -5.72,
+      "lastTradedTime": 1775120395320
+    },
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": -4.48,
+      "lastTradedTime": 1775120093532
+    },
+    {
+      "id": 121,
+      "symbol": "GREG.N0000",
+      "name": "AMBEON HOLDINGS PLC",
+      "contribution": -4.35,
+      "lastTradedTime": 1775120278160
+    }
+  ]
+}
