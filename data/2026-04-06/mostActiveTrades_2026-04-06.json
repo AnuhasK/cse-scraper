@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55602644,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1728.0,
+    "shareVolume": 913383.0,
+    "turnover": 132523752.25,
+    "percentageShareVolume": -0.3412969283276451
+  },
+  {
+    "id": 55602666,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 1042.0,
+    "shareVolume": 16535585.0,
+    "turnover": 306386228.3,
+    "percentageShareVolume": 0.5405405405405406
+  },
+  {
+    "id": 55602578,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 904.0,
+    "shareVolume": 1839347.0,
+    "turnover": 86633449.0,
+    "percentageShareVolume": 0.6263048016701461
+  },
+  {
+    "id": 55602609,
+    "securityId": 19,
+    "symbol": "HAYL.R0000",
+    "tradeVolume": 874.0,
+    "shareVolume": 640796.0,
+    "turnover": 11409784.6,
+    "percentageShareVolume": -18.01801801801802
+  },
+  {
+    "id": 55602665,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 829.0,
+    "shareVolume": 8398084.0,
+    "turnover": 50174601.3,
+    "percentageShareVolume": 1.6666666666666667
+  },
+  {
+    "id": 55602655,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 826.0,
+    "shareVolume": 400016.0,
+    "turnover": 79729346.25,
+    "percentageShareVolume": -1.2391573729863692
+  },
+  {
+    "id": 55602329,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 588.0,
+    "shareVolume": 1136491.0,
+    "turnover": 92411283.3,
+    "percentageShareVolume": 2.466091245376079
+  },
+  {
+    "id": 55602645,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 558.0,
+    "shareVolume": 680439.0,
+    "turnover": 85271231.25,
+    "percentageShareVolume": 1.4056224899598393
+  },
+  {
+    "id": 55602624,
+    "securityId": 172,
+    "symbol": "HNB.N0000",
+    "tradeVolume": 538.0,
+    "shareVolume": 90989.0,
+    "turnover": 36026678.25,
+    "percentageShareVolume": -1.1264080100125156
+  },
+  {
+    "id": 55602632,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 420.0,
+    "shareVolume": 870323.0,
+    "turnover": 74910156.8,
+    "percentageShareVolume": 0.5841121495327103
+  }
+]

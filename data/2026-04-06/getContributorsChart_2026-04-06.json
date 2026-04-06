@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 8.44,
+      "lastTradedTime": 1775465976596
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 6.97,
+      "lastTradedTime": 1775465891997
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": 5.58,
+      "lastTradedTime": 1775465911249
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.36,
+      "lastTradedTime": 1775466006904
+    },
+    {
+      "id": 143,
+      "symbol": "AHPL.N0000",
+      "name": "ASIAN HOTELS & PROPERTIES PLC",
+      "contribution": 3.88,
+      "lastTradedTime": 1775464983674
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -13.49,
+      "lastTradedTime": 1775465999182
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -12.03,
+      "lastTradedTime": 1775465993875
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -5.9,
+      "lastTradedTime": null
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -3.68,
+      "lastTradedTime": 1775465999595
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": -3.25,
+      "lastTradedTime": 1775465580151
+    }
+  ]
+}
