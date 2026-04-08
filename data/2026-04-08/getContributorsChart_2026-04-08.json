@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 64.3,
+      "lastTradedTime": 1775638800858
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 53.95,
+      "lastTradedTime": null
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 42.1,
+      "lastTradedTime": 1775638781796
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 28.37,
+      "lastTradedTime": 1775638754614
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 26.34,
+      "lastTradedTime": 1775638800793
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -2.55,
+      "lastTradedTime": null
+    },
+    {
+      "id": 1784,
+      "symbol": "PAP.N0000",
+      "name": "PANASIAN POWER PLC",
+      "contribution": -1.06,
+      "lastTradedTime": 1775638800666
+    },
+    {
+      "id": 40,
+      "symbol": "LHCL.N0000",
+      "name": "THE LANKA HOSPITALS CORPORATION PLC",
+      "contribution": -0.76,
+      "lastTradedTime": 1775638604337
+    },
+    {
+      "id": 364,
+      "symbol": "ATL.N0000",
+      "name": "AMANA TAKAFUL  PLC",
+      "contribution": -0.64,
+      "lastTradedTime": 1775638769035
+    },
+    {
+      "id": 478,
+      "symbol": "RENU.N0000",
+      "name": "RENUKA CITY HOTEL PLC",
+      "contribution": -0.31,
+      "lastTradedTime": 1775624970345
+    }
+  ]
+}

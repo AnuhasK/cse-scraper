@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55662922,
+    "securityId": 77,
+    "symbol": "NDB.N0000",
+    "tradeVolume": 2266.0,
+    "shareVolume": 7465204.0,
+    "turnover": 820114730.5,
+    "percentageShareVolume": -0.6772009029345373
+  },
+  {
+    "id": 55662905,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 1500.0,
+    "shareVolume": 23236256.0,
+    "turnover": 457784934.9,
+    "percentageShareVolume": 6.486486486486487
+  },
+  {
+    "id": 55662890,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 1475.0,
+    "shareVolume": 2029779.0,
+    "turnover": 276489049.5,
+    "percentageShareVolume": 11.267605633802816
+  },
+  {
+    "id": 55662847,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 1289.0,
+    "shareVolume": 21221955.0,
+    "turnover": 336501746.2,
+    "percentageShareVolume": 11.11111111111111
+  },
+  {
+    "id": 55662906,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 1265.0,
+    "shareVolume": 26109882.0,
+    "turnover": 176522473.7,
+    "percentageShareVolume": 9.67741935483871
+  },
+  {
+    "id": 55662880,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "tradeVolume": 1156.0,
+    "shareVolume": 20082420.0,
+    "turnover": 164018845.1,
+    "percentageShareVolume": 20.28985507246377
+  },
+  {
+    "id": 55662873,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1076.0,
+    "shareVolume": 838849.0,
+    "turnover": 125331389.25,
+    "percentageShareVolume": 2.051282051282051
+  },
+  {
+    "id": 55662776,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 955.0,
+    "shareVolume": 5346280.0,
+    "turnover": 273719591.8,
+    "percentageShareVolume": 9.361702127659575
+  },
+  {
+    "id": 55662790,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 888.0,
+    "shareVolume": 3573503.0,
+    "turnover": 319064598.5,
+    "percentageShareVolume": 9.254807692307692
+  },
+  {
+    "id": 55662836,
+    "securityId": 19,
+    "symbol": "HAYL.R0000",
+    "tradeVolume": 734.0,
+    "shareVolume": 1229289.0,
+    "turnover": 22633657.6,
+    "percentageShareVolume": 18.125
+  }
+]
