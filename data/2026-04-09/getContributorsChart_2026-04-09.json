@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 12.73,
+      "lastTradedTime": 1775725173278
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 5.02,
+      "lastTradedTime": 1775725093384
+    },
+    {
+      "id": 941,
+      "symbol": "JINS.N0000",
+      "name": "JANASHAKTHI INSURANCE PLC",
+      "contribution": 4.91,
+      "lastTradedTime": 1775725197219
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": 4.01,
+      "lastTradedTime": 1775725138301
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 3.81,
+      "lastTradedTime": 1775725197289
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -11.35,
+      "lastTradedTime": 1775725178965
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -10.72,
+      "lastTradedTime": 1775725188439
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -9.44,
+      "lastTradedTime": 1775722951334
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -7.27,
+      "lastTradedTime": 1775724224225
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -7.17,
+      "lastTradedTime": 1775724981041
+    }
+  ]
+}
