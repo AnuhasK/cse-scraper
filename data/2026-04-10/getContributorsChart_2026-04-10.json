@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 32.15,
+      "lastTradedTime": 1775811607753
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 21.25,
+      "lastTradedTime": 1775811339171
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 18.44,
+      "lastTradedTime": 1775811607841
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 14.61,
+      "lastTradedTime": 1775811575968
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 12.67,
+      "lastTradedTime": 1775811537475
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -16.31,
+      "lastTradedTime": 1775807159101
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -9.36,
+      "lastTradedTime": 1775811494059
+    },
+    {
+      "id": 461,
+      "symbol": "KZOO.N0000",
+      "name": "CEYLON LAND & EQUITY PLC",
+      "contribution": -7.16,
+      "lastTradedTime": 1775811607641
+    },
+    {
+      "id": 2147,
+      "symbol": "SDB.N0000",
+      "name": "SANASA DEVELOPMENT BANK PLC",
+      "contribution": -2.51,
+      "lastTradedTime": 1775811376742
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": -2.24,
+      "lastTradedTime": 1775811586690
+    }
+  ]
+}
