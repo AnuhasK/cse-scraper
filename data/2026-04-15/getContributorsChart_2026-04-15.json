@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": 24.05,
+      "lastTradedTime": 1776237445595
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 11.8,
+      "lastTradedTime": 1776243349676
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 9.35,
+      "lastTradedTime": 1776242574126
+    },
+    {
+      "id": 131,
+      "symbol": "LLUB.N0000",
+      "name": "CHEVRON LUBRICANTS LANKA PLC",
+      "contribution": 7.43,
+      "lastTradedTime": 1776243539014
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 7.36,
+      "lastTradedTime": 1776243573695
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -7.6,
+      "lastTradedTime": 1776243577050
+    },
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": -3.0,
+      "lastTradedTime": 1776244324970
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -2.15,
+      "lastTradedTime": 1776243233798
+    },
+    {
+      "id": 105,
+      "symbol": "PABC.N0000",
+      "name": "PAN ASIA BANKING CORPORATION PLC",
+      "contribution": -2.07,
+      "lastTradedTime": 1776243564523
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -1.72,
+      "lastTradedTime": 1776243591961
+    }
+  ]
+}
