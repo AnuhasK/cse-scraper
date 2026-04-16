@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55793293,
+    "securityId": 357,
+    "symbol": "SEMB.X0000",
+    "price": 0.3,
+    "change": 0.1,
+    "changePercentage": 50.0,
+    "tradeDate": 1776330437000
+  },
+  {
+    "id": 55793356,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "price": 16.2,
+    "change": 3.2,
+    "changePercentage": 24.615384615384617,
+    "tradeDate": 1776330397000
+  },
+  {
+    "id": 55793349,
+    "securityId": 240,
+    "symbol": "AMSL.N0000",
+    "price": 20.3,
+    "change": 3.6,
+    "changePercentage": 21.55688622754491,
+    "tradeDate": 1776330524000
+  },
+  {
+    "id": 55793278,
+    "securityId": 3055,
+    "symbol": "MHDL.N0000",
+    "price": 11.6,
+    "change": 2.0,
+    "changePercentage": 20.833333333333332,
+    "tradeDate": 1776330244000
+  },
+  {
+    "id": 55793320,
+    "securityId": 1844,
+    "symbol": "AMF.N0000",
+    "price": 63.4,
+    "change": 10.4,
+    "changePercentage": 19.62264150943396,
+    "tradeDate": 1776330048000
+  },
+  {
+    "id": 55793325,
+    "securityId": 5532,
+    "symbol": "LUMX.N0000",
+    "price": 9.8,
+    "change": 1.3,
+    "changePercentage": 15.294117647058824,
+    "tradeDate": 1776330660000
+  },
+  {
+    "id": 55791334,
+    "securityId": 336,
+    "symbol": "CARS.N0000",
+    "price": 801.75,
+    "change": 97.5,
+    "changePercentage": 13.844515441959532,
+    "tradeDate": 1776329779000
+  },
+  {
+    "id": 55793229,
+    "securityId": 5351,
+    "symbol": "MDL.N0000",
+    "price": 26.0,
+    "change": 3.0,
+    "changePercentage": 13.043478260869565,
+    "tradeDate": 1776330499000
+  },
+  {
+    "id": 55792883,
+    "securityId": 117,
+    "symbol": "SIL.N0000",
+    "price": 554.75,
+    "change": 57.0,
+    "changePercentage": 11.451531893520844,
+    "tradeDate": 1776330624000
+  },
+  {
+    "id": 55790807,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 2.0,
+    "change": 0.2,
+    "changePercentage": 11.11111111111111,
+    "tradeDate": 1776330097000
+  }
+]

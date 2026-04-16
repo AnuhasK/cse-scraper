@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 25.94,
+      "lastTradedTime": 1776329529253
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 19.36,
+      "lastTradedTime": 1776329981008
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 16.07,
+      "lastTradedTime": 1776330000601
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 12.76,
+      "lastTradedTime": 1776330000069
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 11.67,
+      "lastTradedTime": 1776329991550
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -1.69,
+      "lastTradedTime": 1776329934960
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -1.68,
+      "lastTradedTime": 1776329800994
+    },
+    {
+      "id": 143,
+      "symbol": "AHPL.N0000",
+      "name": "ASIAN HOTELS & PROPERTIES PLC",
+      "contribution": -1.38,
+      "lastTradedTime": 1776329818526
+    },
+    {
+      "id": 512,
+      "symbol": "SINS.N0000",
+      "name": "SINGER (SRI LANKA) PLC",
+      "contribution": -1.12,
+      "lastTradedTime": 1776329987313
+    },
+    {
+      "id": 1847,
+      "symbol": "LOFC.N0000",
+      "name": "LOLC FINANCE PLC",
+      "contribution": -1.06,
+      "lastTradedTime": 1776329630667
+    }
+  ]
+}
