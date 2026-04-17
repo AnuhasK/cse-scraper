@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 19.69,
+      "lastTradedTime": 1776416393404
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": 17.24,
+      "lastTradedTime": 1776416380230
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 14.34,
+      "lastTradedTime": 1776416304506
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 10.74,
+      "lastTradedTime": 1776409840857
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": 8.25,
+      "lastTradedTime": 1776416393617
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -8.59,
+      "lastTradedTime": 1776416394718
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -6.01,
+      "lastTradedTime": 1776416362722
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -5.39,
+      "lastTradedTime": 1776416359279
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": -1.88,
+      "lastTradedTime": 1776416187473
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": -1.85,
+      "lastTradedTime": 1776416228843
+    }
+  ]
+}
