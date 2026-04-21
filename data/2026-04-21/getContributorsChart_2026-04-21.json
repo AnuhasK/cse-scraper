@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 225,
+      "symbol": "ASIR.N0000",
+      "name": "ASIRI HOSPITAL HOLDINGS PLC",
+      "contribution": 7.47,
+      "lastTradedTime": 1776675563204
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.72,
+      "lastTradedTime": 1776675568826
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 4.06,
+      "lastTradedTime": 1776674707743
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 3.45,
+      "lastTradedTime": 1776675365120
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 3.34,
+      "lastTradedTime": 1776675520555
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -13.99,
+      "lastTradedTime": 1776675581172
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -10.06,
+      "lastTradedTime": 1776674142169
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -9.92,
+      "lastTradedTime": 1776675247180
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -9.44,
+      "lastTradedTime": 1776675577883
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": -8.24,
+      "lastTradedTime": 1776675563252
+    }
+  ]
+}
