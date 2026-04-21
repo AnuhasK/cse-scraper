@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": 17.63,
+      "lastTradedTime": 1776761933767
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 6.68,
+      "lastTradedTime": 1776761959188
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 5.9,
+      "lastTradedTime": 1776761953386
+    },
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": 4.69,
+      "lastTradedTime": 1776761993661
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 4.52,
+      "lastTradedTime": 1776761942479
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.36,
+      "lastTradedTime": 1776761989782
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -4.29,
+      "lastTradedTime": 1776762000984
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -3.38,
+      "lastTradedTime": 1776761997387
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -2.67,
+      "lastTradedTime": 1776761933039
+    },
+    {
+      "id": 486,
+      "symbol": "GLAS.N0000",
+      "name": "PGP GLASS CEYLON PLC",
+      "contribution": -2.35,
+      "lastTradedTime": 1776753590927
+    }
+  ]
+}
