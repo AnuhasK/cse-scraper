@@ -5,7 +5,7 @@ from datetime import datetime
 
 API_URL = "https://www.cse.lk/api/financials"
 OUTPUT_DIR = "financial-reports"
-SYMBOLS_FILE = "company-symbols-test.txt"
+SYMBOLS_FILE = "delisted-but-exists-in-cse-db.txt"
 
 def load_symbols():
     """Load company symbols from file."""
