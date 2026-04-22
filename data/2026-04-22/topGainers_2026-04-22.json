@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55940314,
+    "securityId": 308,
+    "symbol": "COLO.N0000",
+    "price": 50.4,
+    "change": 5.2,
+    "changePercentage": 11.504424778761061,
+    "tradeDate": 1776848852000
+  },
+  {
+    "id": 55940989,
+    "securityId": 941,
+    "symbol": "JINS.N0000",
+    "price": 54.4,
+    "change": 4.5,
+    "changePercentage": 9.01803607214429,
+    "tradeDate": 1776849025000
+  },
+  {
+    "id": 55940928,
+    "securityId": 230,
+    "symbol": "NHL.N0000",
+    "price": 14.4,
+    "change": 0.9,
+    "changePercentage": 6.666666666666667,
+    "tradeDate": 1776849374000
+  },
+  {
+    "id": 55940923,
+    "securityId": 5173,
+    "symbol": "EML.N0000",
+    "price": 11.2,
+    "change": 0.7,
+    "changePercentage": 6.666666666666667,
+    "tradeDate": 1776849149000
+  },
+  {
+    "id": 55940316,
+    "securityId": 6577,
+    "symbol": "JFP.N0000",
+    "price": 16.6,
+    "change": 1.0,
+    "changePercentage": 6.410256410256411,
+    "tradeDate": 1776848854000
+  },
+  {
+    "id": 55940118,
+    "securityId": 443,
+    "symbol": "LVEN.N0000",
+    "price": 63.7,
+    "change": 3.5,
+    "changePercentage": 5.813953488372093,
+    "tradeDate": 1776849068000
+  },
+  {
+    "id": 55940153,
+    "securityId": 5532,
+    "symbol": "LUMX.N0000",
+    "price": 9.6,
+    "change": 0.5,
+    "changePercentage": 5.4945054945054945,
+    "tradeDate": 1776848374000
+  },
+  {
+    "id": 55937728,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 576.0,
+    "change": 29.5,
+    "changePercentage": 5.397987191216834,
+    "tradeDate": 1776847443000
+  },
+  {
+    "id": 55940014,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 156.5,
+    "change": 8.0,
+    "changePercentage": 5.3872053872053876,
+    "tradeDate": 1776848390000
+  },
+  {
+    "id": 55940012,
+    "securityId": 3794,
+    "symbol": "BPPL.N0000",
+    "price": 22.2,
+    "change": 1.1,
+    "changePercentage": 5.213270142180095,
+    "tradeDate": 1776848847000
+  }
+]

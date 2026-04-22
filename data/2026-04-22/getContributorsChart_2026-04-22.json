@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 7.03,
+      "lastTradedTime": 1776848383104
+    },
+    {
+      "id": 941,
+      "symbol": "JINS.N0000",
+      "name": "JANASHAKTHI INSURANCE PLC",
+      "contribution": 5.94,
+      "lastTradedTime": 1776848399630
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 4.77,
+      "lastTradedTime": 1776848383152
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.72,
+      "lastTradedTime": 1776848370159
+    },
+    {
+      "id": 148,
+      "symbol": "WATA.N0000",
+      "name": "WATAWALA PLANTATIONS PLC",
+      "contribution": 4.35,
+      "lastTradedTime": 1776848379491
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -7.35,
+      "lastTradedTime": 1776848398348
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -5.73,
+      "lastTradedTime": 1776848373693
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.36,
+      "lastTradedTime": 1776848393957
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -3.52,
+      "lastTradedTime": 1776847545788
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -3.38,
+      "lastTradedTime": 1776848368447
+    }
+  ]
+}
