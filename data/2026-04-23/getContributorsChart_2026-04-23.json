@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": 5.63,
+      "lastTradedTime": 1776934791491
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 5.57,
+      "lastTradedTime": 1776934758212
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 5.39,
+      "lastTradedTime": 1776934717573
+    },
+    {
+      "id": 375,
+      "symbol": "DIMO.N0000",
+      "name": "DIESEL & MOTOR ENGINEERING PLC",
+      "contribution": 3.04,
+      "lastTradedTime": 1776934671092
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 2.76,
+      "lastTradedTime": 1776934670346
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -12.11,
+      "lastTradedTime": 1776934748075
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": -8.5,
+      "lastTradedTime": 1776933814686
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -7.0,
+      "lastTradedTime": 1776934783492
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -6.94,
+      "lastTradedTime": 1776933420895
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.52,
+      "lastTradedTime": 1776934799508
+    }
+  ]
+}

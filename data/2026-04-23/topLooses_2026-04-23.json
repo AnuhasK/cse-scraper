@@ -1,0 +1,92 @@
+[
+  {
+    "id": 55966368,
+    "securityId": 6616,
+    "symbol": "INME.N0000",
+    "price": 1897.5,
+    "change": -169.75,
+    "changePercentage": -8.211391945821743,
+    "tradeDate": 1776935135000
+  },
+  {
+    "id": 55964520,
+    "securityId": 550,
+    "symbol": "ASHO.N0000",
+    "price": 3121.75,
+    "change": -212.75,
+    "changePercentage": -6.380266906582696,
+    "tradeDate": 1776934450000
+  },
+  {
+    "id": 55964182,
+    "securityId": 560,
+    "symbol": "BREW.N0000",
+    "price": 2718.75,
+    "change": -171.5,
+    "changePercentage": -5.93374275581697,
+    "tradeDate": 1776934497000
+  },
+  {
+    "id": 55966277,
+    "securityId": 165,
+    "symbol": "BUKI.N0000",
+    "price": 946.0,
+    "change": -53.75,
+    "changePercentage": -5.376344086021505,
+    "tradeDate": 1776934819000
+  },
+  {
+    "id": 55965619,
+    "securityId": 5511,
+    "symbol": "AFS.N0000",
+    "price": 38.2,
+    "change": -2.1,
+    "changePercentage": -5.2109181141439205,
+    "tradeDate": 1776935001000
+  },
+  {
+    "id": 55963366,
+    "securityId": 484,
+    "symbol": "TSML.N0000",
+    "price": 42.1,
+    "change": -2.0,
+    "changePercentage": -4.535147392290249,
+    "tradeDate": 1776933286000
+  },
+  {
+    "id": 55958045,
+    "securityId": 414,
+    "symbol": "RHTL.N0000",
+    "price": 25.0,
+    "change": -1.1,
+    "changePercentage": -4.21455938697318,
+    "tradeDate": 1776928744000
+  },
+  {
+    "id": 55963664,
+    "securityId": 415,
+    "symbol": "LION.N0000",
+    "price": 1752.5,
+    "change": -73.75,
+    "changePercentage": -4.03832991101985,
+    "tradeDate": 1776934310000
+  },
+  {
+    "id": 55956544,
+    "securityId": 561,
+    "symbol": "UDPL.N0000",
+    "price": 151.0,
+    "change": -5.75,
+    "changePercentage": -3.668261562998405,
+    "tradeDate": 1776927523000
+  },
+  {
+    "id": 55962430,
+    "securityId": 3794,
+    "symbol": "BPPL.N0000",
+    "price": 21.4,
+    "change": -0.8,
+    "changePercentage": -3.6036036036036037,
+    "tradeDate": 1776933445000
+  }
+]
