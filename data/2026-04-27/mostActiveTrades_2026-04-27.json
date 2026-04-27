@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56017234,
+    "securityId": 6032,
+    "symbol": "MFPE.N0000",
+    "tradeVolume": 1646.0,
+    "shareVolume": 12911391.0,
+    "turnover": 195283267.5,
+    "percentageShareVolume": 15.862068965517242
+  },
+  {
+    "id": 56017151,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "tradeVolume": 772.0,
+    "shareVolume": 5599008.0,
+    "turnover": 45891964.1,
+    "percentageShareVolume": -4.761904761904762
+  },
+  {
+    "id": 56017186,
+    "securityId": 188,
+    "symbol": "BFL.N0000",
+    "tradeVolume": 744.0,
+    "shareVolume": 1022452.0,
+    "turnover": 91449084.2,
+    "percentageShareVolume": 4.2105263157894735
+  },
+  {
+    "id": 56017267,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 545.0,
+    "shareVolume": 245423.0,
+    "turnover": 36596978.75,
+    "percentageShareVolume": 0.6756756756756757
+  },
+  {
+    "id": 56017153,
+    "securityId": 1041,
+    "symbol": "CRL.N0000",
+    "tradeVolume": 534.0,
+    "shareVolume": 3516560.0,
+    "turnover": 26884195.2,
+    "percentageShareVolume": -1.2820512820512822
+  },
+  {
+    "id": 56016888,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 521.0,
+    "shareVolume": 393487.0,
+    "turnover": 82404828.0,
+    "percentageShareVolume": -0.7142857142857143
+  },
+  {
+    "id": 56017194,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 514.0,
+    "shareVolume": 1927337.0,
+    "turnover": 39080997.0,
+    "percentageShareVolume": 0.49504950495049505
+  },
+  {
+    "id": 56017185,
+    "securityId": 147,
+    "symbol": "KOTA.N0000",
+    "tradeVolume": 471.0,
+    "shareVolume": 12059340.0,
+    "turnover": 110677220.3,
+    "percentageShareVolume": 6.666666666666667
+  },
+  {
+    "id": 56016849,
+    "securityId": 2229,
+    "symbol": "CITH.N0000",
+    "tradeVolume": 462.0,
+    "shareVolume": 11959499.0,
+    "turnover": 73818175.8,
+    "percentageShareVolume": 5.084745762711864
+  },
+  {
+    "id": 56016843,
+    "securityId": 471,
+    "symbol": "DIAL.N0000",
+    "tradeVolume": 447.0,
+    "shareVolume": 2154802.0,
+    "turnover": 75920678.4,
+    "percentageShareVolume": 3.7900874635568513
+  }
+]
