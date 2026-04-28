@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56038674,
+    "securityId": 2997,
+    "symbol": "TESS.X0000",
+    "price": 1.4,
+    "change": -0.1,
+    "changePercentage": -6.666666666666667,
+    "tradeDate": 1777365641000
+  },
+  {
+    "id": 56035876,
+    "securityId": 196,
+    "symbol": "GUAR.N0000",
+    "price": 236.5,
+    "change": -14.25,
+    "changePercentage": -5.682951146560319,
+    "tradeDate": 1777363927000
+  },
+  {
+    "id": 56040972,
+    "securityId": 44,
+    "symbol": "PHAR.N0000",
+    "price": 164.0,
+    "change": -9.75,
+    "changePercentage": -5.611510791366906,
+    "tradeDate": 1777367335000
+  },
+  {
+    "id": 56036748,
+    "securityId": 3495,
+    "symbol": "BFN.N0000",
+    "price": 40.5,
+    "change": -2.2,
+    "changePercentage": -5.152224824355972,
+    "tradeDate": 1777363866000
+  },
+  {
+    "id": 56041358,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "price": 7.6,
+    "change": -0.4,
+    "changePercentage": -5.0,
+    "tradeDate": 1777366926000
+  },
+  {
+    "id": 56040156,
+    "securityId": 1971,
+    "symbol": "CITW.N0000",
+    "price": 1.9,
+    "change": -0.1,
+    "changePercentage": -5.0,
+    "tradeDate": 1777367210000
+  },
+  {
+    "id": 56041157,
+    "securityId": 1744,
+    "symbol": "LGL.X0000",
+    "price": 46.7,
+    "change": -2.3,
+    "changePercentage": -4.6938775510204085,
+    "tradeDate": 1777367192000
+  },
+  {
+    "id": 56041349,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 2.1,
+    "change": -0.1,
+    "changePercentage": -4.545454545454546,
+    "tradeDate": 1777367566000
+  },
+  {
+    "id": 56040043,
+    "securityId": 329,
+    "symbol": "KHC.N0000",
+    "price": 15.3,
+    "change": -0.7,
+    "changePercentage": -4.375,
+    "tradeDate": 1777367184000
+  },
+  {
+    "id": 56040120,
+    "securityId": 520,
+    "symbol": "CTLD.N0000",
+    "price": 39.4,
+    "change": -1.8,
+    "changePercentage": -4.368932038834951,
+    "tradeDate": 1777367058000
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 12.13,
+      "lastTradedTime": 1777366787013
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 10.71,
+      "lastTradedTime": 1777366737314
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 8.88,
+      "lastTradedTime": 1777366787466
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 5.67,
+      "lastTradedTime": 1777366800678
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 4.26,
+      "lastTradedTime": 1777366339783
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -8.05,
+      "lastTradedTime": 1777366393768
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.91,
+      "lastTradedTime": 1777366629155
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -5.62,
+      "lastTradedTime": 1777366401637
+    },
+    {
+      "id": 196,
+      "symbol": "GUAR.N0000",
+      "name": "CEYLON GUARDIAN INVESTMENT TRUST PLC",
+      "contribution": -3.5,
+      "lastTradedTime": 1777362933000
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": -2.68,
+      "lastTradedTime": 1777366286131
+    }
+  ]
+}
