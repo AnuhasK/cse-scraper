@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 7036,
+      "symbol": "JXG.N0000",
+      "name": "JANASHAKTHI LIMITED",
+      "contribution": 14.54,
+      "lastTradedTime": 1777453200577
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": 8.02,
+      "lastTradedTime": 1777444877660
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.36,
+      "lastTradedTime": 1777453161768
+    },
+    {
+      "id": 225,
+      "symbol": "ASIR.N0000",
+      "name": "ASIRI HOSPITAL HOLDINGS PLC",
+      "contribution": 5.19,
+      "lastTradedTime": 1777453200946
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.72,
+      "lastTradedTime": 1777453021747
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -6.18,
+      "lastTradedTime": 1777453011299
+    },
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": -5.29,
+      "lastTradedTime": 1777453200421
+    },
+    {
+      "id": 941,
+      "symbol": "JINS.N0000",
+      "name": "JANASHAKTHI INSURANCE PLC",
+      "contribution": -3.3,
+      "lastTradedTime": 1777453043024
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": -2.75,
+      "lastTradedTime": 1777453172163
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -2.53,
+      "lastTradedTime": 1777453002218
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56085131,
+    "securityId": 7036,
+    "symbol": "JXG.N0000",
+    "tradeVolume": 21466.0,
+    "shareVolume": 124948615.0,
+    "turnover": 1787711512.9,
+    "percentageShareVolume": 37.0
+  },
+  {
+    "id": 56085126,
+    "securityId": 554,
+    "symbol": "ACME.N0000",
+    "tradeVolume": 828.0,
+    "shareVolume": 11315352.0,
+    "turnover": 72274331.3,
+    "percentageShareVolume": 8.333333333333334
+  },
+  {
+    "id": 56084847,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 598.0,
+    "shareVolume": 5533466.0,
+    "turnover": 114145803.4,
+    "percentageShareVolume": 0.4878048780487805
+  },
+  {
+    "id": 56084420,
+    "securityId": 941,
+    "symbol": "JINS.N0000",
+    "tradeVolume": 540.0,
+    "shareVolume": 1032525.0,
+    "turnover": 53639602.2,
+    "percentageShareVolume": -4.716981132075472
+  },
+  {
+    "id": 56084934,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 488.0,
+    "shareVolume": 3985841.0,
+    "turnover": 42984461.8,
+    "percentageShareVolume": -0.9174311926605505
+  },
+  {
+    "id": 56084688,
+    "securityId": 77,
+    "symbol": "NDB.N0000",
+    "tradeVolume": 484.0,
+    "shareVolume": 2133576.0,
+    "turnover": 239002876.25,
+    "percentageShareVolume": -0.4424778761061947
+  },
+  {
+    "id": 56085090,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 460.0,
+    "shareVolume": 124295.0,
+    "turnover": 15936955.5,
+    "percentageShareVolume": -0.9652509652509652
+  },
+  {
+    "id": 56085124,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "tradeVolume": 458.0,
+    "shareVolume": 2647514.0,
+    "turnover": 19812289.7,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56084919,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 436.0,
+    "shareVolume": 139069.0,
+    "turnover": 20732792.25,
+    "percentageShareVolume": 0.16806722689075632
+  },
+  {
+    "id": 56084073,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 399.0,
+    "shareVolume": 4177444.0,
+    "turnover": 203957791.6,
+    "percentageShareVolume": -1.4227642276422765
+  }
+]
