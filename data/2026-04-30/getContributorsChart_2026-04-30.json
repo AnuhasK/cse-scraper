@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 8.05,
+      "lastTradedTime": 1777536562662
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 8.04,
+      "lastTradedTime": 1777538571002
+    },
+    {
+      "id": 148,
+      "symbol": "WATA.N0000",
+      "name": "WATAWALA PLANTATIONS PLC",
+      "contribution": 8.0,
+      "lastTradedTime": 1777539586741
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 7.68,
+      "lastTradedTime": 1777539117040
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 5.64,
+      "lastTradedTime": 1777539553415
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -14.15,
+      "lastTradedTime": 1777539492797
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -10.69,
+      "lastTradedTime": 1777539596445
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -9.42,
+      "lastTradedTime": 1777539591211
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": -5.99,
+      "lastTradedTime": null
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -4.71,
+      "lastTradedTime": 1777539427935
+    }
+  ]
+}
