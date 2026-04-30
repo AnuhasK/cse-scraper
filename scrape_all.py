@@ -7,6 +7,7 @@ from datetime import datetime
 from pathlib import Path
 
 import requests
+from holiday_utils import is_holiday, today_str
 
 # Read API endpoints from the txt file
 API_FILE = 'api_endpoint_urls.txt'
@@ -83,7 +84,7 @@ def fetch_and_save_all(endpoints, output_dir):
 
 def main():
     LOG_DIR.mkdir(parents=True, exist_ok=True)
-    date_str = datetime.now().strftime('%Y-%m-%d')
+    date_str = today_str()
     log_file = LOG_DIR / f'scraper_{date_str}.log'
     logging.basicConfig(
         level=logging.INFO,
@@ -94,6 +95,9 @@ def main():
         ],
     )
     try:
+        if is_holiday(date_str):
+            logger.info("Holiday skip: %s", date_str)
+            return 0
         endpoints = get_api_endpoints(API_FILE)
         saved, errors = fetch_and_save_all(endpoints, OUTPUT_DIR)
         if saved == 0 or errors:

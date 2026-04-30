@@ -1,0 +1,20 @@
+[
+  {"date": "2026-01-01", "name": "CSE Customary Holiday"},
+  {"date": "2026-01-15", "name": "Tamil Thai Pongal Day"},
+  {"date": "2026-02-04", "name": "Independence Day"},
+  {"date": "2026-03-02", "name": "Medin Full Moon Poya Day"},
+  {"date": "2026-04-01", "name": "Bak Full Moon Poya Day"},
+  {"date": "2026-04-03", "name": "Good Friday"},
+  {"date": "2026-04-13", "name": "Day Prior to Sinhala & Tamil New Year Day"},
+  {"date": "2026-04-14", "name": "Sinhala & Tamil New Year Day"},
+  {"date": "2026-05-01", "name": "May Day (International Workers' Day)"},
+  {"date": "2026-05-07", "name": "Vesak Full Moon Poya Day"},
+  {"date": "2026-05-28", "name": "Id-Ul-Allah (Hadji Festival Day)"},
+  {"date": "2026-06-29", "name": "Poson Full Moon Poya Day"},
+  {"date": "2026-07-29", "name": "Esala Full Moon Poya Day"},
+  {"date": "2026-08-26", "name": "Milad-Un-Nabi (Holy Prophet's Birthday)"},
+  {"date": "2026-08-27", "name": "Nikini Full Moon Poya Day"},
+  {"date": "2026-11-24", "name": "Il Full Moon Poya Day"},
+  {"date": "2026-12-23", "name": "Unduwap Full Moon Poya Day"},
+  {"date": "2026-12-25", "name": "Christmas Day"}
+]

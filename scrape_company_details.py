@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 import requests
+from holiday_utils import is_holiday, today_str
 
 BASE_URL = 'https://www.cse.lk/api/'
 ENDPOINT = 'companyInfoSummery'
@@ -113,7 +114,7 @@ def fetch_and_save_company_details(symbols, output_dir):
 
 def main():
     LOG_DIR.mkdir(parents=True, exist_ok=True)
-    date_str = datetime.now().strftime('%Y-%m-%d')
+    date_str = today_str()
     log_file = LOG_DIR / f'scraper_{date_str}.log'
     logging.basicConfig(
         level=logging.INFO,
@@ -124,6 +125,9 @@ def main():
         ],
     )
     try:
+        if is_holiday(date_str):
+            logger.info("Holiday skip: %s", date_str)
+            return 0
         symbols = get_company_symbols(TXT_FILE)
         if not symbols:
             logger.error("No symbols found in %s", TXT_FILE)
