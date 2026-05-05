@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 3.24,
+      "lastTradedTime": 1777971557688
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": 2.86,
+      "lastTradedTime": 1777971593327
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 2.35,
+      "lastTradedTime": 1777971364604
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 1.71,
+      "lastTradedTime": 1777971560136
+    },
+    {
+      "id": 250,
+      "symbol": "ASCO.N0000",
+      "name": "LANKA REALTY INVESTMENTS PLC",
+      "contribution": 1.6,
+      "lastTradedTime": 1777971414764
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -7.25,
+      "lastTradedTime": 1777971317941
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -7.15,
+      "lastTradedTime": 1777971597938
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.51,
+      "lastTradedTime": 1777971569037
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -5.38,
+      "lastTradedTime": 1777971498253
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.35,
+      "lastTradedTime": 1777971583380
+    }
+  ]
+}
