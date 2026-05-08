@@ -1,0 +1,74 @@
+[
+  {
+    "id": 56265716,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.6,
+    "change": -0.1,
+    "changePercentage": -14.285714285714286,
+    "tradeDate": 1778230816000
+  },
+  {
+    "id": 56265741,
+    "securityId": 5931,
+    "symbol": "LVEF.R0000",
+    "price": 1.1,
+    "change": -0.1,
+    "changePercentage": -8.333333333333334,
+    "tradeDate": 1778231115000
+  },
+  {
+    "id": 56264991,
+    "securityId": 1481,
+    "symbol": "RHL.X0000",
+    "price": 39.5,
+    "change": -2.3,
+    "changePercentage": -5.502392344497608,
+    "tradeDate": 1778230983000
+  },
+  {
+    "id": 56265464,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 321.0,
+    "change": -17.75,
+    "changePercentage": -5.239852398523985,
+    "tradeDate": 1778231263000
+  },
+  {
+    "id": 56265678,
+    "securityId": 533,
+    "symbol": "WAPO.N0000",
+    "price": 25.4,
+    "change": -1.2,
+    "changePercentage": -4.511278195488722,
+    "tradeDate": 1778231112000
+  },
+  {
+    "id": 56262575,
+    "securityId": 525,
+    "symbol": "CFLB.N0000",
+    "price": 75.6,
+    "change": -3.4,
+    "changePercentage": -4.30379746835443,
+    "tradeDate": 1778230087000
+  },
+  {
+    "id": 56264263,
+    "securityId": 227,
+    "symbol": "KFP.N0000",
+    "price": 158.5,
+    "change": -7.0,
+    "changePercentage": -4.229607250755287,
+    "tradeDate": 1778230521000
+  },
+  {
+    "id": 56265653,
+    "securityId": 8,
+    "symbol": "KAHA.N0000",
+    "price": 20.4,
+    "change": -0.8,
+    "changePercentage": -3.7735849056603774,
+    "tradeDate": 1778231167000
+  }
+]
