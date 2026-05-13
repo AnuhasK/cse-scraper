@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 230,
+      "symbol": "NHL.N0000",
+      "name": "NAWALOKA HOSPITALS PLC",
+      "contribution": 6.08,
+      "lastTradedTime": 1778662799463
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 3.29,
+      "lastTradedTime": 1778662792310
+    },
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": 2.84,
+      "lastTradedTime": 1778662682753
+    },
+    {
+      "id": 131,
+      "symbol": "LLUB.N0000",
+      "name": "CHEVRON LUBRICANTS LANKA PLC",
+      "contribution": 2.57,
+      "lastTradedTime": 1778662680645
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 2.38,
+      "lastTradedTime": 1778662787107
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -9.42,
+      "lastTradedTime": 1778662625478
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -7.03,
+      "lastTradedTime": 1778662761058
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -6.86,
+      "lastTradedTime": 1778662787830
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -6.74,
+      "lastTradedTime": 1778662765794
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -6.0,
+      "lastTradedTime": 1778662712675
+    }
+  ]
+}
