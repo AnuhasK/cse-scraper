@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56378373,
+    "securityId": 3082,
+    "symbol": "ALUM.N0000",
+    "tradeVolume": 1226.0,
+    "shareVolume": 7390100.0,
+    "turnover": 139419852.6,
+    "percentageShareVolume": 8.823529411764707
+  },
+  {
+    "id": 56378455,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "tradeVolume": 1116.0,
+    "shareVolume": 1060991.0,
+    "turnover": 49469400.4,
+    "percentageShareVolume": 24.936386768447836
+  },
+  {
+    "id": 56378429,
+    "securityId": 5931,
+    "symbol": "LVEF.R0000",
+    "tradeVolume": 664.0,
+    "shareVolume": 10040292.0,
+    "turnover": 8126669.7,
+    "percentageShareVolume": -20.0
+  },
+  {
+    "id": 56378430,
+    "securityId": 6936,
+    "symbol": "MERC.R0000",
+    "tradeVolume": 612.0,
+    "shareVolume": 8399742.0,
+    "turnover": 14194027.9,
+    "percentageShareVolume": 7.6923076923076925
+  },
+  {
+    "id": 56377983,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "tradeVolume": 477.0,
+    "shareVolume": 59299186.0,
+    "turnover": 35583908.0,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56378472,
+    "securityId": 1799,
+    "symbol": "MERC.N0000",
+    "tradeVolume": 474.0,
+    "shareVolume": 1370737.0,
+    "turnover": 43828249.7,
+    "percentageShareVolume": 6.333333333333333
+  },
+  {
+    "id": 56378414,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 459.0,
+    "shareVolume": 299640.0,
+    "turnover": 44612422.25,
+    "percentageShareVolume": -0.16806722689075632
+  },
+  {
+    "id": 56378424,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 403.0,
+    "shareVolume": 2142160.0,
+    "turnover": 218527715.25,
+    "percentageShareVolume": 0.49261083743842365
+  },
+  {
+    "id": 56378304,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "tradeVolume": 394.0,
+    "shareVolume": 483105.0,
+    "turnover": 8891736.4,
+    "percentageShareVolume": -5.208333333333333
+  },
+  {
+    "id": 56378274,
+    "securityId": 230,
+    "symbol": "NHL.N0000",
+    "tradeVolume": 377.0,
+    "shareVolume": 1654347.0,
+    "turnover": 27454805.5,
+    "percentageShareVolume": -2.9940119760479043
+  }
+]
