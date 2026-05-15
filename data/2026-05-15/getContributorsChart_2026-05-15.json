@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 32.54,
+      "lastTradedTime": 1778835569705
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 5.72,
+      "lastTradedTime": 1778835573972
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 5.38,
+      "lastTradedTime": 1778835597952
+    },
+    {
+      "id": 134,
+      "symbol": "HUNT.N0000",
+      "name": "HUNTERS & COMPANY PLC",
+      "contribution": 3.19,
+      "lastTradedTime": 1778834451180
+    },
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": 2.69,
+      "lastTradedTime": 1778835524676
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -15.13,
+      "lastTradedTime": 1778835576089
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -5.17,
+      "lastTradedTime": 1778835594649
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": -4.01,
+      "lastTradedTime": 1778835536909
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -3.51,
+      "lastTradedTime": 1778834902785
+    },
+    {
+      "id": 375,
+      "symbol": "DIMO.N0000",
+      "name": "DIESEL & MOTOR ENGINEERING PLC",
+      "contribution": -2.73,
+      "lastTradedTime": 1778835099888
+    }
+  ]
+}
