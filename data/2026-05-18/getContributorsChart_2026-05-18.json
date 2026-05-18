@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": 10.25,
+      "lastTradedTime": 1779088106938
+    },
+    {
+      "id": 364,
+      "symbol": "ATL.N0000",
+      "name": "AMANA TAKAFUL  PLC",
+      "contribution": 0.58,
+      "lastTradedTime": 1779094797408
+    },
+    {
+      "id": 243,
+      "symbol": "SLND.N0000",
+      "name": "SERENDIB LAND PLC",
+      "contribution": 0.2,
+      "lastTradedTime": 1779094782990
+    },
+    {
+      "id": 490,
+      "symbol": "COMD.N0000",
+      "name": "COMMERCIAL DEVELOPMENT COMPANY PLC",
+      "contribution": 0.15,
+      "lastTradedTime": 1779080575604
+    },
+    {
+      "id": 4439,
+      "symbol": "MCPL.N0000",
+      "name": "MAHAWELI COCONUT PLANTATIONS PLC",
+      "contribution": 0.06,
+      "lastTradedTime": 1779092049229
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -21.39,
+      "lastTradedTime": 1779094782948
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -18.62,
+      "lastTradedTime": 1779094760780
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -17.89,
+      "lastTradedTime": 1779094797649
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -17.49,
+      "lastTradedTime": 1779094777228
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -15.95,
+      "lastTradedTime": 1779094773619
+    }
+  ]
+}

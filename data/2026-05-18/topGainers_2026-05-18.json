@@ -1,0 +1,56 @@
+[
+  {
+    "id": 56450361,
+    "securityId": 243,
+    "symbol": "SLND.N0000",
+    "price": 3983.25,
+    "change": 441.0,
+    "changePercentage": 12.44971416472581,
+    "tradeDate": 1779095767000
+  },
+  {
+    "id": 56449910,
+    "securityId": 5892,
+    "symbol": "CALI.U0000",
+    "price": 14.8,
+    "change": 0.7,
+    "changePercentage": 4.964539007092198,
+    "tradeDate": 1779094892000
+  },
+  {
+    "id": 56417842,
+    "securityId": 490,
+    "symbol": "COMD.N0000",
+    "price": 322.5,
+    "change": 12.5,
+    "changePercentage": 4.032258064516129,
+    "tradeDate": 1779081165000
+  },
+  {
+    "id": 56433501,
+    "securityId": 91,
+    "symbol": "CINS.N0000",
+    "price": 3170.0,
+    "change": 63.0,
+    "changePercentage": 2.027679433537174,
+    "tradeDate": 1779089039000
+  },
+  {
+    "id": 56450436,
+    "securityId": 364,
+    "symbol": "ATL.N0000",
+    "price": 22.1,
+    "change": 0.3,
+    "changePercentage": 1.3761467889908257,
+    "tradeDate": 1779095201000
+  },
+  {
+    "id": 56443012,
+    "securityId": 4439,
+    "symbol": "MCPL.N0000",
+    "price": 54.4,
+    "change": 0.2,
+    "changePercentage": 0.36900369003690037,
+    "tradeDate": 1779092272000
+  }
+]
