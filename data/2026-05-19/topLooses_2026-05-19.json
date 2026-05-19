@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56474279,
+    "securityId": 164,
+    "symbol": "REXP.N0000",
+    "price": 366.5,
+    "change": -23.5,
+    "changePercentage": -6.0256410256410255,
+    "tradeDate": 1779180655000
+  },
+  {
+    "id": 56473125,
+    "securityId": 354,
+    "symbol": "PALM.N0000",
+    "price": 55.5,
+    "change": -3.5,
+    "changePercentage": -5.932203389830509,
+    "tradeDate": 1779179934000
+  },
+  {
+    "id": 56468556,
+    "securityId": 527,
+    "symbol": "LCEY.N0000",
+    "price": 40.1,
+    "change": -2.5,
+    "changePercentage": -5.868544600938967,
+    "tradeDate": 1779177007000
+  },
+  {
+    "id": 56474994,
+    "securityId": 204,
+    "symbol": "ABAN.N0000",
+    "price": 1114.75,
+    "change": -65.25,
+    "changePercentage": -5.529661016949152,
+    "tradeDate": 1779181981000
+  },
+  {
+    "id": 56475086,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "price": 13.0,
+    "change": -0.7,
+    "changePercentage": -5.109489051094891,
+    "tradeDate": 1779181898000
+  },
+  {
+    "id": 56475326,
+    "securityId": 1786,
+    "symbol": "HVA.N0000",
+    "price": 6.4,
+    "change": -0.3,
+    "changePercentage": -4.477611940298507,
+    "tradeDate": 1779181184000
+  },
+  {
+    "id": 56472942,
+    "securityId": 4439,
+    "symbol": "MCPL.N0000",
+    "price": 52.0,
+    "change": -2.4,
+    "changePercentage": -4.411764705882353,
+    "tradeDate": 1779180412000
+  },
+  {
+    "id": 56475087,
+    "securityId": 1041,
+    "symbol": "CRL.N0000",
+    "price": 6.6,
+    "change": -0.3,
+    "changePercentage": -4.3478260869565215,
+    "tradeDate": 1779181500000
+  },
+  {
+    "id": 56473343,
+    "securityId": 240,
+    "symbol": "AMSL.N0000",
+    "price": 20.1,
+    "change": -0.9,
+    "changePercentage": -4.285714285714286,
+    "tradeDate": 1779180697000
+  },
+  {
+    "id": 56474763,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 15.8,
+    "change": -0.7,
+    "changePercentage": -4.242424242424242,
+    "tradeDate": 1779181172000
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56475368,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1230.0,
+    "shareVolume": 441558.0,
+    "turnover": 64619273.5,
+    "percentageShareVolume": -0.6814310051107325
+  },
+  {
+    "id": 56475363,
+    "securityId": 7036,
+    "symbol": "JXG.N0000",
+    "tradeVolume": 642.0,
+    "shareVolume": 3827254.0,
+    "turnover": 51830471.8,
+    "percentageShareVolume": -0.7407407407407407
+  },
+  {
+    "id": 56475329,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 601.0,
+    "shareVolume": 409323.0,
+    "turnover": 84321173.0,
+    "percentageShareVolume": -0.36363636363636365
+  },
+  {
+    "id": 56475325,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 471.0,
+    "shareVolume": 2233251.0,
+    "turnover": 45367051.2,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56475367,
+    "securityId": 325,
+    "symbol": "HHL.N0000",
+    "tradeVolume": 450.0,
+    "shareVolume": 7848498.0,
+    "turnover": 247508336.7,
+    "percentageShareVolume": -0.6289308176100629
+  },
+  {
+    "id": 56475089,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 431.0,
+    "shareVolume": 1064528.0,
+    "turnover": 48970787.8,
+    "percentageShareVolume": -1.0869565217391304
+  },
+  {
+    "id": 56475331,
+    "securityId": 461,
+    "symbol": "KZOO.N0000",
+    "tradeVolume": 368.0,
+    "shareVolume": 3002127.0,
+    "turnover": 31126150.2,
+    "percentageShareVolume": 0.9900990099009901
+  },
+  {
+    "id": 56475290,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 365.0,
+    "shareVolume": 351371.0,
+    "turnover": 31593929.7,
+    "percentageShareVolume": -0.11210762331838565
+  },
+  {
+    "id": 56475366,
+    "securityId": 472,
+    "symbol": "ACL.N0000",
+    "tradeVolume": 360.0,
+    "shareVolume": 840307.0,
+    "turnover": 82885998.6,
+    "percentageShareVolume": 0.10152284263959391
+  },
+  {
+    "id": 56474911,
+    "securityId": 241,
+    "symbol": "CPRT.N0000",
+    "tradeVolume": 352.0,
+    "shareVolume": 277017.0,
+    "turnover": 12550964.9,
+    "percentageShareVolume": 7.380952380952381
+  }
+]

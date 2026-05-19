@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 7.07,
+      "lastTradedTime": 1779181193943
+    },
+    {
+      "id": 1848,
+      "symbol": "VONE.N0000",
+      "name": "VALLIBEL ONE PLC",
+      "contribution": 5.17,
+      "lastTradedTime": 1779181197451
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 3.75,
+      "lastTradedTime": 1779181150234
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": 2.74,
+      "lastTradedTime": 1779181168319
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 2.57,
+      "lastTradedTime": 1779181171583
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -7.35,
+      "lastTradedTime": 1779181197279
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -5.89,
+      "lastTradedTime": 1779180782554
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -4.04,
+      "lastTradedTime": 1779181181389
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -4.0,
+      "lastTradedTime": 1779181157321
+    },
+    {
+      "id": 322,
+      "symbol": "LFIN.N0000",
+      "name": "L B FINANCE PLC",
+      "contribution": -3.46,
+      "lastTradedTime": 1779180535141
+    }
+  ]
+}
