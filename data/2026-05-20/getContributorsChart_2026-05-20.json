@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 4.08,
+      "lastTradedTime": 1779266304995
+    },
+    {
+      "id": 329,
+      "symbol": "KHC.N0000",
+      "name": "THE KANDY HOTELS COMPANY (1938) PLC",
+      "contribution": 0.86,
+      "lastTradedTime": 1779262857298
+    },
+    {
+      "id": 119,
+      "symbol": "PARQ.N0000",
+      "name": "SWISSTEK (CEYLON) PLC",
+      "contribution": 0.65,
+      "lastTradedTime": 1779266783486
+    },
+    {
+      "id": 278,
+      "symbol": "UCAR.N0000",
+      "name": "UNION CHEMICALS LANKA PLC",
+      "contribution": 0.61,
+      "lastTradedTime": 1779267497703
+    },
+    {
+      "id": 5291,
+      "symbol": "SDF.N0000",
+      "name": "SARVODAYA DEVELOPMENT FINANCE PLC",
+      "contribution": 0.42,
+      "lastTradedTime": 1779267406804
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -28.26,
+      "lastTradedTime": 1779267466997
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -27.55,
+      "lastTradedTime": 1779267587749
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -26.73,
+      "lastTradedTime": 1779267595929
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -23.51,
+      "lastTradedTime": 1779262805458
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -14.67,
+      "lastTradedTime": 1779267537756
+    }
+  ]
+}
