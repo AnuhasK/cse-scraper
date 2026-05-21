@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 10.6,
+      "lastTradedTime": 1779353934312
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 8.92,
+      "lastTradedTime": 1779353994647
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": 4.76,
+      "lastTradedTime": 1779353849298
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": 4.29,
+      "lastTradedTime": 1779353776647
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 3.85,
+      "lastTradedTime": 1779353913028
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -5.26,
+      "lastTradedTime": 1779353963844
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -5.17,
+      "lastTradedTime": 1779353533336
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -3.84,
+      "lastTradedTime": 1779353758169
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": -3.49,
+      "lastTradedTime": 1779353981629
+    },
+    {
+      "id": 1789,
+      "symbol": "SFCL.N0000",
+      "name": "SENKADAGALA FINANCE PLC",
+      "contribution": -2.87,
+      "lastTradedTime": 1779350443151
+    }
+  ]
+}
