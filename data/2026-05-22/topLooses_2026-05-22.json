@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56562724,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.5,
+    "change": -0.1,
+    "changePercentage": -16.666666666666668,
+    "tradeDate": 1779441022000
+  },
+  {
+    "id": 56551295,
+    "securityId": 3080,
+    "symbol": "BRR.N0000",
+    "price": 18.7,
+    "change": -2.4,
+    "changePercentage": -11.374407582938389,
+    "tradeDate": 1779430187000
+  },
+  {
+    "id": 56560476,
+    "securityId": 243,
+    "symbol": "SLND.N0000",
+    "price": 3034.0,
+    "change": -260.5,
+    "changePercentage": -7.9071179238124145,
+    "tradeDate": 1779439586000
+  },
+  {
+    "id": 56562016,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 700.0,
+    "change": -51.75,
+    "changePercentage": -6.883937479215165,
+    "tradeDate": 1779440504000
+  },
+  {
+    "id": 56562460,
+    "securityId": 278,
+    "symbol": "UCAR.N0000",
+    "price": 2865.75,
+    "change": -177.0,
+    "changePercentage": -5.817106236135075,
+    "tradeDate": 1779440917000
+  },
+  {
+    "id": 56561516,
+    "securityId": 383,
+    "symbol": "CHOT.N0000",
+    "price": 31.5,
+    "change": -1.9,
+    "changePercentage": -5.688622754491018,
+    "tradeDate": 1779440384000
+  },
+  {
+    "id": 56562799,
+    "securityId": 308,
+    "symbol": "COLO.N0000",
+    "price": 41.2,
+    "change": -2.3,
+    "changePercentage": -5.287356321839081,
+    "tradeDate": 1779440672000
+  },
+  {
+    "id": 56563072,
+    "securityId": 5005,
+    "symbol": "VLL.X0000",
+    "price": 18.2,
+    "change": -0.9,
+    "changePercentage": -4.712041884816754,
+    "tradeDate": 1779440926000
+  },
+  {
+    "id": 56562743,
+    "securityId": 5511,
+    "symbol": "AFS.N0000",
+    "price": 31.6,
+    "change": -1.5,
+    "changePercentage": -4.531722054380665,
+    "tradeDate": 1779440820000
+  },
+  {
+    "id": 56562801,
+    "securityId": 225,
+    "symbol": "ASIR.N0000",
+    "price": 37.0,
+    "change": -1.6,
+    "changePercentage": -4.1450777202072535,
+    "tradeDate": 1779441062000
+  }
+]
