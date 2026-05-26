@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": 7.17,
+      "lastTradedTime": 1779777574462
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 5.14,
+      "lastTradedTime": 1779784439099
+    },
+    {
+      "id": 196,
+      "symbol": "GUAR.N0000",
+      "name": "CEYLON GUARDIAN INVESTMENT TRUST PLC",
+      "contribution": 3.07,
+      "lastTradedTime": 1779777048258
+    },
+    {
+      "id": 550,
+      "symbol": "ASHO.N0000",
+      "name": "LANKA ASHOK LEYLAND PLC",
+      "contribution": 2.78,
+      "lastTradedTime": 1779785862305
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": 2.23,
+      "lastTradedTime": 1779785620536
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -11.02,
+      "lastTradedTime": 1779785998435
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -10.73,
+      "lastTradedTime": 1779785997373
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -10.7,
+      "lastTradedTime": 1779785992685
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -9.33,
+      "lastTradedTime": 1779785984040
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -7.72,
+      "lastTradedTime": 1779785987686
+    }
+  ]
+}
