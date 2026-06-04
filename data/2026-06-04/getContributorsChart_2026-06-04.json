@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 143,
+      "symbol": "AHPL.N0000",
+      "name": "ASIAN HOTELS & PROPERTIES PLC",
+      "contribution": 1.38,
+      "lastTradedTime": 1780561828802
+    },
+    {
+      "id": 5353,
+      "symbol": "COOP.N0000",
+      "name": "CO-OPERATIVE INSURANCE COMPANY PLC",
+      "contribution": 1.06,
+      "lastTradedTime": 1780563247328
+    },
+    {
+      "id": 258,
+      "symbol": "CARE.N0000",
+      "name": "PRINTCARE  PLC",
+      "contribution": 0.76,
+      "lastTradedTime": 1780561926257
+    },
+    {
+      "id": 26,
+      "symbol": "EBCR.N0000",
+      "name": "E B CREASY & COMPANY PLC",
+      "contribution": 0.64,
+      "lastTradedTime": 1780559150609
+    },
+    {
+      "id": 121,
+      "symbol": "GREG.N0000",
+      "name": "AMBEON HOLDINGS PLC",
+      "contribution": 0.51,
+      "lastTradedTime": 1780562533038
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -26.88,
+      "lastTradedTime": 1780563599599
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -14.8,
+      "lastTradedTime": 1780563551131
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -12.95,
+      "lastTradedTime": 1780563378375
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -12.0,
+      "lastTradedTime": 1780563571519
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -7.91,
+      "lastTradedTime": 1780563451430
+    }
+  ]
+}

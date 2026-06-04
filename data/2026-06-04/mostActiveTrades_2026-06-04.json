@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56748117,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1520.0,
+    "shareVolume": 529699.0,
+    "turnover": 74217766.0,
+    "percentageShareVolume": -0.5328596802841918
+  },
+  {
+    "id": 56748125,
+    "securityId": 5431,
+    "symbol": "HELA.N0000",
+    "tradeVolume": 1330.0,
+    "shareVolume": 28472166.0,
+    "turnover": 33389570.0,
+    "percentageShareVolume": -21.428571428571427
+  },
+  {
+    "id": 56748146,
+    "securityId": 471,
+    "symbol": "DIAL.N0000",
+    "tradeVolume": 1048.0,
+    "shareVolume": 3244544.0,
+    "turnover": 133064236.2,
+    "percentageShareVolume": -4.4392523364485985
+  },
+  {
+    "id": 56748087,
+    "securityId": 7036,
+    "symbol": "JXG.N0000",
+    "tradeVolume": 826.0,
+    "shareVolume": 2507665.0,
+    "turnover": 31094847.1,
+    "percentageShareVolume": -3.1746031746031744
+  },
+  {
+    "id": 56747962,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 632.0,
+    "shareVolume": 4789528.0,
+    "turnover": 95485867.9,
+    "percentageShareVolume": -0.4975124378109453
+  },
+  {
+    "id": 56748114,
+    "securityId": 267,
+    "symbol": "DOCK.N0000",
+    "tradeVolume": 552.0,
+    "shareVolume": 761548.0,
+    "turnover": 96813551.25,
+    "percentageShareVolume": -1.3671875
+  },
+  {
+    "id": 56747957,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 543.0,
+    "shareVolume": 163031.0,
+    "turnover": 32999885.5,
+    "percentageShareVolume": -1.3414634146341464
+  },
+  {
+    "id": 56748095,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 465.0,
+    "shareVolume": 780857.0,
+    "turnover": 68296789.0,
+    "percentageShareVolume": -2.242152466367713
+  },
+  {
+    "id": 56748061,
+    "securityId": 1485,
+    "symbol": "RAL.N0000",
+    "tradeVolume": 449.0,
+    "shareVolume": 2582388.0,
+    "turnover": 28121036.6,
+    "percentageShareVolume": -0.9009009009009009
+  },
+  {
+    "id": 56748094,
+    "securityId": 1784,
+    "symbol": "PAP.N0000",
+    "tradeVolume": 425.0,
+    "shareVolume": 1396119.0,
+    "turnover": 24949649.1,
+    "percentageShareVolume": -7.6923076923076925
+  }
+]
