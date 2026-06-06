@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56191497,
+    "securityId": 5892,
+    "symbol": "CALI.U0000",
+    "price": 14.2,
+    "change": -0.9,
+    "changePercentage": -5.960264900662252,
+    "tradeDate": 1778056789000
+  },
+  {
+    "id": 56192620,
+    "securityId": 209,
+    "symbol": "MSL.N0000",
+    "price": 191.75,
+    "change": -8.5,
+    "changePercentage": -4.2446941323345815,
+    "tradeDate": 1778057250000
+  },
+  {
+    "id": 56176992,
+    "securityId": 432,
+    "symbol": "SHOT.X0000",
+    "price": 12.8,
+    "change": -0.5,
+    "changePercentage": -3.7593984962406015,
+    "tradeDate": 1778047069000
+  },
+  {
+    "id": 56194623,
+    "securityId": 264,
+    "symbol": "CHL.N0000",
+    "price": 62.8,
+    "change": -2.2,
+    "changePercentage": -3.3846153846153846,
+    "tradeDate": 1778058638000
+  },
+  {
+    "id": 56193763,
+    "securityId": 259,
+    "symbol": "CERA.N0000",
+    "price": 175.25,
+    "change": -5.75,
+    "changePercentage": -3.1767955801104972,
+    "tradeDate": 1778058524000
+  },
+  {
+    "id": 56193328,
+    "securityId": 523,
+    "symbol": "PMB.N0000",
+    "price": 13.1,
+    "change": -0.4,
+    "changePercentage": -2.962962962962963,
+    "tradeDate": 1778058043000
+  },
+  {
+    "id": 56169798,
+    "securityId": 6919,
+    "symbol": "CALU.U0000",
+    "price": 10.0,
+    "change": -0.3,
+    "changePercentage": -2.912621359223301,
+    "tradeDate": 1778043187000
+  },
+  {
+    "id": 56194805,
+    "securityId": 400,
+    "symbol": "MBSL.N0000",
+    "price": 13.7,
+    "change": -0.4,
+    "changePercentage": -2.8368794326241136,
+    "tradeDate": 1778058217000
+  },
+  {
+    "id": 56194917,
+    "securityId": 170,
+    "symbol": "MADU.N0000",
+    "price": 11.6,
+    "change": -0.3,
+    "changePercentage": -2.5210084033613445,
+    "tradeDate": 1778058358000
+  },
+  {
+    "id": 56193814,
+    "securityId": 3307,
+    "symbol": "SINH.N0000",
+    "price": 22.3,
+    "change": -0.5,
+    "changePercentage": -2.192982456140351,
+    "tradeDate": 1778057800000
+  }
+]

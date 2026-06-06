@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56286871,
+    "securityId": 6936,
+    "symbol": "MERC.R0000",
+    "price": 0.6,
+    "change": 0.2,
+    "changePercentage": 50.0,
+    "tradeDate": 1778485473000
+  },
+  {
+    "id": 56293684,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 17.7,
+    "change": 2.8,
+    "changePercentage": 18.79194630872483,
+    "tradeDate": 1778490325000
+  },
+  {
+    "id": 56293162,
+    "securityId": 269,
+    "symbol": "ASPH.N0000",
+    "price": 0.7,
+    "change": 0.1,
+    "changePercentage": 16.666666666666668,
+    "tradeDate": 1778490574000
+  },
+  {
+    "id": 56292953,
+    "securityId": 6616,
+    "symbol": "INME.N0000",
+    "price": 1965.5,
+    "change": 226.75,
+    "changePercentage": 13.040977713874911,
+    "tradeDate": 1778490572000
+  },
+  {
+    "id": 56293686,
+    "securityId": 5931,
+    "symbol": "LVEF.R0000",
+    "price": 1.2,
+    "change": 0.1,
+    "changePercentage": 9.090909090909092,
+    "tradeDate": 1778490758000
+  },
+  {
+    "id": 56290656,
+    "securityId": 981,
+    "symbol": "CINS.X0000",
+    "price": 1738.5,
+    "change": 138.5,
+    "changePercentage": 8.65625,
+    "tradeDate": 1778489382000
+  },
+  {
+    "id": 56290498,
+    "securityId": 227,
+    "symbol": "KFP.N0000",
+    "price": 170.0,
+    "change": 11.5,
+    "changePercentage": 7.255520504731861,
+    "tradeDate": 1778488958000
+  },
+  {
+    "id": 56293636,
+    "securityId": 209,
+    "symbol": "MSL.N0000",
+    "price": 229.25,
+    "change": 14.25,
+    "changePercentage": 6.627906976744186,
+    "tradeDate": 1778490491000
+  },
+  {
+    "id": 56293318,
+    "securityId": 437,
+    "symbol": "SIGV.N0000",
+    "price": 16.0,
+    "change": 0.9,
+    "changePercentage": 5.960264900662252,
+    "tradeDate": 1778490880000
+  },
+  {
+    "id": 56275931,
+    "securityId": 389,
+    "symbol": "LAMB.N0000",
+    "price": 1372.0,
+    "change": 73.25,
+    "changePercentage": 5.640038498556304,
+    "tradeDate": 1778477838000
+  }
+]

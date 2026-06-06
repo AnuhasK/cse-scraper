@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": 10.13,
+      "lastTradedTime": 1780649984764
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 6.41,
+      "lastTradedTime": 1780649942094
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 4.92,
+      "lastTradedTime": 1780649996584
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 3.53,
+      "lastTradedTime": 1780649908198
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 3.46,
+      "lastTradedTime": 1780649965560
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -5.72,
+      "lastTradedTime": 1780649971954
+    },
+    {
+      "id": 4887,
+      "symbol": "WIND.N0000",
+      "name": "WINDFORCE PLC",
+      "contribution": -4.84,
+      "lastTradedTime": 1780649993733
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": -4.05,
+      "lastTradedTime": 1780649888836
+    },
+    {
+      "id": 503,
+      "symbol": "RCL.N0000",
+      "name": "ROYAL CERAMICS LANKA PLC",
+      "contribution": -3.28,
+      "lastTradedTime": 1780649890581
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -2.87,
+      "lastTradedTime": 1780649880605
+    }
+  ]
+}

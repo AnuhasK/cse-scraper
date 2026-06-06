@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.35,
+      "lastTradedTime": null
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 4.81,
+      "lastTradedTime": 1780476647176
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": 2.23,
+      "lastTradedTime": 1780477163122
+    },
+    {
+      "id": 3461,
+      "symbol": "PINS.N0000",
+      "name": "PEOPLE'S INSURANCE PLC",
+      "contribution": 1.78,
+      "lastTradedTime": 1780475844711
+    },
+    {
+      "id": 1854,
+      "symbol": "TJL.N0000",
+      "name": "TEEJAY LANKA PLC",
+      "contribution": 1.12,
+      "lastTradedTime": 1780477099395
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -15.56,
+      "lastTradedTime": 1780477198790
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -9.18,
+      "lastTradedTime": 1780477194692
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": -9.11,
+      "lastTradedTime": 1780477013341
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": -7.7,
+      "lastTradedTime": 1780477190142
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -7.04,
+      "lastTradedTime": 1780477186630
+    }
+  ]
+}

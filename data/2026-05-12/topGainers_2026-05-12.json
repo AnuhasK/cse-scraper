@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56322589,
+    "securityId": 6936,
+    "symbol": "MERC.R0000",
+    "price": 0.9,
+    "change": 0.3,
+    "changePercentage": 50.0,
+    "tradeDate": 1778575933000
+  },
+  {
+    "id": 56324090,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 605.75,
+    "change": 89.75,
+    "changePercentage": 17.393410852713178,
+    "tradeDate": 1778576565000
+  },
+  {
+    "id": 56324365,
+    "securityId": 180,
+    "symbol": "YORK.N0000",
+    "price": 20.0,
+    "change": 2.3,
+    "changePercentage": 12.994350282485875,
+    "tradeDate": 1778577294000
+  },
+  {
+    "id": 56324358,
+    "securityId": 198,
+    "symbol": "SHAW.N0000",
+    "price": 290.75,
+    "change": 26.5,
+    "changePercentage": 10.028382213812677,
+    "tradeDate": 1778577309000
+  },
+  {
+    "id": 56324351,
+    "securityId": 2026,
+    "symbol": "AGST.N0000",
+    "price": 13.8,
+    "change": 1.0,
+    "changePercentage": 7.8125,
+    "tradeDate": 1778576917000
+  },
+  {
+    "id": 56324266,
+    "securityId": 355,
+    "symbol": "HDFC.N0000",
+    "price": 84.3,
+    "change": 5.0,
+    "changePercentage": 6.305170239596469,
+    "tradeDate": 1778576549000
+  },
+  {
+    "id": 56322510,
+    "securityId": 1596,
+    "symbol": "ODEL.N0000",
+    "price": 12.7,
+    "change": 0.7,
+    "changePercentage": 5.833333333333333,
+    "tradeDate": 1778576304000
+  },
+  {
+    "id": 56323708,
+    "securityId": 5472,
+    "symbol": "EXT.N0000",
+    "price": 14.9,
+    "change": 0.8,
+    "changePercentage": 5.673758865248227,
+    "tradeDate": 1778576213000
+  },
+  {
+    "id": 56324049,
+    "securityId": 5532,
+    "symbol": "LUMX.N0000",
+    "price": 11.4,
+    "change": 0.6,
+    "changePercentage": 5.555555555555555,
+    "tradeDate": 1778576836000
+  },
+  {
+    "id": 56323055,
+    "securityId": 526,
+    "symbol": "OFEQ.N0000",
+    "price": 566.0,
+    "change": 29.0,
+    "changePercentage": 5.400372439478585,
+    "tradeDate": 1778576526000
+  }
+]

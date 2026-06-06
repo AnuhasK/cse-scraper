@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 29.71,
+      "lastTradedTime": 1779872386612
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 7.27,
+      "lastTradedTime": 1779872321356
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 5.14,
+      "lastTradedTime": 1779872375989
+    },
+    {
+      "id": 188,
+      "symbol": "BFL.N0000",
+      "name": "BAIRAHA FARMS PLC",
+      "contribution": 3.48,
+      "lastTradedTime": 1779872385297
+    },
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": 2.99,
+      "lastTradedTime": 1779872292383
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -7.52,
+      "lastTradedTime": 1779872288445
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -4.44,
+      "lastTradedTime": 1779872137413
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -3.67,
+      "lastTradedTime": 1779872374718
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -3.48,
+      "lastTradedTime": 1779871377365
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": -2.74,
+      "lastTradedTime": 1779872397061
+    }
+  ]
+}

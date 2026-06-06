@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": 6.96,
+      "lastTradedTime": 1780390783294
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 5.99,
+      "lastTradedTime": 1780390774658
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 5.74,
+      "lastTradedTime": 1780389714921
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 5.27,
+      "lastTradedTime": 1780390706319
+    },
+    {
+      "id": 105,
+      "symbol": "PABC.N0000",
+      "name": "PAN ASIA BANKING CORPORATION PLC",
+      "contribution": 2.58,
+      "lastTradedTime": 1780390405239
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -9.42,
+      "lastTradedTime": 1780390608539
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -6.92,
+      "lastTradedTime": 1780390789910
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -5.63,
+      "lastTradedTime": 1780390802617
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -4.78,
+      "lastTradedTime": 1780390724481
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -4.24,
+      "lastTradedTime": 1780390720711
+    }
+  ]
+}

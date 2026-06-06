@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 12.86,
+      "lastTradedTime": 1777885160428
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 11.32,
+      "lastTradedTime": 1777884904352
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 9.42,
+      "lastTradedTime": null
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": 8.92,
+      "lastTradedTime": 1777885195849
+    },
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": 8.21,
+      "lastTradedTime": 1777884747060
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -14.93,
+      "lastTradedTime": 1777881361576
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -4.8,
+      "lastTradedTime": 1777884739202
+    },
+    {
+      "id": 4887,
+      "symbol": "WIND.N0000",
+      "name": "WINDFORCE PLC",
+      "contribution": -2.58,
+      "lastTradedTime": 1777884964101
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": -2.52,
+      "lastTradedTime": 1777885027715
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -2.1,
+      "lastTradedTime": 1777885157137
+    }
+  ]
+}

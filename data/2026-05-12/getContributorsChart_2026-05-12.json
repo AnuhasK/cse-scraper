@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 9.42,
+      "lastTradedTime": 1778576390799
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 6.21,
+      "lastTradedTime": 1778576365402
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 3.84,
+      "lastTradedTime": 1778576379047
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": 3.71,
+      "lastTradedTime": 1778576254707
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": 3.34,
+      "lastTradedTime": 1778576392078
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": -5.01,
+      "lastTradedTime": 1778576388991
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -3.23,
+      "lastTradedTime": 1778576358315
+    },
+    {
+      "id": 1851,
+      "symbol": "BIL.N0000",
+      "name": "BROWNS INVESTMENTS PLC",
+      "contribution": -2.74,
+      "lastTradedTime": 1778576358125
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -2.72,
+      "lastTradedTime": 1778574682395
+    },
+    {
+      "id": 364,
+      "symbol": "ATL.N0000",
+      "name": "AMANA TAKAFUL  PLC",
+      "contribution": -2.33,
+      "lastTradedTime": 1778576190013
+    }
+  ]
+}

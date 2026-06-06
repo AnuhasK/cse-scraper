@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 10.69,
+      "lastTradedTime": 1778749180530
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 5.05,
+      "lastTradedTime": 1778749106119
+    },
+    {
+      "id": 3082,
+      "symbol": "ALUM.N0000",
+      "name": "ALUMEX PLC",
+      "contribution": 3.4,
+      "lastTradedTime": 1778749173518
+    },
+    {
+      "id": 1724,
+      "symbol": "LGL.N0000",
+      "name": "LAUGFS GAS PLC",
+      "contribution": 3.31,
+      "lastTradedTime": 1778748846067
+    },
+    {
+      "id": 9,
+      "symbol": "NTB.N0000",
+      "name": "NATIONS TRUST BANK PLC",
+      "contribution": 3.26,
+      "lastTradedTime": 1778749177844
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -5.66,
+      "lastTradedTime": 1778749195767
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": -4.3,
+      "lastTradedTime": 1778749198853
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -4.0,
+      "lastTradedTime": 1778749071574
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -3.8,
+      "lastTradedTime": 1778749047109
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -2.35,
+      "lastTradedTime": 1778749175429
+    }
+  ]
+}

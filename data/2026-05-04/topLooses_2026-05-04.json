@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56134482,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 497.75,
+    "change": -79.25,
+    "changePercentage": -13.734835355285961,
+    "tradeDate": 1777883447000
+  },
+  {
+    "id": 56135135,
+    "securityId": 306,
+    "symbol": "AUTO.N0000",
+    "price": 307.25,
+    "change": -31.25,
+    "changePercentage": -9.231905465288035,
+    "tradeDate": 1777883784000
+  },
+  {
+    "id": 56138215,
+    "securityId": 365,
+    "symbol": "ATL.R0000",
+    "price": 3.2,
+    "change": -0.3,
+    "changePercentage": -8.571428571428571,
+    "tradeDate": 1777885271000
+  },
+  {
+    "id": 56137845,
+    "securityId": 2997,
+    "symbol": "TESS.X0000",
+    "price": 1.4,
+    "change": -0.1,
+    "changePercentage": -6.666666666666667,
+    "tradeDate": 1777885731000
+  },
+  {
+    "id": 56137014,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 2.0,
+    "change": -0.1,
+    "changePercentage": -4.761904761904762,
+    "tradeDate": 1777884726000
+  },
+  {
+    "id": 56135459,
+    "securityId": 389,
+    "symbol": "LAMB.N0000",
+    "price": 1298.75,
+    "change": -51.75,
+    "changePercentage": -3.8319141058867086,
+    "tradeDate": 1777884654000
+  },
+  {
+    "id": 56136410,
+    "securityId": 5892,
+    "symbol": "CALI.U0000",
+    "price": 15.1,
+    "change": -0.6,
+    "changePercentage": -3.821656050955414,
+    "tradeDate": 1777884720000
+  },
+  {
+    "id": 56135138,
+    "securityId": 364,
+    "symbol": "ATL.N0000",
+    "price": 21.7,
+    "change": -0.8,
+    "changePercentage": -3.5555555555555554,
+    "tradeDate": 1777883853000
+  },
+  {
+    "id": 56137162,
+    "securityId": 134,
+    "symbol": "HUNT.N0000",
+    "price": 1352.0,
+    "change": -48.0,
+    "changePercentage": -3.4285714285714284,
+    "tradeDate": 1777885757000
+  },
+  {
+    "id": 56137670,
+    "securityId": 137,
+    "symbol": "LPRT.N0000",
+    "price": 693.5,
+    "change": -24.5,
+    "changePercentage": -3.4122562674094707,
+    "tradeDate": 1777885083000
+  }
+]

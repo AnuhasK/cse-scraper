@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 36.78,
+      "lastTradedTime": 1779699588082
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 17.5,
+      "lastTradedTime": 1779699565281
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 16.04,
+      "lastTradedTime": 1779699535228
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 14.69,
+      "lastTradedTime": 1779699597964
+    },
+    {
+      "id": 325,
+      "symbol": "HHL.N0000",
+      "name": "HEMAS HOLDINGS PLC",
+      "contribution": 13.97,
+      "lastTradedTime": 1779699545521
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -2.87,
+      "lastTradedTime": 1779699545046
+    },
+    {
+      "id": 5311,
+      "symbol": "HBS.N0000",
+      "name": "HSENID BUSINESS SOLUTIONS PLC",
+      "contribution": -2.72,
+      "lastTradedTime": 1779699575452
+    },
+    {
+      "id": 399,
+      "symbol": "DIPD.N0000",
+      "name": "DIPPED PRODUCTS PLC",
+      "contribution": -2.62,
+      "lastTradedTime": 1779699568724
+    },
+    {
+      "id": 306,
+      "symbol": "AUTO.N0000",
+      "name": "THE AUTODROME PLC",
+      "contribution": -0.57,
+      "lastTradedTime": 1779699530569
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": -0.54,
+      "lastTradedTime": 1779699553056
+    }
+  ]
+}

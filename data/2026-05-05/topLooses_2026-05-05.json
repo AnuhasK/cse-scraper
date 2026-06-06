@@ -1,0 +1,83 @@
+[
+  {
+    "id": 56161210,
+    "securityId": 365,
+    "symbol": "ATL.R0000",
+    "price": 2.8,
+    "change": -0.4,
+    "changePercentage": -12.5,
+    "tradeDate": 1777971904000
+  },
+  {
+    "id": 56161436,
+    "securityId": 5330,
+    "symbol": "FCT.N0000",
+    "price": 31.4,
+    "change": -2.3,
+    "changePercentage": -6.824925816023739,
+    "tradeDate": 1777971920000
+  },
+  {
+    "id": 56160553,
+    "securityId": 5293,
+    "symbol": "CALT.N0000",
+    "price": 51.4,
+    "change": -3.6,
+    "changePercentage": -6.545454545454546,
+    "tradeDate": 1777972014000
+  },
+  {
+    "id": 56154361,
+    "securityId": 317,
+    "symbol": "LHL.N0000",
+    "price": 74.0,
+    "change": -4.9,
+    "changePercentage": -6.2103929024081115,
+    "tradeDate": 1777966220000
+  },
+  {
+    "id": 56157740,
+    "securityId": 246,
+    "symbol": "SHOT.N0000",
+    "price": 17.2,
+    "change": -0.8,
+    "changePercentage": -4.444444444444445,
+    "tradeDate": 1777969881000
+  },
+  {
+    "id": 56160562,
+    "securityId": 240,
+    "symbol": "AMSL.N0000",
+    "price": 24.1,
+    "change": -1.0,
+    "changePercentage": -3.9840637450199203,
+    "tradeDate": 1777971420000
+  },
+  {
+    "id": 56159750,
+    "securityId": 546,
+    "symbol": "LDEV.N0000",
+    "price": 19.4,
+    "change": -0.8,
+    "changePercentage": -3.9603960396039604,
+    "tradeDate": 1777970916000
+  },
+  {
+    "id": 56161358,
+    "securityId": 5511,
+    "symbol": "AFS.N0000",
+    "price": 35.2,
+    "change": -1.3,
+    "changePercentage": -3.5616438356164384,
+    "tradeDate": 1777971834000
+  },
+  {
+    "id": 56154851,
+    "securityId": 133,
+    "symbol": "CINV.N0000",
+    "price": 110.5,
+    "change": -4.0,
+    "changePercentage": -3.493449781659389,
+    "tradeDate": 1777967192000
+  }
+]
