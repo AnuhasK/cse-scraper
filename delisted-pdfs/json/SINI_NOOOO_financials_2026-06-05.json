@@ -1,0 +1,1340 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 43464,
+      "path": "cmt/upload_report_file/686_1686049384408.pdf",
+      "manualDate": 1680201000000,
+      "uploadedDate": 1686049384408,
+      "fileText": "Annual Report 2022/23",
+      "path2": "cmt/upload_report_file/686_1686049384408.",
+      "authorizedDate": null
+    },
+    {
+      "id": 40799,
+      "path": "cmt/upload_report_file/686_1654511392381.pdf",
+      "manualDate": 1648665000000,
+      "uploadedDate": 1654511392381,
+      "fileText": "Annual Report as of 31/03/2022",
+      "path2": "cmt/upload_report_file/686_1654511392381.",
+      "authorizedDate": null
+    },
+    {
+      "id": 38122,
+      "path": "cmt/upload_report_file/686_1622630599146.pdf",
+      "manualDate": 1617129000000,
+      "uploadedDate": 1622630599146,
+      "fileText": "Annual Report 2020/2021",
+      "path2": "cmt/upload_report_file/686_1622630599146.",
+      "authorizedDate": null
+    },
+    {
+      "id": 35611,
+      "path": "cmt/upload_report_file/686_1593683006684.pdf",
+      "manualDate": 1585593000000,
+      "uploadedDate": 1593683006684,
+      "fileText": "Annual Report 2019/2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 33246,
+      "path": "upload_report_file/686_1559560762501.pdf",
+      "manualDate": 1553970600000,
+      "uploadedDate": 1559500200000,
+      "fileText": "Annual Report 2018/2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 22988,
+      "path": "upload_report_file/686_1520420930799.pdf",
+      "manualDate": 1514658600000,
+      "uploadedDate": 1520361000000,
+      "fileText": "Annual Report 2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 30211,
+      "path": "upload_report_file/686_1489404219.pdf",
+      "manualDate": 1483122600000,
+      "uploadedDate": 1489343400000,
+      "fileText": "Annual Report 2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19316,
+      "path": "upload_report_file/686_1457604992.pdf",
+      "manualDate": 1451500200000,
+      "uploadedDate": 1457548200000,
+      "fileText": "Annual Report 2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27550,
+      "path": "upload_report_file/686_1426159561574.pdf",
+      "manualDate": 1419964200000,
+      "uploadedDate": 1426098600000,
+      "fileText": "Annual Report 2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25827,
+      "path": "upload_report_file/686_1394704680930.pdf",
+      "manualDate": 1388428200000,
+      "uploadedDate": 1394649000000,
+      "fileText": "Annual Report 2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18053,
+      "path": "upload_report_file/686_1363257301.pdf",
+      "manualDate": 1356892200000,
+      "uploadedDate": 1363199400000,
+      "fileText": "Annual Report - 2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 44939,
+      "path": "cmt/upload_report_file/686_1706673624870.01.2023.pdf",
+      "manualDate": 1703961000000,
+      "uploadedDate": 1706673624870,
+      "fileText": "quarter financial statement as of 31st December 2023",
+      "path2": "cmt/upload_report_file/686_1706673624870.",
+      "authorizedDate": null
+    },
+    {
+      "id": 44364,
+      "path": "cmt/upload_report_file/686_1699267705531.09.2023.pdf",
+      "manualDate": 1696012200000,
+      "uploadedDate": 1699267705531,
+      "fileText": "quarter financial statement as of 30th September 2023",
+      "path2": "cmt/upload_report_file/686_1699267705531.",
+      "authorizedDate": null
+    },
+    {
+      "id": 43683,
+      "path": "cmt/upload_report_file/686_1691053962219.pdf",
+      "manualDate": 1688063400000,
+      "uploadedDate": 1691053962219,
+      "fileText": "quarter financial statement as of 30th June 2023",
+      "path2": "cmt/upload_report_file/686_1691053962219.",
+      "authorizedDate": null
+    },
+    {
+      "id": 43035,
+      "path": "cmt/upload_report_file/686_1683797138548.03.2023.pdf",
+      "manualDate": 1680201000000,
+      "uploadedDate": 1683797138548,
+      "fileText": "quarter financial statement as of 31st March 2023",
+      "path2": "cmt/upload_report_file/686_1683797138548.",
+      "authorizedDate": null
+    },
+    {
+      "id": 42515,
+      "path": "cmt/upload_report_file/686_1675679467009.12.2022.pdf",
+      "manualDate": 1672425000000,
+      "uploadedDate": 1675679467009,
+      "fileText": "quarter financial statement as of 31st December 2022",
+      "path2": "cmt/upload_report_file/686_1675679467009.",
+      "authorizedDate": null
+    },
+    {
+      "id": 41932,
+      "path": "cmt/upload_report_file/686_1668073793038.pdf",
+      "manualDate": 1664476200000,
+      "uploadedDate": 1668073793038,
+      "fileText": "Interim Financial Statements as at 30/09/2022",
+      "path2": "cmt/upload_report_file/686_1668073793038.",
+      "authorizedDate": null
+    },
+    {
+      "id": 41178,
+      "path": "cmt/upload_report_file/686_1659955643892.pdf",
+      "manualDate": 1656527400000,
+      "uploadedDate": 1659955643892,
+      "fileText": "quarter financial statement as of 30th June 2022",
+      "path2": "cmt/upload_report_file/686_1659955643892.",
+      "authorizedDate": null
+    },
+    {
+      "id": 40379,
+      "path": "cmt/upload_report_file/686_1652438979290.pdf",
+      "manualDate": 1648665000000,
+      "uploadedDate": 1652438979290,
+      "fileText": "Financial statements as at 31st March 2022",
+      "path2": "cmt/upload_report_file/686_1652438979290.",
+      "authorizedDate": null
+    },
+    {
+      "id": 39963,
+      "path": "cmt/upload_report_file/686_1644837478094.pdf",
+      "manualDate": 1640889000000,
+      "uploadedDate": 1644837478094,
+      "fileText": "quarter financial report as at 31st December 2021",
+      "path2": "cmt/upload_report_file/686_1644837478094.",
+      "authorizedDate": null
+    },
+    {
+      "id": 39356,
+      "path": "cmt/upload_report_file/686_1636627315053.pdf",
+      "manualDate": 1632940200000,
+      "uploadedDate": 1636627315053,
+      "fileText": "Interim Financial Statements as at 30/09/2021",
+      "path2": "cmt/upload_report_file/686_1636627315053.",
+      "authorizedDate": null
+    },
+    {
+      "id": 38648,
+      "path": "cmt/upload_report_file/686_1628678834631.06.2021.pdf",
+      "manualDate": 1624991400000,
+      "uploadedDate": 1628678834631,
+      "fileText": "quarter financial report as at 30th June 2021",
+      "path2": "cmt/upload_report_file/686_1628678834631.",
+      "authorizedDate": null
+    },
+    {
+      "id": 37815,
+      "path": "cmt/upload_report_file/686_1621250322533.pdf",
+      "manualDate": 1617129000000,
+      "uploadedDate": 1621250322533,
+      "fileText": "Interim Financial Statements as at 31/03/2021",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 37205,
+      "path": "cmt/upload_report_file/686_1612952158814.pdf",
+      "manualDate": 1609353000000,
+      "uploadedDate": 1612952158814,
+      "fileText": "Interim Financial Statements as of 31/12/2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 36594,
+      "path": "cmt/upload_report_file/686_1604915225437.pdf",
+      "manualDate": 1601404200000,
+      "uploadedDate": 1604915225437,
+      "fileText": "Interim Financial Statements as at 30.09.2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 35825,
+      "path": "cmt/upload_report_file/686_1596533945030.pdf",
+      "manualDate": 1593455400000,
+      "uploadedDate": 1596533945030,
+      "fileText": "Interim Financial Statements as at 30.06.2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 35323,
+      "path": "cmt/upload_report_file/686_1589529546915.pdf",
+      "manualDate": 1585593000000,
+      "uploadedDate": 1589529546915,
+      "fileText": "Interim Financial Statements as at 31.03.2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 34857,
+      "path": "cmt/upload_report_file/686_1581413176670.pdf",
+      "manualDate": 1577730600000,
+      "uploadedDate": 1581413176670,
+      "fileText": "Interim Financial Statements as of 31.12.2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 34378,
+      "path": "cmt/upload_report_file/686_1573210106935.pdf",
+      "manualDate": 1569781800000,
+      "uploadedDate": 1573210106935,
+      "fileText": "Interim Financial Statements as of 30.09.2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 33654,
+      "path": "cmt/upload_report_file/686_1565169992717.pdf",
+      "manualDate": 1561833000000,
+      "uploadedDate": 1565169992717,
+      "fileText": "Interim Financial Statements as of 30.06.2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 32867,
+      "path": "upload_report_file/686_1557999922838.pdf",
+      "manualDate": 1553970600000,
+      "uploadedDate": 1557945000000,
+      "fileText": " Interim Financial Statements as of 31.03.2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 32209,
+      "path": "upload_report_file/686_1549537645.pdf",
+      "manualDate": -19800000,
+      "uploadedDate": 1549477800000,
+      "fileText": "Interim Financial Statements as of 31-12-2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 31687,
+      "path": "upload_report_file/686_1542020010270.pdf",
+      "manualDate": 1538245800000,
+      "uploadedDate": 1541961000000,
+      "fileText": "Interim Financial Statements as of 30-09-2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 24027,
+      "path": "upload_report_file/686_1533726854064.PUBLISHED.pdf",
+      "manualDate": 1530297000000,
+      "uploadedDate": 1533666600000,
+      "fileText": "Interim Financial Statements as at 30.06.2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 23264,
+      "path": "upload_report_file/686_1526293815689.pdf",
+      "manualDate": 1522434600000,
+      "uploadedDate": 1526236200000,
+      "fileText": "Interim Financial Statements as at 31.03.2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 22584,
+      "path": "upload_report_file/686_1517483939114.QTR 04 DEC 17.pdf",
+      "manualDate": 1514658600000,
+      "uploadedDate": 1517423400000,
+      "fileText": "Interim Financial Statements as at 31-12-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 22201,
+      "path": "upload_report_file/686_1509620303814.pdf",
+      "manualDate": 1506709800000,
+      "uploadedDate": 1509561000000,
+      "fileText": "Interim Financial Statement as of 30/9/2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 21886,
+      "path": "upload_report_file/686_1502361315342.PDF",
+      "manualDate": 1498761000000,
+      "uploadedDate": 1502303400000,
+      "fileText": "Interim Financial Statements as at 30-06-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 21347,
+      "path": "upload_report_file/686_1494325640100.1.QTR 01 MARCH 17.pdf",
+      "manualDate": 1490898600000,
+      "uploadedDate": 1494268200000,
+      "fileText": "Interim Financial Statements as at 31-03-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 30155,
+      "path": "upload_report_file/686_1487849227.pdf",
+      "manualDate": 1483122600000,
+      "uploadedDate": 1487788200000,
+      "fileText": "Interim Financial Statements as of 31-12-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 29800,
+      "path": "upload_report_file/686_1479210944.pdf",
+      "manualDate": 1475173800000,
+      "uploadedDate": 1479148200000,
+      "fileText": "Interim Financial Statements as of 30-09-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19754,
+      "path": "upload_report_file/686_1470217789.pdf",
+      "manualDate": 1467225000000,
+      "uploadedDate": 1470162600000,
+      "fileText": "Interim Financial Statements as of 30-06-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19335,
+      "path": "upload_report_file/686_1462446899.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1462386600000,
+      "fileText": "Interim Financial Statements as of 31-03-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 29305,
+      "path": "upload_report_file/686_1456483841448.pdf",
+      "manualDate": 1451500200000,
+      "uploadedDate": 1456425000000,
+      "fileText": "Interim Financial Statements as at 31-12-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28709,
+      "path": "upload_report_file/686_1446203071027.Accounts 3rd QTR  -SIC September 2015.pdf",
+      "manualDate": 1443551400000,
+      "uploadedDate": 1446143400000,
+      "fileText": "Interim Financial Statements as at 30-09-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19120,
+      "path": "upload_report_file/686_1439378679.pdf",
+      "manualDate": 1435602600000,
+      "uploadedDate": 1439317800000,
+      "fileText": "Interim Financial Statements as at 30-06-2015 ",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19041,
+      "path": "upload_report_file/686_1431419245.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1431369000000,
+      "fileText": "Interim Financial Statements as at 31-03-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27526,
+      "path": "upload_report_file/686_1425040141757.pdf",
+      "manualDate": 1419964200000,
+      "uploadedDate": 1424975400000,
+      "fileText": "Quarterly Financial Report as of 31-12-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27059,
+      "path": "upload_report_file/686_1415959286162.pdf",
+      "manualDate": 1412015400000,
+      "uploadedDate": 1415903400000,
+      "fileText": "Interim Financial Statements as at 30-09-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26599,
+      "path": "upload_report_file/686_1408017771324.pdf",
+      "manualDate": 1404066600000,
+      "uploadedDate": 1407954600000,
+      "fileText": "Interim Financial Statements as at 30-06-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25978,
+      "path": "upload_report_file/686_1400235537873.pdf",
+      "manualDate": 1396204200000,
+      "uploadedDate": 1400178600000,
+      "fileText": "Interim Financial Statements as at 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25796,
+      "path": "upload_report_file/686_1393582224566.pdf",
+      "manualDate": 1388428200000,
+      "uploadedDate": 1393525800000,
+      "fileText": "Interim Financial Statements as at 31-12-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25348,
+      "path": "upload_report_file/686_1384420990335.pdf",
+      "manualDate": 1380479400000,
+      "uploadedDate": 1384367400000,
+      "fileText": "Interim Financial Statements as at 30-09-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16280,
+      "path": "upload_report_file/686_1376563015508.pdf",
+      "manualDate": 1372530600000,
+      "uploadedDate": 1376505000000,
+      "fileText": "Interim Financial Statements as at 30-06-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16896,
+      "path": "upload_report_file/686_1368612456044.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1368556200000,
+      "fileText": "Interim Financial Statements as at 31/03/ 2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18112,
+      "path": "upload_report_file/686_1362046144.pdf",
+      "manualDate": 1356892200000,
+      "uploadedDate": 1361989800000,
+      "fileText": "Interim Financial Statements as at 31-12-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16541,
+      "path": "upload_report_file/686_1352971056399.pdf",
+      "manualDate": 1348943400000,
+      "uploadedDate": 1352917800000,
+      "fileText": "Quarterly Financial Report as of 30-09-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17353,
+      "path": "upload_report_file/686_1344935585419.pdf",
+      "manualDate": 1340994600000,
+      "uploadedDate": 1344882600000,
+      "fileText": "Quarterly Financial Report as of 30-06-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 14462,
+      "path": "upload_report_file/686_1337078441902.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1337020200000,
+      "fileText": "Quarterly Financial Statement as of 31-03-2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [],
+  "reqFinancial": [
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 686,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    }
+  ],
+  "infoCompanyBannerAd": {
+    "id": 704,
+    "path": "upload_add/840.jpeg"
+  }
+}
