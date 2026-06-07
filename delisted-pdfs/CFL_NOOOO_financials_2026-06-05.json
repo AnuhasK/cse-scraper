@@ -1,0 +1,317 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 20236,
+      "path": "upload_report_file/1060_1472731976490.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1472668200000,
+      "fileText": "Annual Report 2015/2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 20235,
+      "path": "upload_report_file/1060_1472731874231.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1472668200000,
+      "fileText": "Audited Financial Statements as of 31-03-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19652,
+      "path": "upload_report_file/1060_1468578700131.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1468521000000,
+      "fileText": "Annual Financial Report as of 31/03/2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28614,
+      "path": "upload_report_file/1060_1441105419759.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1441045800000,
+      "fileText": "Annual Report 2014/2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28082,
+      "path": "upload_report_file/1060_1435577678681.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1435516200000,
+      "fileText": "Audited Financial Statements as of 31/03/2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18917,
+      "path": "upload_report_file/1060_1409225200.pdf",
+      "manualDate": 1396204200000,
+      "uploadedDate": 1409164200000,
+      "fileText": "Annual Report 2013/2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26380,
+      "path": "upload_report_file/1060_1404964944248.pdf",
+      "manualDate": 1396204200000,
+      "uploadedDate": 1404930600000,
+      "fileText": "Amended Audited Financial Statements as at 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17426,
+      "path": "upload_report_file/1060_1377774102977.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1377714600000,
+      "fileText": "Annual Report 2012/2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16475,
+      "path": "upload_report_file/1060_1372389127.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1372357800000,
+      "fileText": "Audited Financial Statements as at 31-03-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16717,
+      "path": "upload_report_file/1060_1346990370455.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1346610600000,
+      "fileText": "ANNUAL REPORT 2011/2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 30095,
+      "path": "upload_report_file/1060_1487065529.pdf",
+      "manualDate": 1483122600000,
+      "uploadedDate": 1487010600000,
+      "fileText": "Interim Financial Statements as of 31-12-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 20478,
+      "path": "upload_report_file/1060_1478512236010.09.2016.pdf",
+      "manualDate": 1475173800000,
+      "uploadedDate": 1478457000000,
+      "fileText": "Quarterly Financial Report as of 30/09/2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19886,
+      "path": "upload_report_file/1060_1470912562985.06.2016.pdf",
+      "manualDate": 1467225000000,
+      "uploadedDate": 1470853800000,
+      "fileText": "Interim Financial Statements as at 30th June 2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19370,
+      "path": "upload_report_file/1060_1464603316.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1464546600000,
+      "fileText": "Interim Financial Statements as of 31-03-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 29188,
+      "path": "upload_report_file/1060_1455275231630.pdf",
+      "manualDate": 1451500200000,
+      "uploadedDate": 1455215400000,
+      "fileText": "Quarterly Financial Report as of 31/12/2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28681,
+      "path": "upload_report_file/1060_1446025880365.pdf",
+      "manualDate": 1443551400000,
+      "uploadedDate": 1445970600000,
+      "fileText": "Quarterly Financial Report as of 30/09/2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28268,
+      "path": "upload_report_file/1060_1438857489378.06.2015.pdf",
+      "manualDate": 1435602600000,
+      "uploadedDate": 1438799400000,
+      "fileText": "Quarterly Financial Report as of 30/06/2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27697,
+      "path": "upload_report_file/1060_1431683549958.03.2015.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1431628200000,
+      "fileText": "Quarterly Financial Report as of 31-03-2015 ",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27331,
+      "path": "upload_report_file/1060_1423818757913.12.2014.pdf",
+      "manualDate": 1419964200000,
+      "uploadedDate": 1423765800000,
+      "fileText": "Quarterly Financial Report as of 31-12-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27008,
+      "path": "upload_report_file/1060_1415876438162.09.2014.pdf",
+      "manualDate": 1412015400000,
+      "uploadedDate": 1415817000000,
+      "fileText": "Interim Financial Statements as at 30-09-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26589,
+      "path": "upload_report_file/1060_1408013501417.pdf",
+      "manualDate": 1404066600000,
+      "uploadedDate": 1407954600000,
+      "fileText": "Interim Financial Statements as at 30-06-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26052,
+      "path": "upload_report_file/1060_1401192934169.pdf",
+      "manualDate": 1396204200000,
+      "uploadedDate": 1401129000000,
+      "fileText": "Amended Interim Financial Statements as of 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25676,
+      "path": "upload_report_file/1060_1392287403366.12.2013- Chilaw Finance PLC.pdf",
+      "manualDate": 1388428200000,
+      "uploadedDate": 1392229800000,
+      "fileText": "Interim Financial Statements as at 31-12-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25294,
+      "path": "upload_report_file/1060_1384255253583.pdf",
+      "manualDate": 1380479400000,
+      "uploadedDate": 1384194600000,
+      "fileText": "Interim Financial Statements as of 30-09-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18077,
+      "path": "upload_report_file/1060_1376482883.pdf",
+      "manualDate": 1372530600000,
+      "uploadedDate": 1376418600000,
+      "fileText": "Interim Financial Statements as of 30-06-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16892,
+      "path": "upload_report_file/1060_1368525283.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1368469800000,
+      "fileText": "Interim Financial Statements as at 31/03/ 2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16605,
+      "path": "upload_report_file/1060_1360922539166.12.2012.pdf",
+      "manualDate": 1356892200000,
+      "uploadedDate": 1360866600000,
+      "fileText": "Interim Financial Statements as at 31-12-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18358,
+      "path": "upload_report_file/1060_1352366487.pdf",
+      "manualDate": 1348943400000,
+      "uploadedDate": 1352313000000,
+      "fileText": "Interim Financial Statements as of 30-09-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17175,
+      "path": "upload_report_file/1060_1338377549809.03.2012.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1338316200000,
+      "fileText": "Quarterly Financial Statements as at 31-03-2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 26359,
+      "path": "upload_report_file/1060_1404131031692.pdf",
+      "manualDate": 1404066600000,
+      "uploadedDate": 1404066600000,
+      "fileText": "Errata to the Audited Financial Statements as at 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18813,
+      "path": "upload_report_file/1060_1400739877.pdf",
+      "manualDate": 1400697000000,
+      "uploadedDate": 1400697000000,
+      "fileText": "Errata to the Financial Statements 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17583,
+      "path": "upload_report_file/1060_1374745116.pdf",
+      "manualDate": 1374690600000,
+      "uploadedDate": 1374690600000,
+      "fileText": "AMENDMENT TO THE AUDITED FINANCIAL STATEMENTS 31-03-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17161,
+      "path": "upload_report_file/1060_1352867011241.pdf",
+      "manualDate": 1352831400000,
+      "uploadedDate": 1352831400000,
+      "fileText": "Errata to the Interim Financial Statments 30.09.2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 13199,
+      "path": "upload_report_file/1060_1306383221.pdf",
+      "manualDate": null,
+      "uploadedDate": 1306348200000,
+      "fileText": "Introductory Document",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}

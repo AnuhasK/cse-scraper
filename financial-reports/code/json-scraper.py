@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 API_URL = "https://www.cse.lk/api/financials"
-OUTPUT_DIR = "financials-json/output"
+OUTPUT_DIR = "financial-reports/output"
 SYMBOLS_FILE = "company-symbols.txt"
 
 def load_symbols():

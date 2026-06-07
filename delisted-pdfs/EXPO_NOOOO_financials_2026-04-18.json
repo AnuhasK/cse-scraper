@@ -1,0 +1,587 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 43590,
+      "path": "cmt/upload_report_file/1066_1688464036671.pdf",
+      "manualDate": 1680201000000,
+      "uploadedDate": 1688464036671,
+      "fileText": "Annual Report 2022/2023",
+      "path2": "cmt/upload_report_file/1066_1688464036671.",
+      "authorizedDate": null
+    },
+    {
+      "id": 40912,
+      "path": "cmt/upload_report_file/1066_1655783799052.pdf",
+      "manualDate": 1648665000000,
+      "uploadedDate": 1655783799052,
+      "fileText": "Annual Report 2021/22",
+      "path2": "cmt/upload_report_file/1066_1655783799052.",
+      "authorizedDate": null
+    },
+    {
+      "id": 38241,
+      "path": "cmt/upload_report_file/1066_1623665617514.pdf",
+      "manualDate": 1617129000000,
+      "uploadedDate": 1623665617514,
+      "fileText": "Annual Report 2020/2021",
+      "path2": "cmt/upload_report_file/1066_1623665617514.",
+      "authorizedDate": null
+    },
+    {
+      "id": 35721,
+      "path": "cmt/upload_report_file/1066_1595324279402.pdf",
+      "manualDate": 1585593000000,
+      "uploadedDate": 1595324279402,
+      "fileText": "Annual Report 2019/2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 33475,
+      "path": "upload_report_file/1066_1562924295465.pdf",
+      "manualDate": 1553970600000,
+      "uploadedDate": 1562924295465,
+      "fileText": "Annual Report 2018/2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 23813,
+      "path": "upload_report_file/1066_1531128211249.pdf",
+      "manualDate": 1522434600000,
+      "uploadedDate": 1531074600000,
+      "fileText": "Annual Report 2017/2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 21772,
+      "path": "upload_report_file/1066_1499852858310.pdf",
+      "manualDate": 1490898600000,
+      "uploadedDate": 1499797800000,
+      "fileText": "Annual Report 2016/17",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19624,
+      "path": "upload_report_file/1066_1468206833493.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1468175400000,
+      "fileText": "Annual Report 2015/16",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28121,
+      "path": "upload_report_file/1066_1436348845229.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1436293800000,
+      "fileText": "Annual Report 2014/15",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26464,
+      "path": "upload_report_file/1066_1407406707537.PDF",
+      "manualDate": 1396117800000,
+      "uploadedDate": 1407349800000,
+      "fileText": "Annual Report  2013/2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16810,
+      "path": "upload_report_file/1066_1372759974.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1372703400000,
+      "fileText": "Annual Report 2012 / 2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17099,
+      "path": "upload_report_file/1066_1344253336826.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1344191400000,
+      "fileText": "Annual Report 2011/2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 45470,
+      "path": "cmt/upload_report_file/1066_1714470528954.pdf",
+      "manualDate": 1711823400000,
+      "uploadedDate": 1714470528954,
+      "fileText": " Interim Financial Statements for the Quarter ended  31st March 2024. ",
+      "path2": "cmt/upload_report_file/1066_1714470528954.",
+      "authorizedDate": null
+    },
+    {
+      "id": 44903,
+      "path": "cmt/upload_report_file/1066_1706263578632.pdf",
+      "manualDate": 1703961000000,
+      "uploadedDate": 1706263578632,
+      "fileText": "Interim Financial Statement for the quarter ended 31st December 2023",
+      "path2": "cmt/upload_report_file/1066_1706263578632.",
+      "authorizedDate": null
+    },
+    {
+      "id": 44305,
+      "path": "cmt/upload_report_file/1066_1698399944569..pdf",
+      "manualDate": 1696012200000,
+      "uploadedDate": 1698399944569,
+      "fileText": "Interim Financial Statement for the quarter ended 30th September 2023",
+      "path2": "cmt/upload_report_file/1066_1698399944569.",
+      "authorizedDate": null
+    },
+    {
+      "id": 43658,
+      "path": "cmt/upload_report_file/1066_1690535469577.pdf",
+      "manualDate": 1688063400000,
+      "uploadedDate": 1690535469577,
+      "fileText": "Interim Financial Statement for the period ended 30th June 2023",
+      "path2": "cmt/upload_report_file/1066_1690535469577.",
+      "authorizedDate": null
+    },
+    {
+      "id": 42975,
+      "path": "cmt/upload_report_file/1066_1682675229844.pdf",
+      "manualDate": 1680201000000,
+      "uploadedDate": 1682675229844,
+      "fileText": "Interim Financial Statement for the quarter ended 31st March 2023",
+      "path2": "cmt/upload_report_file/1066_1682675229844.",
+      "authorizedDate": null
+    },
+    {
+      "id": 42453,
+      "path": "cmt/upload_report_file/1066_1674812380709.pdf",
+      "manualDate": 1672425000000,
+      "uploadedDate": 1674812380709,
+      "fileText": "Interim financial statement as at 31st December 2022",
+      "path2": "cmt/upload_report_file/1066_1674812380709.",
+      "authorizedDate": null
+    },
+    {
+      "id": 41821,
+      "path": "cmt/upload_report_file/1066_1666948788222.pdf",
+      "manualDate": 1664476200000,
+      "uploadedDate": 1666948788222,
+      "fileText": "Interim Financial Statement period ended 30th September 2022",
+      "path2": "cmt/upload_report_file/1066_1666948788222.",
+      "authorizedDate": null
+    },
+    {
+      "id": 41104,
+      "path": "cmt/upload_report_file/1066_1659087338304.pdf",
+      "manualDate": 1656527400000,
+      "uploadedDate": 1659087338304,
+      "fileText": "Interim Financial Statement period ended 30th June 2022",
+      "path2": "cmt/upload_report_file/1066_1659087338304.",
+      "authorizedDate": null
+    },
+    {
+      "id": 40279,
+      "path": "cmt/upload_report_file/1066_1651138617112.pdf",
+      "manualDate": 1648665000000,
+      "uploadedDate": 1651138617112,
+      "fileText": "Interim Financial Statements quarter ended 31st March 2022",
+      "path2": "cmt/upload_report_file/1066_1651138617112.",
+      "authorizedDate": null
+    },
+    {
+      "id": 39759,
+      "path": "cmt/upload_report_file/1066_1643341865935.pdf",
+      "manualDate": 1640889000000,
+      "uploadedDate": 1643341865935,
+      "fileText": "Interim Financial Statements quarter ended 31st December 2021",
+      "path2": "cmt/upload_report_file/1066_1643341865935.",
+      "authorizedDate": null
+    },
+    {
+      "id": 39198,
+      "path": "cmt/upload_report_file/1066_1635479452072.pdf",
+      "manualDate": 1632940200000,
+      "uploadedDate": 1635479452072,
+      "fileText": "Financial statements as at 30th September 2021",
+      "path2": "cmt/upload_report_file/1066_1635479452072.",
+      "authorizedDate": null
+    },
+    {
+      "id": 38479,
+      "path": "cmt/upload_report_file/1066_1627615485682.pdf",
+      "manualDate": 1617129000000,
+      "uploadedDate": 1627615485682,
+      "fileText": "Interim Financial Statements quarter ended 30th June 2021",
+      "path2": "cmt/upload_report_file/1066_1627615485682.",
+      "authorizedDate": null
+    },
+    {
+      "id": 37689,
+      "path": "cmt/upload_report_file/1066_1619750580897.pdf",
+      "manualDate": 1617129000000,
+      "uploadedDate": 1619750580897,
+      "fileText": "Interim Financial Statements quarter ended 31st March 2021",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 37143,
+      "path": "cmt/upload_report_file/1066_1611898121015.pdf",
+      "manualDate": 1609353000000,
+      "uploadedDate": 1611898121015,
+      "fileText": "Interim Financial Statements 31/12/2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 36590,
+      "path": "cmt/upload_report_file/1066_1604894164480.09.2020.pdf",
+      "manualDate": 1601404200000,
+      "uploadedDate": 1604894164480,
+      "fileText": "Interim Financial Statements 30th September 2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 35973,
+      "path": "cmt/upload_report_file/1066_1597311488027.pdf",
+      "manualDate": 1593455400000,
+      "uploadedDate": 1597311488027,
+      "fileText": "Interim Financial Statements 30th June 2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 35408,
+      "path": "cmt/upload_report_file/1066_1590656869590.1_compressed (1).pdf",
+      "manualDate": 1585593000000,
+      "uploadedDate": 1590656869590,
+      "fileText": "Interim Financial statements as at 31st March 2020",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 34816,
+      "path": "cmt/upload_report_file/1066_1580984788810.pdf",
+      "manualDate": 1577730600000,
+      "uploadedDate": 1580984788810,
+      "fileText": "Interim financial Statements  31st December 2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 34338,
+      "path": "cmt/upload_report_file/1066_1573118231661.pdf",
+      "manualDate": 1569781800000,
+      "uploadedDate": 1573118231661,
+      "fileText": "Interim financial Statements  30th September 2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 33632,
+      "path": "upload_report_file/1066_1565084951349.pdf",
+      "manualDate": 1561833000000,
+      "uploadedDate": 1565084951349,
+      "fileText": "Interim Financial Statements as of 30-06-2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 33072,
+      "path": "upload_report_file/1066_1559210581566.pdf",
+      "manualDate": 1553970600000,
+      "uploadedDate": 1559154600000,
+      "fileText": "Interim Financial Statements as of 31st March 2019",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 32208,
+      "path": "upload_report_file/1066_1549535976091.pdf",
+      "manualDate": 1546194600000,
+      "uploadedDate": 1549477800000,
+      "fileText": "Interim financial statements as of 31st December 2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 31650,
+      "path": "upload_report_file/1066_1541671568002.pdf",
+      "manualDate": 1538245800000,
+      "uploadedDate": 1541615400000,
+      "fileText": "Interim financial statements as of 30th September 2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 23943,
+      "path": "upload_report_file/1066_1533201995474.pdf",
+      "manualDate": 1530297000000,
+      "uploadedDate": 1533148200000,
+      "fileText": "Quarterly Financial Report as of 30-06-2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 23514,
+      "path": "upload_report_file/1066_1527759317698.pdf",
+      "manualDate": 1522434600000,
+      "uploadedDate": 1527705000000,
+      "fileText": "Interim Financial Statements as of 31st March 2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 22626,
+      "path": "upload_report_file/1066_1518084520916.pdf",
+      "manualDate": 1514658600000,
+      "uploadedDate": 1518028200000,
+      "fileText": "Interim Financial Report as of 31-12-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 22255,
+      "path": "upload_report_file/1066_1510307099361.pdf",
+      "manualDate": 1506709800000,
+      "uploadedDate": 1510252200000,
+      "fileText": "Quarterly Financial Report as of 30-09-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 21845,
+      "path": "upload_report_file/1066_1501844052156.pdf",
+      "manualDate": 1498761000000,
+      "uploadedDate": 1501785000000,
+      "fileText": "Quarterly Financial Report as of 30-06-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 21490,
+      "path": "upload_report_file/1066_1496056176767.PDF",
+      "manualDate": 1490898600000,
+      "uploadedDate": 1495996200000,
+      "fileText": "Interim Financial Statements as at 31-03-2017",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 20878,
+      "path": "upload_report_file/1066_1486026507020.pdf",
+      "manualDate": 1483122600000,
+      "uploadedDate": 1485973800000,
+      "fileText": "Quarterly Financial Report as of 31-12-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 20489,
+      "path": "upload_report_file/1066_1478574417770.pdf",
+      "manualDate": 1475173800000,
+      "uploadedDate": 1478543400000,
+      "fileText": "Quarterly Financial Report as of 30-09-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 19762,
+      "path": "upload_report_file/1066_1470301702936.pdf",
+      "manualDate": 1467225000000,
+      "uploadedDate": 1470249000000,
+      "fileText": "Quarterly Financial Report as of 30-06-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 29674,
+      "path": "upload_report_file/1066_1464691161732.pdf",
+      "manualDate": 1459362600000,
+      "uploadedDate": 1464633000000,
+      "fileText": "Interim Financial Statements as at 31-03-2016",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 29199,
+      "path": "upload_report_file/1066_1455506702013.pdf",
+      "manualDate": 1451500200000,
+      "uploadedDate": 1455474600000,
+      "fileText": "Quarterly Financial Report as of 31-12-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28813,
+      "path": "upload_report_file/1066_1447321227698.pdf",
+      "manualDate": 1443551400000,
+      "uploadedDate": 1447266600000,
+      "fileText": "Quarterly Financial Report as of 30-09-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 28231,
+      "path": "upload_report_file/1066_1438765680217.pdf",
+      "manualDate": 1435602600000,
+      "uploadedDate": 1438713000000,
+      "fileText": "Quarterly Financial Report as of 30-06-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27848,
+      "path": "upload_report_file/1066_1432891354469.pdf",
+      "manualDate": 1427740200000,
+      "uploadedDate": 1432837800000,
+      "fileText": "Quartely Financial Report as of 31-03-2015",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 27223,
+      "path": "upload_report_file/1066_1423128353130.pdf",
+      "manualDate": 1419964200000,
+      "uploadedDate": 1423074600000,
+      "fileText": "Quarterly Financial Report as of 31-12-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18945,
+      "path": "upload_report_file/1066_1415098871.pdf",
+      "manualDate": 1412015400000,
+      "uploadedDate": 1415039400000,
+      "fileText": "Interim Financial Statements as of 30-09-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18860,
+      "path": "upload_report_file/1066_1407495777.pdf",
+      "manualDate": 1404066600000,
+      "uploadedDate": 1407436200000,
+      "fileText": "Interim Financial Statements as at 30-06-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 26173,
+      "path": "upload_report_file/1066_1401446761496.pdf",
+      "manualDate": 1396204200000,
+      "uploadedDate": 1401388200000,
+      "fileText": "Interim Financial Statements as at 31-03-2014",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 25615,
+      "path": "upload_report_file/1066_1392205997096.pdf",
+      "manualDate": 1388428200000,
+      "uploadedDate": 1392143400000,
+      "fileText": "Interim Financial Statements as at 31-12-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18645,
+      "path": "upload_report_file/1066_1384424933.pdf",
+      "manualDate": 1380479400000,
+      "uploadedDate": 1384367400000,
+      "fileText": "Interim Financial Statements as of 30-09-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18162,
+      "path": "upload_report_file/1066_1375955819962.pdf",
+      "manualDate": 1372530600000,
+      "uploadedDate": 1375900200000,
+      "fileText": "Interim Financial Statements as of 30-06-2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17486,
+      "path": "upload_report_file/1066_1369999702.pdf",
+      "manualDate": 1364668200000,
+      "uploadedDate": 1369938600000,
+      "fileText": "Interim Financial Statements as at 31/03/ 2013",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 16244,
+      "path": "upload_report_file/1066_1360235763.pdf",
+      "manualDate": 1356892200000,
+      "uploadedDate": 1360175400000,
+      "fileText": "Interim Financial Statements as at 31-12-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 18331,
+      "path": "upload_report_file/1066_1352282540.pdf",
+      "manualDate": 1348943400000,
+      "uploadedDate": 1352226600000,
+      "fileText": "Interim Financial Statements as at 30-09-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17705,
+      "path": "upload_report_file/1066_1344596185.pdf",
+      "manualDate": 1340994600000,
+      "uploadedDate": 1344537000000,
+      "fileText": "Quarterly Financial Statements as of 30-06-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 14526,
+      "path": "upload_report_file/1066_1338203130630.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1338143400000,
+      "fileText": "Quarterly Financial Statements as at 31-03-2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 41075,
+      "path": "cmt/upload_report_file/1066_1658805437385.pdf",
+      "manualDate": 1648665000000,
+      "uploadedDate": 1658805437385,
+      "fileText": "Errata to the Annual Report 2021/2022",
+      "path2": "cmt/upload_report_file/1066_1658805437385.",
+      "authorizedDate": null
+    },
+    {
+      "id": 24228,
+      "path": "upload_report_file/1066_1534306874887.pdf",
+      "manualDate": 1522434600000,
+      "uploadedDate": 1534271400000,
+      "fileText": "Errata to the Annual Report 2017/2018",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 24141,
+      "path": "upload_report_file/1066_1534230230935.pdf",
+      "manualDate": 1490898600000,
+      "uploadedDate": 1534185000000,
+      "fileText": "ERRATA TO THE ANNUAL REPORT FOR THE YEAR ENDED 31ST MARCH 2017",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [],
+  "infoCompanyBannerAd": null
+}
