@@ -1,0 +1,864 @@
+{
+  "infoAnnualData": [
+    {
+      "id": 14453,
+      "path": "upload_report_file/448_1338980646.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1338921000000,
+      "fileText": "Annual Report 2011/2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoQuarterlyData": [
+    {
+      "id": 18197,
+      "path": "upload_report_file/448_1359626844.pdf",
+      "manualDate": 1356892200000,
+      "uploadedDate": 1359570600000,
+      "fileText": "Interim Financial Statements as of 31-12-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17412,
+      "path": "upload_report_file/448_1351674526.pdf",
+      "manualDate": 1348943400000,
+      "uploadedDate": 1351621800000,
+      "fileText": "Interim Financial Statements as at 30-09-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17590,
+      "path": "upload_report_file/448_1343902761.pdf",
+      "manualDate": 1340994600000,
+      "uploadedDate": 1343845800000,
+      "fileText": "Quarterly Financial Statements as of 30-06-2012",
+      "path2": null,
+      "authorizedDate": null
+    },
+    {
+      "id": 17273,
+      "path": "upload_report_file/448_1335521361929.pdf",
+      "manualDate": 1333132200000,
+      "uploadedDate": 1335465000000,
+      "fileText": "Quarterly Financial Report as at 31.03.2012",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "infoWebLink": [],
+  "infoOtherData": [
+    {
+      "id": 10831,
+      "path": "upload_report_file/448_1244637514.pdf",
+      "manualDate": null,
+      "uploadedDate": 1244572200000,
+      "fileText": "ANNOUNCEMENT IN TERMS OF RULE 8(1) OF THE COMPANY TAKE - OVERS AND MERGERS CODE 1995 - PEOPLE'S LEASING COMPANY LIMITED.",
+      "path2": null,
+      "authorizedDate": null
+    }
+  ],
+  "reqFinancial": [
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    },
+    {
+      "secId": 448,
+      "elmId": "1",
+      "data": "Financial Statements Summary"
+    }
+  ],
+  "infoCompanyBannerAd": {
+    "id": 297,
+    "path": "upload_add/60.jpeg"
+  }
+}
