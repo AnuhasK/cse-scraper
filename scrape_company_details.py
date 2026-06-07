@@ -11,7 +11,7 @@ from holiday_utils import is_holiday, today_str
 
 BASE_URL = 'https://www.cse.lk/api/'
 ENDPOINT = 'companyInfoSummery'
-TXT_FILE = 'company-symbols.txt'
+TXT_FILE = 'company-names/company-symbols.txt'
 REQUEST_TIMEOUT = (5, 30)
 MAX_ATTEMPTS = 3
 BACKOFF_SECS = 1.5
