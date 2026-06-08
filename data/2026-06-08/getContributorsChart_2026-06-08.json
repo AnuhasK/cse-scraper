@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 5.66,
+      "lastTradedTime": 1780909129636
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 2.0,
+      "lastTradedTime": 1780909175467
+    },
+    {
+      "id": 439,
+      "symbol": "MAL.N0000",
+      "name": "MALWATTE VALLEY PLANTATIONS PLC",
+      "contribution": 1.3,
+      "lastTradedTime": 1780908832567
+    },
+    {
+      "id": 5353,
+      "symbol": "COOP.N0000",
+      "name": "CO-OPERATIVE INSURANCE COMPANY PLC",
+      "contribution": 1.06,
+      "lastTradedTime": 1780909025481
+    },
+    {
+      "id": 204,
+      "symbol": "ABAN.N0000",
+      "name": "ABANS ELECTRICALS PLC",
+      "contribution": 0.53,
+      "lastTradedTime": 1780908723248
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -24.72,
+      "lastTradedTime": 1780909121232
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -12.87,
+      "lastTradedTime": 1780908669549
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -12.16,
+      "lastTradedTime": 1780909178078
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -11.02,
+      "lastTradedTime": 1780909199901
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -10.89,
+      "lastTradedTime": 1780909183210
+    }
+  ]
+}
