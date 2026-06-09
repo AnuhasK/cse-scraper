@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 39.61,
+      "lastTradedTime": 1780995591427
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 7.35,
+      "lastTradedTime": 1780995598484
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 6.22,
+      "lastTradedTime": 1780995578204
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 5.89,
+      "lastTradedTime": 1780995546274
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": 5.7,
+      "lastTradedTime": 1780993245413
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -5.45,
+      "lastTradedTime": 1780995500622
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.35,
+      "lastTradedTime": 1780995584188
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -4.08,
+      "lastTradedTime": 1780994974629
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -4.04,
+      "lastTradedTime": 1780995592062
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -3.32,
+      "lastTradedTime": 1780994368493
+    }
+  ]
+}
