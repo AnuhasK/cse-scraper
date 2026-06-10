@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56831688,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 887.0,
+    "shareVolume": 255685.0,
+    "turnover": 35638350.75,
+    "percentageShareVolume": -0.5366726296958855
+  },
+  {
+    "id": 56831546,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 654.0,
+    "shareVolume": 16496004.0,
+    "turnover": 325153589.5,
+    "percentageShareVolume": 0.5076142131979695
+  },
+  {
+    "id": 56831790,
+    "securityId": 1784,
+    "symbol": "PAP.N0000",
+    "tradeVolume": 653.0,
+    "shareVolume": 4076067.0,
+    "turnover": 65536868.6,
+    "percentageShareVolume": -5.294117647058823
+  },
+  {
+    "id": 56831797,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 599.0,
+    "shareVolume": 1330830.0,
+    "turnover": 52752874.8,
+    "percentageShareVolume": -2.955665024630542
+  },
+  {
+    "id": 56831783,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 457.0,
+    "shareVolume": 602525.0,
+    "turnover": 120587538.25,
+    "percentageShareVolume": -0.24875621890547264
+  },
+  {
+    "id": 56831794,
+    "securityId": 6052,
+    "symbol": "CSLK.N0000",
+    "tradeVolume": 392.0,
+    "shareVolume": 4048142.0,
+    "turnover": 44856764.5,
+    "percentageShareVolume": -4.273504273504273
+  },
+  {
+    "id": 56831784,
+    "securityId": 471,
+    "symbol": "DIAL.N0000",
+    "tradeVolume": 380.0,
+    "shareVolume": 970156.0,
+    "turnover": 42510564.2,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56831491,
+    "securityId": 238,
+    "symbol": "SUN.N0000",
+    "tradeVolume": 371.0,
+    "shareVolume": 1473148.0,
+    "turnover": 42000276.3,
+    "percentageShareVolume": -1.7241379310344827
+  },
+  {
+    "id": 56831800,
+    "securityId": 7036,
+    "symbol": "JXG.N0000",
+    "tradeVolume": 274.0,
+    "shareVolume": 7680366.0,
+    "turnover": 92173257.2,
+    "percentageShareVolume": -0.8264462809917356
+  },
+  {
+    "id": 56831322,
+    "securityId": 325,
+    "symbol": "HHL.N0000",
+    "tradeVolume": 258.0,
+    "shareVolume": 446776.0,
+    "turnover": 13652016.9,
+    "percentageShareVolume": -0.974025974025974
+  }
+]

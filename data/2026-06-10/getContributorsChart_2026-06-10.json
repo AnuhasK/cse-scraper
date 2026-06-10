@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": 10.79,
+      "lastTradedTime": 1781081637453
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.35,
+      "lastTradedTime": 1781081918145
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 3.74,
+      "lastTradedTime": 1781081815016
+    },
+    {
+      "id": 250,
+      "symbol": "ASCO.N0000",
+      "name": "LANKA REALTY INVESTMENTS PLC",
+      "contribution": 1.85,
+      "lastTradedTime": 1781081730343
+    },
+    {
+      "id": 3461,
+      "symbol": "PINS.N0000",
+      "name": "PEOPLE'S INSURANCE PLC",
+      "contribution": 1.78,
+      "lastTradedTime": 1781078610473
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": -19.86,
+      "lastTradedTime": 1781081775244
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -8.24,
+      "lastTradedTime": 1781081820381
+    },
+    {
+      "id": 121,
+      "symbol": "GREG.N0000",
+      "name": "AMBEON HOLDINGS PLC",
+      "contribution": -7.96,
+      "lastTradedTime": 1781081693413
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -6.31,
+      "lastTradedTime": 1781081864744
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -6.22,
+      "lastTradedTime": 1781081808956
+    }
+  ]
+}
