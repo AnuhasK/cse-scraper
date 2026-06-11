@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 121,
+      "symbol": "GREG.N0000",
+      "name": "AMBEON HOLDINGS PLC",
+      "contribution": 6.16,
+      "lastTradedTime": 1781166877073
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 5.89,
+      "lastTradedTime": 1781168362736
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": 1.87,
+      "lastTradedTime": 1781168369499
+    },
+    {
+      "id": 378,
+      "symbol": "CLND.N0000",
+      "name": "COLOMBO LAND & DEVELOPMENT COMPANY PLC",
+      "contribution": 1.05,
+      "lastTradedTime": 1781167705634
+    },
+    {
+      "id": 3046,
+      "symbol": "ABL.N0000",
+      "name": "AMANA BANK PLC",
+      "contribution": 0.72,
+      "lastTradedTime": 1781168381533
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -9.26,
+      "lastTradedTime": 1781168350132
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -8.07,
+      "lastTradedTime": 1781168397063
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -7.07,
+      "lastTradedTime": 1781168388284
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -6.86,
+      "lastTradedTime": 1781168298129
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -6.0,
+      "lastTradedTime": 1781168343286
+    }
+  ]
+}

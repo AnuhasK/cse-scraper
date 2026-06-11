@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56854265,
+    "securityId": 6216,
+    "symbol": "HNBF.R0000",
+    "tradeVolume": 1310.0,
+    "shareVolume": 17245668.0,
+    "turnover": 53941818.3,
+    "percentageShareVolume": -9.090909090909092
+  },
+  {
+    "id": 56854215,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 1061.0,
+    "shareVolume": 1432966.0,
+    "turnover": 197882453.75,
+    "percentageShareVolume": -0.539568345323741
+  },
+  {
+    "id": 56854318,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 698.0,
+    "shareVolume": 14884685.0,
+    "turnover": 292031532.9,
+    "percentageShareVolume": -0.5050505050505051
+  },
+  {
+    "id": 56854329,
+    "securityId": 208,
+    "symbol": "COMB.N0000",
+    "tradeVolume": 507.0,
+    "shareVolume": 391871.0,
+    "turnover": 78024449.5,
+    "percentageShareVolume": -0.7481296758104738
+  },
+  {
+    "id": 56854336,
+    "securityId": 4986,
+    "symbol": "PLR.N0000",
+    "tradeVolume": 499.0,
+    "shareVolume": 977271.0,
+    "turnover": 37824760.0,
+    "percentageShareVolume": -1.5228426395939085
+  },
+  {
+    "id": 56854310,
+    "securityId": 518,
+    "symbol": "LMF.N0000",
+    "tradeVolume": 437.0,
+    "shareVolume": 183485.0,
+    "turnover": 15306758.3,
+    "percentageShareVolume": -2.4676850763807288
+  },
+  {
+    "id": 56854139,
+    "securityId": 239,
+    "symbol": "DFCC.N0000",
+    "tradeVolume": 420.0,
+    "shareVolume": 146091.0,
+    "turnover": 18450681.25,
+    "percentageShareVolume": -2.1442495126705654
+  },
+  {
+    "id": 56854112,
+    "securityId": 1851,
+    "symbol": "BIL.N0000",
+    "tradeVolume": 401.0,
+    "shareVolume": 5743851.0,
+    "turnover": 31861388.0,
+    "percentageShareVolume": -1.7857142857142858
+  },
+  {
+    "id": 56854091,
+    "securityId": 7036,
+    "symbol": "JXG.N0000",
+    "tradeVolume": 382.0,
+    "shareVolume": 807842.0,
+    "turnover": 9603732.0,
+    "percentageShareVolume": -1.6666666666666667
+  },
+  {
+    "id": 56853902,
+    "securityId": 5251,
+    "symbol": "LCBF.N0000",
+    "tradeVolume": 369.0,
+    "shareVolume": 3898522.0,
+    "turnover": 23553839.4,
+    "percentageShareVolume": -7.6923076923076925
+  }
+]
