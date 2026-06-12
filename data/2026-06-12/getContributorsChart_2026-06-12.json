@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 21.33,
+      "lastTradedTime": 1781254765951
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 17.5,
+      "lastTradedTime": 1781254785118
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 16.04,
+      "lastTradedTime": 1781254771434
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 13.47,
+      "lastTradedTime": 1781254797975
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 11.64,
+      "lastTradedTime": 1781254764170
+    },
+    {
+      "id": 185,
+      "symbol": "SEMB.N0000",
+      "name": "SMB FINANCE PLC",
+      "contribution": -2.23,
+      "lastTradedTime": 1781254484145
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -1.41,
+      "lastTradedTime": 1781254440824
+    },
+    {
+      "id": 439,
+      "symbol": "MAL.N0000",
+      "name": "MALWATTE VALLEY PLANTATIONS PLC",
+      "contribution": -1.23,
+      "lastTradedTime": 1781253330090
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -0.53,
+      "lastTradedTime": 1781249702306
+    },
+    {
+      "id": 3938,
+      "symbol": "RCH.N0000",
+      "name": "RENUKA HOTELS PLC",
+      "contribution": -0.5,
+      "lastTradedTime": 1781248243866
+    }
+  ]
+}
