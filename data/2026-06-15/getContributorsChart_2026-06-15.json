@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 40.4,
+      "lastTradedTime": 1781513987275
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 37.68,
+      "lastTradedTime": 1781513994520
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 26.75,
+      "lastTradedTime": 1781513992896
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 24.72,
+      "lastTradedTime": 1781513952090
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 24.05,
+      "lastTradedTime": 1781513987836
+    },
+    {
+      "id": 308,
+      "symbol": "COLO.N0000",
+      "name": "C M HOLDINGS PLC",
+      "contribution": -0.46,
+      "lastTradedTime": 1781508788263
+    },
+    {
+      "id": 1971,
+      "symbol": "CITW.N0000",
+      "name": "WASKADUWA BEACH RESORT PLC",
+      "contribution": -0.44,
+      "lastTradedTime": 1781513977223
+    },
+    {
+      "id": 5431,
+      "symbol": "HELA.N0000",
+      "name": "HELA APPAREL HOLDINGS PLC",
+      "contribution": -0.42,
+      "lastTradedTime": 1781513998781
+    },
+    {
+      "id": 527,
+      "symbol": "LCEY.N0000",
+      "name": "LANKEM CEYLON PLC",
+      "contribution": -0.27,
+      "lastTradedTime": 1781512002485
+    },
+    {
+      "id": 1844,
+      "symbol": "AMF.N0000",
+      "name": "ASSOCIATED MOTOR FINANCE COMPANY PLC",
+      "contribution": -0.24,
+      "lastTradedTime": 1781513995357
+    }
+  ]
+}
