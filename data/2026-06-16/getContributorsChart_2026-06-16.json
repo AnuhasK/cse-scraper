@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 238,
+      "symbol": "SUN.N0000",
+      "name": "SUNSHINE HOLDINGS PLC",
+      "contribution": 4.19,
+      "lastTradedTime": 1781600384667
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 4.04,
+      "lastTradedTime": 1781600373860
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 3.74,
+      "lastTradedTime": 1781600232152
+    },
+    {
+      "id": 250,
+      "symbol": "ASCO.N0000",
+      "name": "LANKA REALTY INVESTMENTS PLC",
+      "contribution": 3.7,
+      "lastTradedTime": 1781600358100
+    },
+    {
+      "id": 322,
+      "symbol": "LFIN.N0000",
+      "name": "L B FINANCE PLC",
+      "contribution": 3.46,
+      "lastTradedTime": 1781600393302
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -6.59,
+      "lastTradedTime": 1781600053500
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -4.07,
+      "lastTradedTime": 1781592306605
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -3.67,
+      "lastTradedTime": 1781600326919
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -3.43,
+      "lastTradedTime": 1781599411644
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -3.16,
+      "lastTradedTime": 1781600209926
+    }
+  ]
+}

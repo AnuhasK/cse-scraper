@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56932646,
+    "securityId": 5431,
+    "symbol": "HELA.N0000",
+    "price": 0.7,
+    "change": -0.2,
+    "changePercentage": -22.22222222222222,
+    "tradeDate": 1781601263000
+  },
+  {
+    "id": 56932696,
+    "securityId": 26,
+    "symbol": "EBCR.N0000",
+    "price": 45.0,
+    "change": -2.5,
+    "changePercentage": -5.2631578947368425,
+    "tradeDate": 1781600945000
+  },
+  {
+    "id": 56932543,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 1.9,
+    "change": -0.1,
+    "changePercentage": -5.0,
+    "tradeDate": 1781600974000
+  },
+  {
+    "id": 56932554,
+    "securityId": 6217,
+    "symbol": "HNBF.R0001",
+    "price": 2.4,
+    "change": -0.1,
+    "changePercentage": -4.0,
+    "tradeDate": 1781600544000
+  },
+  {
+    "id": 56929119,
+    "securityId": 1845,
+    "symbol": "AFSL.N0000",
+    "price": 95.3,
+    "change": -3.9,
+    "changePercentage": -3.931451612903226,
+    "tradeDate": 1781597717000
+  },
+  {
+    "id": 56923646,
+    "securityId": 183,
+    "symbol": "HSIG.N0000",
+    "price": 73.2,
+    "change": -2.8,
+    "changePercentage": -3.6842105263157894,
+    "tradeDate": 1781590817000
+  },
+  {
+    "id": 56930060,
+    "securityId": 170,
+    "symbol": "MADU.N0000",
+    "price": 10.6,
+    "change": -0.4,
+    "changePercentage": -3.6363636363636362,
+    "tradeDate": 1781598688000
+  },
+  {
+    "id": 56930061,
+    "securityId": 479,
+    "symbol": "SMOT.N0000",
+    "price": 1150.5,
+    "change": -41.25,
+    "changePercentage": -3.461296412838263,
+    "tradeDate": 1781599005000
+  },
+  {
+    "id": 56932048,
+    "securityId": 5532,
+    "symbol": "LUMX.N0000",
+    "price": 11.5,
+    "change": -0.4,
+    "changePercentage": -3.361344537815126,
+    "tradeDate": 1781600854000
+  },
+  {
+    "id": 56932652,
+    "securityId": 25,
+    "symbol": "BRWN.N0000",
+    "price": 151.0,
+    "change": -5.25,
+    "changePercentage": -3.36,
+    "tradeDate": 1781600591000
+  }
+]
