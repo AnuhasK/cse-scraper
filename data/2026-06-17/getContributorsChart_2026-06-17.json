@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 8.48,
+      "lastTradedTime": 1781686340733
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 7.32,
+      "lastTradedTime": 1781684962129
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 7.15,
+      "lastTradedTime": 1781686775542
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 7.02,
+      "lastTradedTime": 1781686770842
+    },
+    {
+      "id": 2147,
+      "symbol": "SDB.N0000",
+      "name": "SANASA DEVELOPMENT BANK PLC",
+      "contribution": 5.67,
+      "lastTradedTime": 1781686757936
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -9.9,
+      "lastTradedTime": 1781686602574
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.35,
+      "lastTradedTime": 1781686798790
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -5.19,
+      "lastTradedTime": 1781686789987
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -4.0,
+      "lastTradedTime": 1781686787758
+    },
+    {
+      "id": 267,
+      "symbol": "DOCK.N0000",
+      "name": "COLOMBO DOCKYARD PLC",
+      "contribution": -3.75,
+      "lastTradedTime": 1781686798650
+    }
+  ]
+}

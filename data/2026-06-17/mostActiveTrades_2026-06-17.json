@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56950197,
+    "securityId": 471,
+    "symbol": "DIAL.N0000",
+    "tradeVolume": 767.0,
+    "shareVolume": 2535549.0,
+    "turnover": 115264141.8,
+    "percentageShareVolume": -1.5317286652078774
+  },
+  {
+    "id": 56950702,
+    "securityId": 5431,
+    "symbol": "HELA.N0000",
+    "tradeVolume": 579.0,
+    "shareVolume": 10887286.0,
+    "turnover": 8411438.0,
+    "percentageShareVolume": 14.285714285714286
+  },
+  {
+    "id": 56950697,
+    "securityId": 250,
+    "symbol": "ASCO.N0000",
+    "tradeVolume": 516.0,
+    "shareVolume": 2073882.0,
+    "turnover": 115533765.3,
+    "percentageShareVolume": 4.62962962962963
+  },
+  {
+    "id": 56950696,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 412.0,
+    "shareVolume": 1910670.0,
+    "turnover": 38999260.6,
+    "percentageShareVolume": -0.4878048780487805
+  },
+  {
+    "id": 56950620,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 356.0,
+    "shareVolume": 106525.0,
+    "turnover": 15390042.25,
+    "percentageShareVolume": -0.17271157167530224
+  },
+  {
+    "id": 56949813,
+    "securityId": 1041,
+    "symbol": "CRL.N0000",
+    "tradeVolume": 352.0,
+    "shareVolume": 2736157.0,
+    "turnover": 18045490.2,
+    "percentageShareVolume": -2.9411764705882355
+  },
+  {
+    "id": 56950431,
+    "securityId": 162,
+    "symbol": "CIC.N0000",
+    "tradeVolume": 289.0,
+    "shareVolume": 671516.0,
+    "turnover": 22189327.1,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56950675,
+    "securityId": 6216,
+    "symbol": "HNBF.R0000",
+    "tradeVolume": 268.0,
+    "shareVolume": 2640153.0,
+    "turnover": 9492290.5,
+    "percentageShareVolume": 0.0
+  },
+  {
+    "id": 56950565,
+    "securityId": 185,
+    "symbol": "SEMB.N0000",
+    "tradeVolume": 259.0,
+    "shareVolume": 34714342.0,
+    "turnover": 34470066.2,
+    "percentageShareVolume": 11.11111111111111
+  },
+  {
+    "id": 56950681,
+    "securityId": 6217,
+    "symbol": "HNBF.R0001",
+    "tradeVolume": 250.0,
+    "shareVolume": 2511815.0,
+    "turnover": 5537163.9,
+    "percentageShareVolume": -12.5
+  }
+]
