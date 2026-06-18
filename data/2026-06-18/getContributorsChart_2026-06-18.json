@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 18.72,
+      "lastTradedTime": 1781773189983
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 9.9,
+      "lastTradedTime": 1781773195552
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 5.89,
+      "lastTradedTime": 1781773195030
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": 5.79,
+      "lastTradedTime": 1781773163705
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 4.86,
+      "lastTradedTime": 1781773195158
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": -4.93,
+      "lastTradedTime": 1781768040292
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -3.98,
+      "lastTradedTime": 1781771264582
+    },
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": -3.75,
+      "lastTradedTime": 1781773153345
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -2.87,
+      "lastTradedTime": 1781772569828
+    },
+    {
+      "id": 399,
+      "symbol": "DIPD.N0000",
+      "name": "DIPPED PRODUCTS PLC",
+      "contribution": -2.38,
+      "lastTradedTime": 1781773193800
+    }
+  ]
+}
