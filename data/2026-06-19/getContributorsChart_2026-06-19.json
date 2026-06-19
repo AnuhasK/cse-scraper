@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 8.24,
+      "lastTradedTime": 1781859539520
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": 4.46,
+      "lastTradedTime": 1781858736349
+    },
+    {
+      "id": 322,
+      "symbol": "LFIN.N0000",
+      "name": "L B FINANCE PLC",
+      "contribution": 3.46,
+      "lastTradedTime": 1781859540425
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": 3.34,
+      "lastTradedTime": 1781859243165
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 2.83,
+      "lastTradedTime": 1781859582415
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -9.18,
+      "lastTradedTime": 1781859546539
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -7.33,
+      "lastTradedTime": 1781859545554
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -5.43,
+      "lastTradedTime": 1781859586082
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": -3.82,
+      "lastTradedTime": 1781859585269
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": -3.65,
+      "lastTradedTime": 1781859488784
+    }
+  ]
+}
