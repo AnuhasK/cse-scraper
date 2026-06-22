@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 5.62,
+      "lastTradedTime": 1782117574251
+    },
+    {
+      "id": 473,
+      "symbol": "VPEL.N0000",
+      "name": "VALLIBEL POWER ERATHNA PLC",
+      "contribution": 1.74,
+      "lastTradedTime": 1782118764242
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 1.71,
+      "lastTradedTime": 1782118408955
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 1.2,
+      "lastTradedTime": 1782118629009
+    },
+    {
+      "id": 250,
+      "symbol": "ASCO.N0000",
+      "name": "LANKA REALTY INVESTMENTS PLC",
+      "contribution": 0.94,
+      "lastTradedTime": 1782118782127
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -11.0,
+      "lastTradedTime": 1782118795085
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -6.46,
+      "lastTradedTime": 1782118778936
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -4.15,
+      "lastTradedTime": 1782118744305
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -4.0,
+      "lastTradedTime": 1782118782340
+    },
+    {
+      "id": 472,
+      "symbol": "ACL.N0000",
+      "name": "ACL CABLES PLC",
+      "contribution": -3.69,
+      "lastTradedTime": 1782118547610
+    }
+  ]
+}
