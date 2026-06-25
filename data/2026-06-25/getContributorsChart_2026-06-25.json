@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 19.63,
+      "lastTradedTime": 1782377948878
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 16.59,
+      "lastTradedTime": 1782377956909
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": 15.59,
+      "lastTradedTime": 1782377987694
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 10.46,
+      "lastTradedTime": 1782377845980
+    },
+    {
+      "id": 399,
+      "symbol": "DIPD.N0000",
+      "name": "DIPPED PRODUCTS PLC",
+      "contribution": 9.67,
+      "lastTradedTime": 1782377997395
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -4.23,
+      "lastTradedTime": 1782373293962
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -2.68,
+      "lastTradedTime": 1782377524757
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": -2.21,
+      "lastTradedTime": 1782377865853
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -1.78,
+      "lastTradedTime": 1782377699518
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": -1.7,
+      "lastTradedTime": 1782377821672
+    }
+  ]
+}
