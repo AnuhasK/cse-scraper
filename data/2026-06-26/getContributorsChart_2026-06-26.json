@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 10.85,
+      "lastTradedTime": 1782464240321
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 6.97,
+      "lastTradedTime": 1782464293526
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": 5.56,
+      "lastTradedTime": 1782464386406
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 5.09,
+      "lastTradedTime": 1782463500414
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 4.21,
+      "lastTradedTime": 1782464390039
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1782464368191
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": -5.15,
+      "lastTradedTime": 1782464358874
+    },
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": -3.32,
+      "lastTradedTime": 1782464363824
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -2.32,
+      "lastTradedTime": 1782464163206
+    },
+    {
+      "id": 142,
+      "symbol": "SIRA.N0000",
+      "name": "SIERRA CABLES PLC",
+      "contribution": -2.02,
+      "lastTradedTime": 1782464349911
+    }
+  ]
+}
