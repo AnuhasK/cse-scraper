@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 40,
+      "symbol": "LHCL.N0000",
+      "name": "THE LANKA HOSPITALS CORPORATION PLC",
+      "contribution": 2.15,
+      "lastTradedTime": 1782809994198
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 2.12,
+      "lastTradedTime": 1782809014238
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": 1.96,
+      "lastTradedTime": 1782809994574
+    },
+    {
+      "id": 105,
+      "symbol": "PABC.N0000",
+      "name": "PAN ASIA BANKING CORPORATION PLC",
+      "contribution": 1.79,
+      "lastTradedTime": 1782809956023
+    },
+    {
+      "id": 225,
+      "symbol": "ASIR.N0000",
+      "name": "ASIRI HOSPITAL HOLDINGS PLC",
+      "contribution": 0.96,
+      "lastTradedTime": 1782809152523
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -16.83,
+      "lastTradedTime": 1782809992605
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -11.06,
+      "lastTradedTime": 1782809880036
+    },
+    {
+      "id": 4887,
+      "symbol": "WIND.N0000",
+      "name": "WINDFORCE PLC",
+      "contribution": -7.04,
+      "lastTradedTime": 1782809994780
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -6.38,
+      "lastTradedTime": 1782809878926
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.84,
+      "lastTradedTime": 1782809192284
+    }
+  ]
+}
