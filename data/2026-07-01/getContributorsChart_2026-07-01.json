@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 8.13,
+      "lastTradedTime": 1782895440483
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.53,
+      "lastTradedTime": 1782896365093
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 4.17,
+      "lastTradedTime": 1782896374279
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 3.86,
+      "lastTradedTime": 1782895532204
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": 3.71,
+      "lastTradedTime": 1782896367266
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -10.58,
+      "lastTradedTime": 1782896396640
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -10.0,
+      "lastTradedTime": 1782896386807
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -8.41,
+      "lastTradedTime": 1782896393984
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -5.89,
+      "lastTradedTime": 1782896397322
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -5.7,
+      "lastTradedTime": 1782896367044
+    }
+  ]
+}
