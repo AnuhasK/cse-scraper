@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 6.89,
+      "lastTradedTime": 1782981819877
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 5.61,
+      "lastTradedTime": 1782982721357
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.65,
+      "lastTradedTime": 1782982291977
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": 3.17,
+      "lastTradedTime": 1782982466722
+    },
+    {
+      "id": 2065,
+      "symbol": "AEL.N0000",
+      "name": "ACCESS ENGINEERING PLC",
+      "contribution": 2.95,
+      "lastTradedTime": 1782982702962
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": -7.88,
+      "lastTradedTime": 1782982416509
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": -5.01,
+      "lastTradedTime": 1782982747171
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": -4.72,
+      "lastTradedTime": 1782982759906
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": -3.39,
+      "lastTradedTime": 1782982795578
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -2.68,
+      "lastTradedTime": 1782982625847
+    }
+  ]
+}
