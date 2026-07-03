@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 3.02,
+      "lastTradedTime": 1783068279412
+    },
+    {
+      "id": 486,
+      "symbol": "GLAS.N0000",
+      "name": "PGP GLASS CEYLON PLC",
+      "contribution": 2.91,
+      "lastTradedTime": 1783069175286
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 2.78,
+      "lastTradedTime": 1783069086109
+    },
+    {
+      "id": 1854,
+      "symbol": "TJL.N0000",
+      "name": "TEEJAY LANKA PLC",
+      "contribution": 1.95,
+      "lastTradedTime": 1783068896774
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 1.36,
+      "lastTradedTime": 1783068817273
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -12.21,
+      "lastTradedTime": 1783068949911
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1783069193672
+    },
+    {
+      "id": 503,
+      "symbol": "RCL.N0000",
+      "name": "ROYAL CERAMICS LANKA PLC",
+      "contribution": -5.1,
+      "lastTradedTime": 1783069042273
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -3.93,
+      "lastTradedTime": 1783069200772
+    },
+    {
+      "id": 525,
+      "symbol": "CFLB.N0000",
+      "name": "THE COLOMBO FORT LAND & BUILDING PLC",
+      "contribution": -3.89,
+      "lastTradedTime": 1783066330070
+    }
+  ]
+}
