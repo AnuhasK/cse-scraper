@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 7.73,
+      "lastTradedTime": 1783325060003
+    },
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": 2.66,
+      "lastTradedTime": 1783328388198
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": 1.86,
+      "lastTradedTime": 1783328089879
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 1.84,
+      "lastTradedTime": 1783327589983
+    },
+    {
+      "id": 701,
+      "symbol": "RHL.N0000",
+      "name": "RENUKA HOLDINGS PLC",
+      "contribution": 1.37,
+      "lastTradedTime": 1783326631488
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -9.17,
+      "lastTradedTime": 1783328265107
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -7.69,
+      "lastTradedTime": 1783328397174
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -5.61,
+      "lastTradedTime": 1783328335277
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -5.56,
+      "lastTradedTime": 1783328312581
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1783328364553
+    }
+  ]
+}
