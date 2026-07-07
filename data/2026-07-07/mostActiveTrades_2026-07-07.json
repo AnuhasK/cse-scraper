@@ -1,0 +1,92 @@
+[
+  {
+    "id": 57164742,
+    "securityId": 266,
+    "symbol": "SAMP.N0000",
+    "tradeVolume": 630.0,
+    "shareVolume": 155202.0,
+    "turnover": 21954520.75,
+    "percentageShareVolume": -0.352112676056338
+  },
+  {
+    "id": 57164693,
+    "securityId": 297,
+    "symbol": "JKH.N0000",
+    "tradeVolume": 516.0,
+    "shareVolume": 15334161.0,
+    "turnover": 306711096.2,
+    "percentageShareVolume": -0.4975124378109453
+  },
+  {
+    "id": 57164524,
+    "securityId": 1849,
+    "symbol": "SHL.N0000",
+    "tradeVolume": 411.0,
+    "shareVolume": 1383048.0,
+    "turnover": 13678932.8,
+    "percentageShareVolume": -6.730769230769231
+  },
+  {
+    "id": 57164611,
+    "securityId": 471,
+    "symbol": "DIAL.N0000",
+    "tradeVolume": 397.0,
+    "shareVolume": 399331.0,
+    "turnover": 17950035.9,
+    "percentageShareVolume": -1.978021978021978
+  },
+  {
+    "id": 57164764,
+    "securityId": 162,
+    "symbol": "CIC.N0000",
+    "tradeVolume": 377.0,
+    "shareVolume": 586992.0,
+    "turnover": 18063592.2,
+    "percentageShareVolume": -2.5559105431309903
+  },
+  {
+    "id": 57164800,
+    "securityId": 4887,
+    "symbol": "WIND.N0000",
+    "tradeVolume": 362.0,
+    "shareVolume": 2256784.0,
+    "turnover": 90502229.5,
+    "percentageShareVolume": -0.24449877750611246
+  },
+  {
+    "id": 57164473,
+    "securityId": 426,
+    "symbol": "CCS.N0000",
+    "tradeVolume": 334.0,
+    "shareVolume": 265096.0,
+    "turnover": 33676098.0,
+    "percentageShareVolume": -1.5594541910331383
+  },
+  {
+    "id": 57164778,
+    "securityId": 4680,
+    "symbol": "HNBF.N0000",
+    "tradeVolume": 316.0,
+    "shareVolume": 3866738.0,
+    "turnover": 34407380.0,
+    "percentageShareVolume": -1.1111111111111112
+  },
+  {
+    "id": 57164421,
+    "securityId": 172,
+    "symbol": "HNB.N0000",
+    "tradeVolume": 264.0,
+    "shareVolume": 20240.0,
+    "turnover": 8030727.75,
+    "percentageShareVolume": -0.3780718336483932
+  },
+  {
+    "id": 57164569,
+    "securityId": 1944,
+    "symbol": "SCAP.N0000",
+    "tradeVolume": 246.0,
+    "shareVolume": 1250282.0,
+    "turnover": 15248238.1,
+    "percentageShareVolume": -6.25
+  }
+]

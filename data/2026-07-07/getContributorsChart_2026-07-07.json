@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": 2.41,
+      "lastTradedTime": 1783413981168
+    },
+    {
+      "id": 503,
+      "symbol": "RCL.N0000",
+      "name": "ROYAL CERAMICS LANKA PLC",
+      "contribution": 2.32,
+      "lastTradedTime": 1783414776139
+    },
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": 2.21,
+      "lastTradedTime": 1783414752071
+    },
+    {
+      "id": 556,
+      "symbol": "SLTL.N0000",
+      "name": "SRI LANKA TELECOM PLC",
+      "contribution": 2.16,
+      "lastTradedTime": 1783414261538
+    },
+    {
+      "id": 2147,
+      "symbol": "SDB.N0000",
+      "name": "SANASA DEVELOPMENT BANK PLC",
+      "contribution": 1.96,
+      "lastTradedTime": 1783407040358
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -12.62,
+      "lastTradedTime": 1783414732459
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -10.46,
+      "lastTradedTime": 1783414690232
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1783414752401
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -5.39,
+      "lastTradedTime": 1783412223474
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -4.25,
+      "lastTradedTime": 1783414555307
+    }
+  ]
+}
