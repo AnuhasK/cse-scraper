@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": 7.35,
+      "lastTradedTime": 1783501169146
+    },
+    {
+      "id": 269,
+      "symbol": "ASPH.N0000",
+      "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
+      "contribution": 5.57,
+      "lastTradedTime": null
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 2.12,
+      "lastTradedTime": 1783501195796
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 1.86,
+      "lastTradedTime": 1783501020160
+    },
+    {
+      "id": 329,
+      "symbol": "KHC.N0000",
+      "name": "THE KANDY HOTELS COMPANY (1938) PLC",
+      "contribution": 0.85,
+      "lastTradedTime": 1783499076200
+    },
+    {
+      "id": 266,
+      "symbol": "SAMP.N0000",
+      "name": "SAMPATH BANK PLC",
+      "contribution": -9.82,
+      "lastTradedTime": 1783501193001
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -9.21,
+      "lastTradedTime": 1783501198099
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -8.41,
+      "lastTradedTime": 1783501149543
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -6.17,
+      "lastTradedTime": 1783501184927
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -5.81,
+      "lastTradedTime": 1783501131187
+    }
+  ]
+}
