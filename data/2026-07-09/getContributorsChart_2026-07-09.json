@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 42,
+      "symbol": "SEYB.N0000",
+      "name": "SEYLAN BANK PLC",
+      "contribution": 2.42,
+      "lastTradedTime": 1783586321994
+    },
+    {
+      "id": 553,
+      "symbol": "LIOC.N0000",
+      "name": "LANKA IOC PLC",
+      "contribution": 1.59,
+      "lastTradedTime": 1783587557432
+    },
+    {
+      "id": 439,
+      "symbol": "MAL.N0000",
+      "name": "MALWATTE VALLEY PLANTATIONS PLC",
+      "contribution": 1.54,
+      "lastTradedTime": 1783586845178
+    },
+    {
+      "id": 399,
+      "symbol": "DIPD.N0000",
+      "name": "DIPPED PRODUCTS PLC",
+      "contribution": 1.18,
+      "lastTradedTime": 1783587593535
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 0.85,
+      "lastTradedTime": 1783587587906
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -9.39,
+      "lastTradedTime": 1783587585771
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -8.13,
+      "lastTradedTime": 1783586967925
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": -7.24,
+      "lastTradedTime": 1783587184068
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -7.09,
+      "lastTradedTime": 1783587550295
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1783587583857
+    }
+  ]
+}
