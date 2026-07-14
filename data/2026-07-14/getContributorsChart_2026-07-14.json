@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 8.41,
+      "lastTradedTime": 1784019578199
+    },
+    {
+      "id": 510,
+      "symbol": "CTHR.N0000",
+      "name": "C T HOLDINGS PLC",
+      "contribution": 2.76,
+      "lastTradedTime": 1784014694165
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 2.55,
+      "lastTradedTime": 1784019478507
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 1.29,
+      "lastTradedTime": 1784019439554
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 1.19,
+      "lastTradedTime": 1784019247786
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -6.97,
+      "lastTradedTime": 1784019159183
+    },
+    {
+      "id": 1848,
+      "symbol": "VONE.N0000",
+      "name": "VALLIBEL ONE PLC",
+      "contribution": -5.76,
+      "lastTradedTime": 1784019468980
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1784019567797
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -5.26,
+      "lastTradedTime": 1784019005569
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -4.94,
+      "lastTradedTime": 1784019494623
+    }
+  ]
+}
