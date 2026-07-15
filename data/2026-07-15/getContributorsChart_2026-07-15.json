@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": 8.32,
+      "lastTradedTime": 1784105665663
+    },
+    {
+      "id": 31,
+      "symbol": "HAYC.N0000",
+      "name": "HAYCARB PLC",
+      "contribution": 7.52,
+      "lastTradedTime": 1784105984291
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.53,
+      "lastTradedTime": 1784105800941
+    },
+    {
+      "id": 426,
+      "symbol": "CCS.N0000",
+      "name": "CEYLON COLD STORES PLC",
+      "contribution": 5.09,
+      "lastTradedTime": 1784105488071
+    },
+    {
+      "id": 415,
+      "symbol": "LION.N0000",
+      "name": "LION BREWERY CEYLON PLC",
+      "contribution": 4.56,
+      "lastTradedTime": 1784105466539
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -9.82,
+      "lastTradedTime": 1784105967954
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -6.35,
+      "lastTradedTime": 1784105976287
+    },
+    {
+      "id": 447,
+      "symbol": "CFIN.N0000",
+      "name": "CENTRAL FINANCE COMPANY PLC",
+      "contribution": -4.17,
+      "lastTradedTime": 1784105993926
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -4.02,
+      "lastTradedTime": 1784105999412
+    },
+    {
+      "id": 165,
+      "symbol": "BUKI.N0000",
+      "name": "BUKIT DARAH PLC",
+      "contribution": -3.79,
+      "lastTradedTime": 1784105932496
+    }
+  ]
+}
