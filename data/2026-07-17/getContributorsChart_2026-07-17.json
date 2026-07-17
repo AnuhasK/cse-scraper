@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": 13.41,
+      "lastTradedTime": 1784278785382
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": 5.38,
+      "lastTradedTime": 1784278696556
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 2.32,
+      "lastTradedTime": 1784278358028
+    },
+    {
+      "id": 1968,
+      "symbol": "PLC.N0000",
+      "name": "PEOPLE'S LEASING & FINANCE PLC",
+      "contribution": 2.18,
+      "lastTradedTime": 1784278737628
+    },
+    {
+      "id": 322,
+      "symbol": "LFIN.N0000",
+      "name": "L B FINANCE PLC",
+      "contribution": 1.43,
+      "lastTradedTime": 1784278749909
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": -5.65,
+      "lastTradedTime": 1784278756937
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -5.53,
+      "lastTradedTime": 1784278563719
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -4.4,
+      "lastTradedTime": 1784278732388
+    },
+    {
+      "id": 6172,
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "contribution": -4.01,
+      "lastTradedTime": 1784278550749
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -3.4,
+      "lastTradedTime": 1784278797263
+    }
+  ]
+}
