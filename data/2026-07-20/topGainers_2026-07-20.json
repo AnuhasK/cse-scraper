@@ -1,0 +1,92 @@
+[
+  {
+    "id": 57310136,
+    "securityId": 520,
+    "symbol": "CTLD.N0000",
+    "price": 38.6,
+    "change": 2.6,
+    "changePercentage": 7.222222222222222,
+    "tradeDate": 1784536309000
+  },
+  {
+    "id": 57312245,
+    "securityId": 227,
+    "symbol": "KFP.N0000",
+    "price": 177.75,
+    "change": 7.75,
+    "changePercentage": 4.5588235294117645,
+    "tradeDate": 1784538330000
+  },
+  {
+    "id": 57308995,
+    "securityId": 259,
+    "symbol": "CERA.N0000",
+    "price": 176.75,
+    "change": 6.75,
+    "changePercentage": 3.9705882352941178,
+    "tradeDate": 1784534508000
+  },
+  {
+    "id": 57309944,
+    "securityId": 103,
+    "symbol": "HOPL.N0000",
+    "price": 56.4,
+    "change": 2.1,
+    "changePercentage": 3.867403314917127,
+    "tradeDate": 1784535562000
+  },
+  {
+    "id": 57312170,
+    "securityId": 22,
+    "symbol": "CABO.N0000",
+    "price": 199.75,
+    "change": 4.75,
+    "changePercentage": 2.4358974358974357,
+    "tradeDate": 1784538601000
+  },
+  {
+    "id": 57312362,
+    "securityId": 1630,
+    "symbol": "CDB.N0000",
+    "price": 41.1,
+    "change": 0.9,
+    "changePercentage": 2.2388059701492535,
+    "tradeDate": 1784538695000
+  },
+  {
+    "id": 57312357,
+    "securityId": 121,
+    "symbol": "GREG.N0000",
+    "price": 36.7,
+    "change": 0.8,
+    "changePercentage": 2.2284122562674096,
+    "tradeDate": 1784538360000
+  },
+  {
+    "id": 57311533,
+    "securityId": 214,
+    "symbol": "CONN.N0000",
+    "price": 27.0,
+    "change": 0.5,
+    "changePercentage": 1.8867924528301887,
+    "tradeDate": 1784538270000
+  },
+  {
+    "id": 57310709,
+    "securityId": 468,
+    "symbol": "TAJ.N0000",
+    "price": 31.1,
+    "change": 0.5,
+    "changePercentage": 1.6339869281045751,
+    "tradeDate": 1784536559000
+  },
+  {
+    "id": 57312265,
+    "securityId": 504,
+    "symbol": "PEG.N0000",
+    "price": 38.6,
+    "change": 0.6,
+    "changePercentage": 1.5789473684210527,
+    "tradeDate": 1784538767000
+  }
+]

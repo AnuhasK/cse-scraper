@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": 2.42,
+      "lastTradedTime": 1784537971727
+    },
+    {
+      "id": 121,
+      "symbol": "GREG.N0000",
+      "name": "AMBEON HOLDINGS PLC",
+      "contribution": 2.04,
+      "lastTradedTime": 1784537968396
+    },
+    {
+      "id": 381,
+      "symbol": "CTC.N0000",
+      "name": "CEYLON TOBACCO COMPANY PLC",
+      "contribution": 0.64,
+      "lastTradedTime": 1784536861505
+    },
+    {
+      "id": 22,
+      "symbol": "CABO.N0000",
+      "name": "CARGO BOAT DEVELOPMENT COMPANY PLC",
+      "contribution": 0.32,
+      "lastTradedTime": 1784537841764
+    },
+    {
+      "id": 520,
+      "symbol": "CTLD.N0000",
+      "name": "C T LAND DEVELOPMENT PLC",
+      "contribution": 0.3,
+      "lastTradedTime": 1784535856461
+    },
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": -15.42,
+      "lastTradedTime": 1784537989151
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -14.75,
+      "lastTradedTime": 1784537859995
+    },
+    {
+      "id": 511,
+      "symbol": "RICH.N0000",
+      "name": "RICHARD PIERIS AND COMPANY PLC",
+      "contribution": -13.01,
+      "lastTradedTime": 1784537998598
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": -11.06,
+      "lastTradedTime": 1784537960813
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": -8.55,
+      "lastTradedTime": 1784528544545
+    }
+  ]
+}
