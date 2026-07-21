@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 471,
+      "symbol": "DIAL.N0000",
+      "name": "DIALOG AXIATA PLC",
+      "contribution": 9.82,
+      "lastTradedTime": 1784624342542
+    },
+    {
+      "id": 297,
+      "symbol": "JKH.N0000",
+      "name": "JOHN KEELLS HOLDINGS PLC",
+      "contribution": 5.53,
+      "lastTradedTime": 1784624344914
+    },
+    {
+      "id": 343,
+      "symbol": "SPEN.N0000",
+      "name": "AITKEN SPENCE PLC",
+      "contribution": 2.78,
+      "lastTradedTime": 1784621470349
+    },
+    {
+      "id": 550,
+      "symbol": "ASHO.N0000",
+      "name": "LANKA ASHOK LEYLAND PLC",
+      "contribution": 1.73,
+      "lastTradedTime": 1784622945954
+    },
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 1.37,
+      "lastTradedTime": 1784624283160
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -22.57,
+      "lastTradedTime": 1784624057914
+    },
+    {
+      "id": 167,
+      "symbol": "HARI.N0000",
+      "name": "HARISCHANDRA MILLS PLC",
+      "contribution": -5.91,
+      "lastTradedTime": 1784621118660
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -5.64,
+      "lastTradedTime": 1784624393123
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -4.65,
+      "lastTradedTime": 1784624323688
+    },
+    {
+      "id": 3815,
+      "symbol": "RIL.N0000",
+      "name": "R I L PROPERTY PLC",
+      "contribution": -3.85,
+      "lastTradedTime": 1784624398517
+    }
+  ]
+}

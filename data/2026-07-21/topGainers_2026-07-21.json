@@ -1,0 +1,92 @@
+[
+  {
+    "id": 57328137,
+    "securityId": 7076,
+    "symbol": "MBSL.R0001",
+    "price": 0.6,
+    "change": 0.3,
+    "changePercentage": 100.0,
+    "tradeDate": 1784624446000
+  },
+  {
+    "id": 57326820,
+    "securityId": 4077,
+    "symbol": "NTB.X0000",
+    "price": 404.25,
+    "change": 48.25,
+    "changePercentage": 13.553370786516854,
+    "tradeDate": 1784624033000
+  },
+  {
+    "id": 57325874,
+    "securityId": 550,
+    "symbol": "ASHO.N0000",
+    "price": 2675.75,
+    "change": 164.0,
+    "changePercentage": 6.529312232507216,
+    "tradeDate": 1784623894000
+  },
+  {
+    "id": 57323538,
+    "securityId": 492,
+    "symbol": "ONAL.N0000",
+    "price": 48.0,
+    "change": 2.6,
+    "changePercentage": 5.726872246696035,
+    "tradeDate": 1784619992000
+  },
+  {
+    "id": 57325274,
+    "securityId": 329,
+    "symbol": "KHC.N0000",
+    "price": 14.3,
+    "change": 0.7,
+    "changePercentage": 5.147058823529412,
+    "tradeDate": 1784622616000
+  },
+  {
+    "id": 57325879,
+    "securityId": 382,
+    "symbol": "LITE.N0000",
+    "price": 44.0,
+    "change": 1.9,
+    "changePercentage": 4.513064133016627,
+    "tradeDate": 1784623186000
+  },
+  {
+    "id": 57323977,
+    "securityId": 2035,
+    "symbol": "AGST.X0000",
+    "price": 11.7,
+    "change": 0.5,
+    "changePercentage": 4.464285714285714,
+    "tradeDate": 1784621199000
+  },
+  {
+    "id": 57325681,
+    "securityId": 479,
+    "symbol": "SMOT.N0000",
+    "price": 1254.5,
+    "change": 53.25,
+    "changePercentage": 4.432882414151925,
+    "tradeDate": 1784623580000
+  },
+  {
+    "id": 57328144,
+    "securityId": 466,
+    "symbol": "GEST.N0000",
+    "price": 339.25,
+    "change": 12.25,
+    "changePercentage": 3.746177370030581,
+    "tradeDate": 1784624806000
+  },
+  {
+    "id": 57322723,
+    "securityId": 468,
+    "symbol": "TAJ.N0000",
+    "price": 32.2,
+    "change": 1.1,
+    "changePercentage": 3.536977491961415,
+    "tradeDate": 1784619204000
+  }
+]
