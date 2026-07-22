@@ -1,0 +1,92 @@
+[
+  {
+    "id": 57342113,
+    "securityId": 7076,
+    "symbol": "MBSL.R0001",
+    "price": 0.4,
+    "change": -0.2,
+    "changePercentage": -33.333333333333336,
+    "tradeDate": 1784711449000
+  },
+  {
+    "id": 57340904,
+    "securityId": 487,
+    "symbol": "PARA.N0000",
+    "price": 586.25,
+    "change": -93.75,
+    "changePercentage": -13.786764705882353,
+    "tradeDate": 1784709631000
+  },
+  {
+    "id": 57341665,
+    "securityId": 306,
+    "symbol": "AUTO.N0000",
+    "price": 292.25,
+    "change": -21.5,
+    "changePercentage": -6.852589641434263,
+    "tradeDate": 1784711073000
+  },
+  {
+    "id": 57342596,
+    "securityId": 382,
+    "symbol": "LITE.N0000",
+    "price": 41.1,
+    "change": -2.9,
+    "changePercentage": -6.590909090909091,
+    "tradeDate": 1784710935000
+  },
+  {
+    "id": 57342536,
+    "securityId": 1971,
+    "symbol": "CITW.N0000",
+    "price": 1.6,
+    "change": -0.1,
+    "changePercentage": -5.882352941176471,
+    "tradeDate": 1784711697000
+  },
+  {
+    "id": 57341493,
+    "securityId": 4,
+    "symbol": "TESS.N0000",
+    "price": 1.7,
+    "change": -0.1,
+    "changePercentage": -5.555555555555555,
+    "tradeDate": 1784710668000
+  },
+  {
+    "id": 57341207,
+    "securityId": 55,
+    "symbol": "RPBH.N0000",
+    "price": 47.0,
+    "change": -2.6,
+    "changePercentage": -5.241935483870968,
+    "tradeDate": 1784709954000
+  },
+  {
+    "id": 57342537,
+    "securityId": 507,
+    "symbol": "COCO.N0000",
+    "price": 23.1,
+    "change": -1.2,
+    "changePercentage": -4.938271604938271,
+    "tradeDate": 1784710827000
+  },
+  {
+    "id": 57342101,
+    "securityId": 3307,
+    "symbol": "SINH.N0000",
+    "price": 21.5,
+    "change": -1.1,
+    "changePercentage": -4.867256637168142,
+    "tradeDate": 1784710827000
+  },
+  {
+    "id": 57342198,
+    "securityId": 1744,
+    "symbol": "LGL.X0000",
+    "price": 37.0,
+    "change": -1.8,
+    "changePercentage": -4.639175257731959,
+    "tradeDate": 1784711593000
+  }
+]

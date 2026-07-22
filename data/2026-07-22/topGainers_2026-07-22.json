@@ -1,0 +1,92 @@
+[
+  {
+    "id": 57341640,
+    "securityId": 185,
+    "symbol": "SEMB.N0000",
+    "price": 1.0,
+    "change": 0.1,
+    "changePercentage": 11.11111111111111,
+    "tradeDate": 1784710879000
+  },
+  {
+    "id": 57333494,
+    "securityId": 132,
+    "symbol": "HAPU.N0000",
+    "price": 56.5,
+    "change": 4.6,
+    "changePercentage": 8.863198458574182,
+    "tradeDate": 1784700247000
+  },
+  {
+    "id": 57340418,
+    "securityId": 372,
+    "symbol": "KGAL.N0000",
+    "price": 144.5,
+    "change": 11.5,
+    "changePercentage": 8.646616541353383,
+    "tradeDate": 1784709797000
+  },
+  {
+    "id": 57339863,
+    "securityId": 2188,
+    "symbol": "BERU.N0000",
+    "price": 3.0,
+    "change": 0.2,
+    "changePercentage": 7.142857142857143,
+    "tradeDate": 1784708614000
+  },
+  {
+    "id": 57341201,
+    "securityId": 116,
+    "symbol": "GHLL.N0000",
+    "price": 17.0,
+    "change": 1.1,
+    "changePercentage": 6.918238993710692,
+    "tradeDate": 1784709958000
+  },
+  {
+    "id": 57341890,
+    "securityId": 18,
+    "symbol": "LALU.N0000",
+    "price": 42.7,
+    "change": 2.2,
+    "changePercentage": 5.432098765432099,
+    "tradeDate": 1784710559000
+  },
+  {
+    "id": 57342589,
+    "securityId": 4058,
+    "symbol": "HPL.N0000",
+    "price": 25.8,
+    "change": 1.3,
+    "changePercentage": 5.3061224489795915,
+    "tradeDate": 1784711349000
+  },
+  {
+    "id": 57337948,
+    "securityId": 22,
+    "symbol": "CABO.N0000",
+    "price": 199.5,
+    "change": 9.5,
+    "changePercentage": 5.0,
+    "tradeDate": 1784706774000
+  },
+  {
+    "id": 57339741,
+    "securityId": 246,
+    "symbol": "SHOT.N0000",
+    "price": 16.8,
+    "change": 0.8,
+    "changePercentage": 5.0,
+    "tradeDate": 1784708440000
+  },
+  {
+    "id": 57339186,
+    "securityId": 5472,
+    "symbol": "EXT.N0000",
+    "price": 12.7,
+    "change": 0.6,
+    "changePercentage": 4.958677685950414,
+    "tradeDate": 1784708068000
+  }
+]
