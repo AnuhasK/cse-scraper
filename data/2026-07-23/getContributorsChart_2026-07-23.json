@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": 11.29,
+      "lastTradedTime": 1784797118816
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 10.92,
+      "lastTradedTime": 1784796713241
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": 8.06,
+      "lastTradedTime": 1784793377866
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": 5.95,
+      "lastTradedTime": 1784797127415
+    },
+    {
+      "id": 411,
+      "symbol": "TKYO.N0000",
+      "name": "TOKYO CEMENT COMPANY (LANKA) PLC",
+      "contribution": 4.98,
+      "lastTradedTime": 1784797185530
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": -5.81,
+      "lastTradedTime": 1784796546740
+    },
+    {
+      "id": 551,
+      "symbol": "CARG.N0000",
+      "name": "CARGILLS (CEYLON) PLC",
+      "contribution": -4.28,
+      "lastTradedTime": 1784795775683
+    },
+    {
+      "id": 175,
+      "symbol": "HAYL.N0000",
+      "name": "HAYLEYS PLC",
+      "contribution": -4.25,
+      "lastTradedTime": 1784797131093
+    },
+    {
+      "id": 560,
+      "symbol": "BREW.N0000",
+      "name": "CEYLON BEVERAGE HOLDINGS PLC",
+      "contribution": -2.72,
+      "lastTradedTime": 1784793520603
+    },
+    {
+      "id": 1630,
+      "symbol": "CDB.N0000",
+      "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "contribution": -2.42,
+      "lastTradedTime": 1784795637263
+    }
+  ]
+}
