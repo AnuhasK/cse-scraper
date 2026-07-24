@@ -1,0 +1,74 @@
+{
+  "reqContributersChart": [
+    {
+      "id": 410,
+      "symbol": "LOLC.N0000",
+      "name": "LOLC HOLDINGS PLC",
+      "contribution": 10.62,
+      "lastTradedTime": 1784882751915
+    },
+    {
+      "id": 1847,
+      "symbol": "LOFC.N0000",
+      "name": "LOLC FINANCE PLC",
+      "contribution": 5.24,
+      "lastTradedTime": 1784883533624
+    },
+    {
+      "id": 3695,
+      "symbol": "MELS.N0000",
+      "name": "MELSTACORP PLC",
+      "contribution": 4.65,
+      "lastTradedTime": 1784883151583
+    },
+    {
+      "id": 336,
+      "symbol": "CARS.N0000",
+      "name": "CARSON CUMBERBATCH PLC",
+      "contribution": 3.55,
+      "lastTradedTime": 1784882578895
+    },
+    {
+      "id": 239,
+      "symbol": "DFCC.N0000",
+      "name": "DFCC BANK PLC",
+      "contribution": 2.5,
+      "lastTradedTime": 1784883585219
+    },
+    {
+      "id": 172,
+      "symbol": "HNB.N0000",
+      "name": "HATTON NATIONAL BANK PLC",
+      "contribution": -8.47,
+      "lastTradedTime": 1784883596969
+    },
+    {
+      "id": 91,
+      "symbol": "CINS.N0000",
+      "name": "CEYLINCO HOLDINGS PLC",
+      "contribution": -7.86,
+      "lastTradedTime": 1784879094301
+    },
+    {
+      "id": 74,
+      "symbol": "GRAN.N0000",
+      "name": "CEYLON GRAIN ELEVATORS PLC",
+      "contribution": -3.3,
+      "lastTradedTime": 1784883568667
+    },
+    {
+      "id": 208,
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "contribution": -2.68,
+      "lastTradedTime": 1784883594189
+    },
+    {
+      "id": 77,
+      "symbol": "NDB.N0000",
+      "name": "NATIONAL DEVELOPMENT BANK PLC",
+      "contribution": -2.55,
+      "lastTradedTime": 1784883524630
+    }
+  ]
+}
